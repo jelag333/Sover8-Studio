@@ -1,0 +1,43 @@
+{
+  "id": "machine-a-ecrire",
+  "nom": "Machine à écrire",
+  "police": "poppins-bold",
+  "taille": 72,
+  "couleur": "#FFFFFF",
+  "majuscules": false,
+  "ombre": {
+    "couleur": "#000000A0",
+    "flou": 14,
+    "decalage": [
+      0,
+      6
+    ]
+  },
+  "zone": "haut",
+  "largeur": 0.86,
+  "lignes": 2,
+  "entree": {
+    "anim": "machine",
+    "duree_ms": 900
+  },
+  "sortie": {
+    "anim": "fondu",
+    "duree_ms": 200
+  },
+  "sfx_entree": {
+    "role": "clic",
+    "decalage_ms": 0,
+    "volume": 0.2
+  },
+  "description": "Le texte s'écrit lettre par lettre.",
+  "usage": {
+    "role": "texte-info",
+    "quand": "Question, citation, recherche, contexte ('3 jours plus tard…').",
+    "eviter": "Textes de plus de 40 caractères (trop long à écrire).",
+    "placement": "Laisser 1 s de lecture après la fin de l'écriture.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "type": "texte-fx",
+  "chasse": 0.6
+}

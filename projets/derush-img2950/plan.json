@@ -1,0 +1,1288 @@
+{
+  "nom": "derush-img2950",
+  "format": "9:16",
+  "export": {
+    "resolution": "1080p",
+    "fps": 30
+  },
+  "_notes": "v3 : 50 ms entre phrases, source 1440p, zooms qui cadrent, ombre diffuse au lieu de la lueur jaune, flashs, sound design enrichi, Boonbuy.",
+  "voix": {
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/voix-dyn.wav",
+    "volume": 1.0
+  },
+  "lueur_defaut": "ombre",
+  "musique": {
+    "id": "gravitational-forces-by-blaumodus-muffled-tiktok-extended-version",
+    "source_debut_ms": 220,
+    "volume": 0.12,
+    "volume_sous_voix": 0.08,
+    "fondu_entree_ms": 120,
+    "fondu_sortie_ms": 700,
+    "pourquoi": "Son TikTok choisi par l'utilisateur (déjà étouffé : pas d'EQ). Son drop (2 s) tombe sur la fin de l'accroche ; ~20 dB sous la voix."
+  },
+  "clips": [
+    {
+      "nom": "Accroche",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+      "debut_ms": 448,
+      "fin_ms": 2281,
+      "volume": 0.0,
+      "source_rush_ms": [
+        24015,
+        25848
+      ],
+      "zooms": [
+        {
+          "t_ms": 640,
+          "zoom": 1.55,
+          "cible": "visage",
+          "duree_ms": 700,
+          "pourquoi": "Accroche : « la fin de la REP » est le choc ; punch serré sur « REP », il nous regarde droit dans les yeux.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "TikTok",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+      "debut_ms": 3131,
+      "fin_ms": 7465,
+      "volume": 0.0,
+      "source_rush_ms": [
+        51898,
+        56232
+      ],
+      "zooms": [
+        {
+          "t_ms": 3307,
+          "zoom": 1.4,
+          "cible": "visage",
+          "duree_ms": 700,
+          "pourquoi": "Promesse (« je vous explique ça maintenant ») : on cadre en plan poitrine, il s'adresse à nous.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "Identifiant",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+      "debut_ms": 8282,
+      "fin_ms": 12415,
+      "volume": 0.0,
+      "source_rush_ms": [
+        150982,
+        155115
+      ]
+    },
+    {
+      "nom": "Étiquette",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+      "debut_ms": 13212,
+      "fin_ms": 15745,
+      "volume": 0.0,
+      "source_rush_ms": [
+        222245,
+        224778
+      ],
+      "zoom": 1.15
+    },
+    {
+      "nom": "Blocage",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+      "debut_ms": 16591,
+      "fin_ms": 20591,
+      "volume": 0.0,
+      "source_rush_ms": [
+        262058,
+        266058
+      ],
+      "zooms": [
+        {
+          "t_ms": 2607,
+          "zoom": 1.6,
+          "cible": "visage",
+          "duree_ms": 600,
+          "pourquoi": "Conséquence (« le colis est BLOQUÉ ») : le plan le plus serré de la vidéo, avec le flash rouge et l'interdit.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "Rassure",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+      "debut_ms": 21446,
+      "fin_ms": 24080,
+      "volume": 0.0,
+      "source_rush_ms": [
+        277013,
+        279647
+      ],
+      "zooms": [
+        {
+          "t_ms": 57,
+          "zoom": 1.35,
+          "cible": "visage",
+          "duree_ms": 900,
+          "pourquoi": "Retournement (« je te rassure ») : rapprochement plus lent et moins serré, ton rassurant.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "Agents",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+      "debut_ms": 24890,
+      "fin_ms": 28323,
+      "volume": 0.0,
+      "source_rush_ms": [
+        304357,
+        307790
+      ],
+      "zoom": 1.15
+    },
+    {
+      "nom": "CTA",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+      "debut_ms": 29165,
+      "fin_ms": 35832,
+      "volume": 0.0,
+      "source_rush_ms": [
+        338565,
+        345232
+      ],
+      "zooms": [
+        {
+          "t_ms": 350,
+          "zoom": 1.5,
+          "cible": "visage",
+          "duree_ms": 700,
+          "pourquoi": "Rappel de l'accroche (« c'est TOUJOURS PAS la fin de la REP ») : la chute, même cadre serré que l'accroche.",
+          "ecran_y": 0.36
+        },
+        {
+          "t_ms": 1170,
+          "zoom": 1.0,
+          "cible": "plan",
+          "duree_ms": 900,
+          "pourquoi": "Nouvelle idée (l'offre) : on rend l'image large pour laisser la place aux coupons."
+        }
+      ]
+    }
+  ],
+  "stickers": [
+    {
+      "id": "icone-calendrier-1er-novembre",
+      "x": 0.5,
+      "y": 0.62,
+      "largeur": 0.3,
+      "apparait_ms": 1000,
+      "disparait_ms": 1810,
+      "pourquoi": "« le 1ER NOVEMBRE » : la date arrive sur « 1er », c'est l'info clé de l'accroche (carte dessinée)."
+    },
+    {
+      "id": "tel-rep-1",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.3,
+      "apparait_ms": 2520,
+      "disparait_ms": 3440,
+      "pourquoi": "« PLEIN de TikTok » : une vidéo verticale sur « plein », avec SES propres prises de l'accroche…"
+    },
+    {
+      "id": "tel-rep-2",
+      "x": 0.2,
+      "y": 0.63,
+      "largeur": 0.25,
+      "rotation": -8,
+      "apparait_ms": 2840,
+      "disparait_ms": 3440,
+      "pourquoi": "…puis deux autres, penchées, en cascade sur « TikTok » : tout le monde en parle."
+    },
+    {
+      "id": "tel-rep-3",
+      "x": 0.8,
+      "y": 0.63,
+      "largeur": 0.25,
+      "rotation": 8,
+      "apparait_ms": 2950,
+      "disparait_ms": 3440,
+      "pourquoi": "Troisième vidéo, décalée de 110 ms pour la cascade."
+    },
+    {
+      "id": "etiquette-produit-id",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.32,
+      "apparait_ms": 7585,
+      "disparait_ms": 9540,
+      "pourquoi": "« chaque ARTICLE » : l'étiquette du vêtement, avec son code-barres."
+    },
+    {
+      "id": "laser-scan",
+      "x": 0.5,
+      "y": 0.625,
+      "largeur": 0.25,
+      "apparait_ms": 8525,
+      "disparait_ms": 9150,
+      "lueur": "aucune",
+      "trajet": {
+        "a": [
+          0.5,
+          0.692
+        ],
+        "debut_ms": 8660,
+        "fin_ms": 9160,
+        "arc": 0.0
+      },
+      "pourquoi": "« un IDENTIFIANT produit » : le laser d'un lecteur balaie le code-barres (avec le bip)."
+    },
+    {
+      "id": "photo-declaration-douane-cn22",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.7,
+      "pop": 1.2,
+      "apparait_ms": 9685,
+      "disparait_ms": 10270,
+      "pourquoi": "« sur la DÉCLARATION » : une vraie déclaration CN 22 de colis Chine (photo Wikimedia, domaine public)."
+    },
+    {
+      "id": "photo-etiquette-colis-douane",
+      "x": 0.5,
+      "y": 0.615,
+      "largeur": 0.7,
+      "pop": 1.2,
+      "apparait_ms": 10900,
+      "disparait_ms": 16730,
+      "pourquoi": "« une ÉTIQUETTE qui dit ce qu'il y a dans le colis » : une vraie étiquette douane collée sur un colis venu de Chine (photo Wikimedia, domaine public). Elle reste pendant tout le problème."
+    },
+    {
+      "id": "tampon-bloque",
+      "x": 0.5,
+      "y": 0.615,
+      "largeur": 0.58,
+      "apparait_ms": 15460,
+      "disparait_ms": 16730,
+      "lueur": "aucune",
+      "pop": 1.35,
+      "pourquoi": "« le colis est BLOQUÉ » : un tampon rouge « BLOQUÉ » s'écrase sur l'étiquette."
+    },
+    {
+      "id": "logo-boonbuy",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.3,
+      "apparait_ms": 20000,
+      "disparait_ms": 20800,
+      "pourquoi": "« comme BOONBUY » : le logo de l'agent (fourni par l'utilisateur), coins arrondis + ombre portée."
+    },
+    {
+      "id": "bouton-lien-en-bio",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.6,
+      "apparait_ms": 25845,
+      "disparait_ms": 26510,
+      "pourquoi": "« le LIEN qui est dans ma bio » : un bouton d'interface, c'est l'action demandée."
+    },
+    {
+      "id": "icone-coupon-moins-40",
+      "x": 0.5,
+      "y": 0.62,
+      "largeur": 0.4,
+      "apparait_ms": 26545,
+      "disparait_ms": 29210,
+      "deplacements": [
+        {
+          "t_ms": 27350,
+          "x": 0.28,
+          "y": 0.62
+        }
+      ],
+      "pourquoi": "« MOINS 40 % » : le coupon rouge au centre, puis il glisse à gauche…"
+    },
+    {
+      "id": "icone-coupon-moins-500",
+      "x": 0.72,
+      "y": 0.62,
+      "largeur": 0.4,
+      "apparait_ms": 27485,
+      "disparait_ms": 29210,
+      "pourquoi": "…pour laisser la place au coupon vert « MOINS 500 $ » : les deux offres côte à côte jusqu'à la fin."
+    }
+  ],
+  "flashs": [
+    {
+      "t_ms": 15460,
+      "couleur": "#FF2A1F",
+      "pic": 18,
+      "montee_ms": 60,
+      "descente_ms": 520,
+      "pourquoi": "« BLOQUÉ » : bref voile rouge d'alerte, en même temps que le zoom serré, l'interdit et le son d'erreur."
+    },
+    {
+      "t_ms": 16765,
+      "couleur": "#FFFFFF",
+      "pic": 30,
+      "montee_ms": 40,
+      "descente_ms": 380,
+      "pourquoi": "« Je te rassure » : flash blanc sur la coupe, il marque le retournement (on passe du problème à la solution)."
+    }
+  ],
+  "sfx": [
+    {
+      "id": "impact-doux",
+      "t_ms": 680,
+      "sous_voix_db": 14,
+      "pourquoi": "Choc de l'accroche (« REP ») : impact grave et doux, synchronisé avec le zoom punch."
+    },
+    {
+      "id": "apparition",
+      "t_ms": 2520,
+      "pourquoi": "Premier téléphone (« plein ») : pop léger."
+    },
+    {
+      "id": "minimal-pop-click-ui-3-198303",
+      "t_ms": 2840,
+      "sous_voix_db": 15,
+      "pourquoi": "Les deux téléphones suivants : un seul petit clic, plus bas et plus sec, pour la cascade."
+    },
+    {
+      "id": "cinematic-ease-out-1",
+      "t_ms": 5140,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "Zoom de la promesse (courbe ease-out) : Motion SFX de la même courbe, le son épouse la caméra."
+    },
+    {
+      "id": "pop-bloup",
+      "t_ms": 7585,
+      "sous_voix_db": 13,
+      "pourquoi": "Apparition de l'article : pop rond."
+    },
+    {
+      "id": "beep",
+      "t_ms": 8525,
+      "calage": "debut",
+      "sous_voix_db": 17,
+      "pourquoi": "Code-barres : bip de scanner, très bas (son pur, il perce vite)."
+    },
+    {
+      "id": "paper-ease-out-1",
+      "t_ms": 9685,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "La déclaration : bruit de papier qui suit le pop du document."
+    },
+    {
+      "id": "jug-pop-3-186888",
+      "t_ms": 10900,
+      "sous_voix_db": 12,
+      "pourquoi": "Apparition de l'étiquette."
+    },
+    {
+      "id": "punch",
+      "t_ms": 15500,
+      "sous_voix_db": 12,
+      "pourquoi": "« bloqué » : le coup sourd du tampon qui s'écrase, avec le flash rouge et le zoom serré."
+    },
+    {
+      "id": "cinematic-ease-out-2",
+      "t_ms": 16890,
+      "calage": "debut",
+      "sous_voix_db": 15,
+      "pourquoi": "Zoom lent du retournement : souffle doux de la même courbe, plus bas que celui de la promesse."
+    },
+    {
+      "id": "cinemear-graphix-pop-finger-drum-on-a-tiny-vase",
+      "t_ms": 20000,
+      "sous_voix_db": 13,
+      "pourquoi": "Apparition du logo Boonbuy : pop net et court."
+    },
+    {
+      "id": "impact-doux",
+      "t_ms": 23250,
+      "sous_voix_db": 15,
+      "pourquoi": "« c'est TOUJOURS PAS la fin de la REP » : le même impact que l'accroche, rappel sonore de la phrase du début."
+    },
+    {
+      "id": "click-02",
+      "t_ms": 25845,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "« le lien dans ma bio » : clic, on appelle à cliquer."
+    },
+    {
+      "id": "cash-register-3",
+      "t_ms": 26545,
+      "sous_voix_db": 13,
+      "pourquoi": "« -40 % » : caisse enregistreuse, c'est l'argent économisé."
+    },
+    {
+      "id": "coins",
+      "t_ms": 27485,
+      "calage": "debut",
+      "pourquoi": "« -500 $ » : pièces, deuxième gain, son différent du premier."
+    }
+  ],
+  "sous_titres": {
+    "preset": "sover8-pop",
+    "mots": [
+      {
+        "mot": "C'est",
+        "debut_ms": 40,
+        "fin_ms": 200
+      },
+      {
+        "mot": "la",
+        "debut_ms": 200,
+        "fin_ms": 320
+      },
+      {
+        "mot": "fin",
+        "debut_ms": 320,
+        "fin_ms": 500
+      },
+      {
+        "mot": "de",
+        "debut_ms": 500,
+        "fin_ms": 580
+      },
+      {
+        "mot": "la",
+        "debut_ms": 590,
+        "fin_ms": 680
+      },
+      {
+        "mot": "REP,",
+        "debut_ms": 680,
+        "fin_ms": 840
+      },
+      {
+        "mot": "le",
+        "debut_ms": 980,
+        "fin_ms": 1040
+      },
+      {
+        "mot": "1er",
+        "debut_ms": 1070,
+        "fin_ms": 1300
+      },
+      {
+        "mot": "novembre.",
+        "debut_ms": 1300,
+        "fin_ms": 1680
+      },
+      {
+        "mot": "Vous",
+        "debut_ms": 1780,
+        "fin_ms": 1840
+      },
+      {
+        "mot": "avez",
+        "debut_ms": 1870,
+        "fin_ms": 2000
+      },
+      {
+        "mot": "sûrement",
+        "debut_ms": 2000,
+        "fin_ms": 2260
+      },
+      {
+        "mot": "dû",
+        "debut_ms": 2260,
+        "fin_ms": 2360
+      },
+      {
+        "mot": "voir",
+        "debut_ms": 2360,
+        "fin_ms": 2520
+      },
+      {
+        "mot": "plein",
+        "debut_ms": 2520,
+        "fin_ms": 2720
+      },
+      {
+        "mot": "de",
+        "debut_ms": 2720,
+        "fin_ms": 2840
+      },
+      {
+        "mot": "TikTok",
+        "debut_ms": 2840,
+        "fin_ms": 3060
+      },
+      {
+        "mot": "concernant",
+        "debut_ms": 3060,
+        "fin_ms": 3440
+      },
+      {
+        "mot": "le",
+        "debut_ms": 3440,
+        "fin_ms": 3520
+      },
+      {
+        "mot": "1er",
+        "debut_ms": 3530,
+        "fin_ms": 3780
+      },
+      {
+        "mot": "novembre",
+        "debut_ms": 3780,
+        "fin_ms": 4180
+      },
+      {
+        "mot": "et",
+        "debut_ms": 4180,
+        "fin_ms": 4380
+      },
+      {
+        "mot": "la",
+        "debut_ms": 4380,
+        "fin_ms": 4520
+      },
+      {
+        "mot": "fin",
+        "debut_ms": 4520,
+        "fin_ms": 4620
+      },
+      {
+        "mot": "de",
+        "debut_ms": 4620,
+        "fin_ms": 4700
+      },
+      {
+        "mot": "la",
+        "debut_ms": 4710,
+        "fin_ms": 4800
+      },
+      {
+        "mot": "REP",
+        "debut_ms": 4800,
+        "fin_ms": 4980
+      },
+      {
+        "mot": "et",
+        "debut_ms": 4980,
+        "fin_ms": 5140
+      },
+      {
+        "mot": "je",
+        "debut_ms": 5140,
+        "fin_ms": 5220
+      },
+      {
+        "mot": "vous",
+        "debut_ms": 5230,
+        "fin_ms": 5320
+      },
+      {
+        "mot": "explique",
+        "debut_ms": 5320,
+        "fin_ms": 5600
+      },
+      {
+        "mot": "ça",
+        "debut_ms": 5600,
+        "fin_ms": 5660
+      },
+      {
+        "mot": "maintenant.",
+        "debut_ms": 5690,
+        "fin_ms": 5900
+      },
+      {
+        "mot": "À",
+        "debut_ms": 6085,
+        "fin_ms": 6165
+      },
+      {
+        "mot": "partir",
+        "debut_ms": 6175,
+        "fin_ms": 6445
+      },
+      {
+        "mot": "du",
+        "debut_ms": 6445,
+        "fin_ms": 6605
+      },
+      {
+        "mot": "1er",
+        "debut_ms": 6605,
+        "fin_ms": 6885
+      },
+      {
+        "mot": "novembre,",
+        "debut_ms": 6885,
+        "fin_ms": 7305
+      },
+      {
+        "mot": "chaque",
+        "debut_ms": 7465,
+        "fin_ms": 7585
+      },
+      {
+        "mot": "article",
+        "debut_ms": 7585,
+        "fin_ms": 7945
+      },
+      {
+        "mot": "doit",
+        "debut_ms": 7945,
+        "fin_ms": 8185
+      },
+      {
+        "mot": "avoir",
+        "debut_ms": 8185,
+        "fin_ms": 8385
+      },
+      {
+        "mot": "un",
+        "debut_ms": 8385,
+        "fin_ms": 8525
+      },
+      {
+        "mot": "identifiant",
+        "debut_ms": 8525,
+        "fin_ms": 8965
+      },
+      {
+        "mot": "produit",
+        "debut_ms": 8965,
+        "fin_ms": 9245
+      },
+      {
+        "mot": "sur",
+        "debut_ms": 9245,
+        "fin_ms": 9565
+      },
+      {
+        "mot": "la",
+        "debut_ms": 9565,
+        "fin_ms": 9685
+      },
+      {
+        "mot": "déclaration.",
+        "debut_ms": 9685,
+        "fin_ms": 10105
+      },
+      {
+        "mot": "En",
+        "debut_ms": 10240,
+        "fin_ms": 10320
+      },
+      {
+        "mot": "gros,",
+        "debut_ms": 10330,
+        "fin_ms": 10500
+      },
+      {
+        "mot": "ce",
+        "debut_ms": 10620,
+        "fin_ms": 10680
+      },
+      {
+        "mot": "sera",
+        "debut_ms": 10710,
+        "fin_ms": 10770
+      },
+      {
+        "mot": "une",
+        "debut_ms": 10800,
+        "fin_ms": 10900
+      },
+      {
+        "mot": "étiquette",
+        "debut_ms": 10900,
+        "fin_ms": 11280
+      },
+      {
+        "mot": "qui",
+        "debut_ms": 11280,
+        "fin_ms": 11420
+      },
+      {
+        "mot": "dit",
+        "debut_ms": 11420,
+        "fin_ms": 11600
+      },
+      {
+        "mot": "exactement",
+        "debut_ms": 11600,
+        "fin_ms": 12080
+      },
+      {
+        "mot": "ce",
+        "debut_ms": 12080,
+        "fin_ms": 12220
+      },
+      {
+        "mot": "qu'il",
+        "debut_ms": 12220,
+        "fin_ms": 12300
+      },
+      {
+        "mot": "y",
+        "debut_ms": 12310,
+        "fin_ms": 12370
+      },
+      {
+        "mot": "a",
+        "debut_ms": 12400,
+        "fin_ms": 12460
+      },
+      {
+        "mot": "dans",
+        "debut_ms": 12490,
+        "fin_ms": 12550
+      },
+      {
+        "mot": "le",
+        "debut_ms": 12580,
+        "fin_ms": 12640
+      },
+      {
+        "mot": "colis.",
+        "debut_ms": 12670,
+        "fin_ms": 12730
+      },
+      {
+        "mot": "Et",
+        "debut_ms": 12780,
+        "fin_ms": 12840
+      },
+      {
+        "mot": "s'il",
+        "debut_ms": 12870,
+        "fin_ms": 13020
+      },
+      {
+        "mot": "n'y",
+        "debut_ms": 13020,
+        "fin_ms": 13120
+      },
+      {
+        "mot": "a",
+        "debut_ms": 13120,
+        "fin_ms": 13180
+      },
+      {
+        "mot": "pas",
+        "debut_ms": 13210,
+        "fin_ms": 13270
+      },
+      {
+        "mot": "cette",
+        "debut_ms": 13300,
+        "fin_ms": 13420
+      },
+      {
+        "mot": "étiquette",
+        "debut_ms": 13420,
+        "fin_ms": 13820
+      },
+      {
+        "mot": "ou",
+        "debut_ms": 13820,
+        "fin_ms": 13960
+      },
+      {
+        "mot": "que",
+        "debut_ms": 13960,
+        "fin_ms": 14020
+      },
+      {
+        "mot": "la",
+        "debut_ms": 14050,
+        "fin_ms": 14110
+      },
+      {
+        "mot": "déclaration",
+        "debut_ms": 14140,
+        "fin_ms": 14460
+      },
+      {
+        "mot": "est",
+        "debut_ms": 14460,
+        "fin_ms": 14660
+      },
+      {
+        "mot": "fausse,",
+        "debut_ms": 14660,
+        "fin_ms": 14940
+      },
+      {
+        "mot": "le",
+        "debut_ms": 15060,
+        "fin_ms": 15140
+      },
+      {
+        "mot": "colis",
+        "debut_ms": 15150,
+        "fin_ms": 15380
+      },
+      {
+        "mot": "est",
+        "debut_ms": 15380,
+        "fin_ms": 15460
+      },
+      {
+        "mot": "bloqué",
+        "debut_ms": 15470,
+        "fin_ms": 15800
+      },
+      {
+        "mot": "et",
+        "debut_ms": 15800,
+        "fin_ms": 15980
+      },
+      {
+        "mot": "reste",
+        "debut_ms": 15980,
+        "fin_ms": 16160
+      },
+      {
+        "mot": "à",
+        "debut_ms": 16160,
+        "fin_ms": 16220
+      },
+      {
+        "mot": "la",
+        "debut_ms": 16250,
+        "fin_ms": 16340
+      },
+      {
+        "mot": "frontière.",
+        "debut_ms": 16340,
+        "fin_ms": 16660
+      },
+      {
+        "mot": "Je",
+        "debut_ms": 16765,
+        "fin_ms": 16825
+      },
+      {
+        "mot": "te",
+        "debut_ms": 16855,
+        "fin_ms": 16925
+      },
+      {
+        "mot": "rassure",
+        "debut_ms": 16945,
+        "fin_ms": 17185
+      },
+      {
+        "mot": "tout",
+        "debut_ms": 17185,
+        "fin_ms": 17285
+      },
+      {
+        "mot": "de",
+        "debut_ms": 17285,
+        "fin_ms": 17365
+      },
+      {
+        "mot": "suite,",
+        "debut_ms": 17375,
+        "fin_ms": 17485
+      },
+      {
+        "mot": "c'est",
+        "debut_ms": 17625,
+        "fin_ms": 17705
+      },
+      {
+        "mot": "pas",
+        "debut_ms": 17715,
+        "fin_ms": 17775
+      },
+      {
+        "mot": "toi",
+        "debut_ms": 17805,
+        "fin_ms": 17865
+      },
+      {
+        "mot": "qui",
+        "debut_ms": 17895,
+        "fin_ms": 17985
+      },
+      {
+        "mot": "remplis",
+        "debut_ms": 17985,
+        "fin_ms": 18305
+      },
+      {
+        "mot": "ça,",
+        "debut_ms": 18305,
+        "fin_ms": 18405
+      },
+      {
+        "mot": "c'est",
+        "debut_ms": 18485,
+        "fin_ms": 18585
+      },
+      {
+        "mot": "ton",
+        "debut_ms": 18585,
+        "fin_ms": 18645
+      },
+      {
+        "mot": "agent",
+        "debut_ms": 18675,
+        "fin_ms": 18885
+      },
+      {
+        "mot": "qui",
+        "debut_ms": 18885,
+        "fin_ms": 18985
+      },
+      {
+        "mot": "s'en",
+        "debut_ms": 18985,
+        "fin_ms": 19125
+      },
+      {
+        "mot": "occupe.",
+        "debut_ms": 19125,
+        "fin_ms": 19385
+      },
+      {
+        "mot": "Les",
+        "debut_ms": 19400,
+        "fin_ms": 19540
+      },
+      {
+        "mot": "agents",
+        "debut_ms": 19540,
+        "fin_ms": 19800
+      },
+      {
+        "mot": "comme",
+        "debut_ms": 19800,
+        "fin_ms": 20000
+      },
+      {
+        "mot": "Boonbuy",
+        "debut_ms": 20000,
+        "fin_ms": 20480
+      },
+      {
+        "mot": "ont",
+        "debut_ms": 20480,
+        "fin_ms": 20640
+      },
+      {
+        "mot": "déjà",
+        "debut_ms": 20640,
+        "fin_ms": 20800
+      },
+      {
+        "mot": "trouvé",
+        "debut_ms": 20800,
+        "fin_ms": 21020
+      },
+      {
+        "mot": "des",
+        "debut_ms": 21020,
+        "fin_ms": 21140
+      },
+      {
+        "mot": "solutions",
+        "debut_ms": 21140,
+        "fin_ms": 21420
+      },
+      {
+        "mot": "à",
+        "debut_ms": 21420,
+        "fin_ms": 21540
+      },
+      {
+        "mot": "ce",
+        "debut_ms": 21540,
+        "fin_ms": 21620
+      },
+      {
+        "mot": "problème,",
+        "debut_ms": 21630,
+        "fin_ms": 21900
+      },
+      {
+        "mot": "donc",
+        "debut_ms": 22060,
+        "fin_ms": 22140
+      },
+      {
+        "mot": "ne",
+        "debut_ms": 22150,
+        "fin_ms": 22220
+      },
+      {
+        "mot": "vous",
+        "debut_ms": 22240,
+        "fin_ms": 22300
+      },
+      {
+        "mot": "inquiétez",
+        "debut_ms": 22330,
+        "fin_ms": 22580
+      },
+      {
+        "mot": "pas.",
+        "debut_ms": 22580,
+        "fin_ms": 22740
+      },
+      {
+        "mot": "Bref,",
+        "debut_ms": 22845,
+        "fin_ms": 23145
+      },
+      {
+        "mot": "c'est",
+        "debut_ms": 23145,
+        "fin_ms": 23265
+      },
+      {
+        "mot": "toujours",
+        "debut_ms": 23265,
+        "fin_ms": 23405
+      },
+      {
+        "mot": "pas",
+        "debut_ms": 23405,
+        "fin_ms": 23525
+      },
+      {
+        "mot": "la",
+        "debut_ms": 23525,
+        "fin_ms": 23625
+      },
+      {
+        "mot": "fin",
+        "debut_ms": 23625,
+        "fin_ms": 23745
+      },
+      {
+        "mot": "de",
+        "debut_ms": 23745,
+        "fin_ms": 23825
+      },
+      {
+        "mot": "la",
+        "debut_ms": 23835,
+        "fin_ms": 23905
+      },
+      {
+        "mot": "REP",
+        "debut_ms": 23925,
+        "fin_ms": 24085
+      },
+      {
+        "mot": "et",
+        "debut_ms": 24085,
+        "fin_ms": 24225
+      },
+      {
+        "mot": "si",
+        "debut_ms": 24225,
+        "fin_ms": 24325
+      },
+      {
+        "mot": "tu",
+        "debut_ms": 24325,
+        "fin_ms": 24445
+      },
+      {
+        "mot": "veux",
+        "debut_ms": 24445,
+        "fin_ms": 24565
+      },
+      {
+        "mot": "commander",
+        "debut_ms": 24565,
+        "fin_ms": 24865
+      },
+      {
+        "mot": "en",
+        "debut_ms": 24865,
+        "fin_ms": 25165
+      },
+      {
+        "mot": "t'inscrivant",
+        "debut_ms": 25165,
+        "fin_ms": 25565
+      },
+      {
+        "mot": "avec",
+        "debut_ms": 25565,
+        "fin_ms": 25745
+      },
+      {
+        "mot": "le",
+        "debut_ms": 25745,
+        "fin_ms": 25845
+      },
+      {
+        "mot": "lien",
+        "debut_ms": 25845,
+        "fin_ms": 25945
+      },
+      {
+        "mot": "qui",
+        "debut_ms": 25945,
+        "fin_ms": 26045
+      },
+      {
+        "mot": "est",
+        "debut_ms": 26045,
+        "fin_ms": 26105
+      },
+      {
+        "mot": "dans",
+        "debut_ms": 26135,
+        "fin_ms": 26195
+      },
+      {
+        "mot": "ma",
+        "debut_ms": 26225,
+        "fin_ms": 26285
+      },
+      {
+        "mot": "bio,",
+        "debut_ms": 26315,
+        "fin_ms": 26385
+      },
+      {
+        "mot": "t'as",
+        "debut_ms": 26405,
+        "fin_ms": 26545
+      },
+      {
+        "mot": "-40%",
+        "debut_ms": 26545,
+        "fin_ms": 27305
+      },
+      {
+        "mot": "et",
+        "debut_ms": 27305,
+        "fin_ms": 27485
+      },
+      {
+        "mot": "-500$",
+        "debut_ms": 27485,
+        "fin_ms": 28145
+      },
+      {
+        "mot": "en",
+        "debut_ms": 28145,
+        "fin_ms": 28285
+      },
+      {
+        "mot": "coupon",
+        "debut_ms": 28285,
+        "fin_ms": 28585
+      },
+      {
+        "mot": "sur",
+        "debut_ms": 28585,
+        "fin_ms": 28725
+      },
+      {
+        "mot": "ta",
+        "debut_ms": 28725,
+        "fin_ms": 28805
+      },
+      {
+        "mot": "livraison.",
+        "debut_ms": 28815,
+        "fin_ms": 29165
+      }
+    ],
+    "cles": [
+      {
+        "mot": "REP",
+        "t_ms": 680
+      },
+      {
+        "mot": "identifiant",
+        "t_ms": 8525
+      },
+      {
+        "mot": "bloqué",
+        "t_ms": 15460
+      },
+      {
+        "mot": "agent",
+        "t_ms": 18645
+      },
+      {
+        "mot": "toujours",
+        "t_ms": 23265
+      },
+      {
+        "mot": "-40%",
+        "t_ms": 26545
+      },
+      {
+        "mot": "-500$",
+        "t_ms": 27485
+      }
+    ],
+    "lignes": [
+      "C'est la fin",
+      "de la REP,",
+      "le 1er novembre.",
+      "Vous avez sûrement",
+      "dû voir plein",
+      "de TikTok concernant",
+      "le 1er novembre",
+      "et la fin de la REP",
+      "et je vous explique",
+      "ça maintenant.",
+      "À partir",
+      "du 1er novembre,",
+      "chaque article",
+      "doit avoir",
+      "un identifiant produit",
+      "sur la déclaration.",
+      "En gros,",
+      "ce sera une étiquette",
+      "qui dit exactement",
+      "ce qu'il y a",
+      "dans le colis.",
+      "Et s'il n'y a pas",
+      "cette étiquette",
+      "ou que la déclaration",
+      "est fausse,",
+      "le colis est bloqué",
+      "et reste",
+      "à la frontière.",
+      "Je te rassure",
+      "tout de suite,",
+      "c'est pas toi",
+      "qui remplis ça,",
+      "c'est ton agent",
+      "qui s'en occupe.",
+      "Les agents",
+      "comme Boonbuy",
+      "ont déjà trouvé",
+      "des solutions",
+      "à ce problème,",
+      "donc ne vous",
+      "inquiétez pas.",
+      "Bref,",
+      "c'est toujours pas",
+      "la fin de la REP",
+      "et si tu veux",
+      "commander",
+      "en t'inscrivant",
+      "avec le lien",
+      "qui est dans ma bio,",
+      "t'as -40%",
+      "et -500$ en coupon",
+      "sur ta livraison."
+    ],
+    "pourquoi": "Découpe au sens, écrite à la main ; couleur sur 7 mots : le choc (REP), la règle (identifiant), la conséquence (bloqué), la solution (agent), la chute (toujours) et l'offre (-40 %, -500 $)."
+  }
+}

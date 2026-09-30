@@ -1,0 +1,77 @@
+{
+  "total_ms": 23545,
+  "reperes": [
+    {
+      "nom": "Accroche",
+      "source_attaque": 30.05,
+      "source_fin": 32.03,
+      "attaque_ms": 40,
+      "fin_ms": 2020,
+      "decalage_ms": -30010.0,
+      "plan_ms": [
+        0,
+        2133
+      ]
+    },
+    {
+      "nom": "Top3",
+      "source_attaque": 40.38,
+      "source_fin": 45.575,
+      "attaque_ms": 2070,
+      "fin_ms": 7265,
+      "decalage_ms": -38310.0,
+      "plan_ms": [
+        2133,
+        7367
+      ]
+    },
+    {
+      "nom": "Top2",
+      "source_attaque": 110.14,
+      "source_fin": 114.715,
+      "attaque_ms": 7315,
+      "fin_ms": 11890,
+      "decalage_ms": -102825.0,
+      "plan_ms": [
+        7367,
+        12000
+      ]
+    },
+    {
+      "nom": "PNJ2",
+      "source_attaque": 116.155,
+      "source_fin": 118.04,
+      "attaque_ms": 11940,
+      "fin_ms": 13825,
+      "decalage_ms": -104215.0,
+      "plan_ms": [
+        12000,
+        13933
+      ]
+    },
+    {
+      "nom": "Top1",
+      "source_attaque": 177.32,
+      "source_fin": 180.93,
+      "attaque_ms": 13875,
+      "fin_ms": 17485,
+      "decalage_ms": -163445.0,
+      "plan_ms": [
+        13933,
+        17600
+      ]
+    },
+    {
+      "nom": "Burberry",
+      "source_attaque": 223.175,
+      "source_fin": 228.835,
+      "attaque_ms": 17535,
+      "fin_ms": 23195,
+      "decalage_ms": -205640.0,
+      "plan_ms": [
+        17600,
+        23533
+      ]
+    }
+  ]
+}

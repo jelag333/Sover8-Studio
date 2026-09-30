@@ -1,0 +1,314 @@
+[
+ {
+  "debut": 17.99,
+  "fin": 19.69,
+  "texte": "ton prochain hall va prendre du retard.",
+  "crete_db": -18.6
+ },
+ {
+  "debut": 22.1,
+  "fin": 23.99,
+  "texte": "Ton prochain hall va prendre du retard.",
+  "crete_db": -16.9
+ },
+ {
+  "debut": 27.39,
+  "fin": 28.53,
+  "texte": "Ton prochain haul ?",
+  "crete_db": -21.0
+ },
+ {
+  "debut": 30.9,
+  "fin": 32.47,
+  "texte": "Ton prochain hall va prendre du retard.",
+  "crete_db": -17.2
+ },
+ {
+  "debut": 33.19,
+  "fin": 34.77,
+  "texte": "Ton prochain haul va prendre du retard.",
+  "crete_db": -20.4
+ },
+ {
+  "debut": 35.32,
+  "fin": 36.97,
+  "texte": "Ton prochain haul va prendre du retard.",
+  "crete_db": -18.1
+ },
+ {
+  "debut": 51.34,
+  "fin": 53.07,
+  "texte": "Et oui, du 25 au 27...",
+  "crete_db": -20.8
+ },
+ {
+  "debut": 55.08,
+  "fin": 56.89,
+  "texte": "Et oui, du 25 au 27 septembre...",
+  "crete_db": -17.6
+ },
+ {
+  "debut": 57.09,
+  "fin": 61.75,
+  "texte": "Et oui, du 25 au 27 septembre et du 1 au 7 octobre, il y aura des vacances en Chine.",
+  "crete_db": -18.1
+ },
+ {
+  "debut": 65.54,
+  "fin": 70.23,
+  "texte": "Le point positif, c'est que Boonbuy ne ferme pas, il reste toujours actif, tout va fonctionner comme...",
+  "crete_db": -18.8
+ },
+ {
+  "debut": 70.73,
+  "fin": 73.15,
+  "texte": "Le point positif, c'est que Mumbai ne prend pas de vacances.",
+  "crete_db": -18.2
+ },
+ {
+  "debut": 74.47,
+  "fin": 78.2,
+  "texte": "Le point positif, c'est que Mumbai ne prend pas de vacances, donc tout tourne comme d'habitude.",
+  "crete_db": -19.8
+ },
+ {
+  "debut": 79.97,
+  "fin": 81.29,
+  "texte": "à chaque concours de qualité.",
+  "crete_db": -38.5
+ },
+ {
+  "debut": 85.69,
+  "fin": 94.67,
+  "texte": "Le point positif, c'est que Mumbai ne part pas en vacances. Donc il reste ouvert, ça tourne comme d'habitude. Que ce soit les achats, les photos QC, l'expédition, etc. Tout reste comme d'habitude.",
+  "crete_db": -21.9
+ },
+ {
+  "debut": 101.08,
+  "fin": 104.01,
+  "texte": "Sauf que pour les vendeurs, ça risque de ne pas être vraiment pareil.",
+  "crete_db": -20.6
+ },
+ {
+  "debut": 104.45,
+  "fin": 110.21,
+  "texte": "Sauf que pour les vendeurs, on ne sait pas trop. Ça va dépendre de chaque vendeur. Certains vont partir en vacances, donc ça va énormément.",
+  "crete_db": -18.7
+ },
+ {
+  "debut": 121.83,
+  "fin": 122.63,
+  "texte": "Sauf que...",
+  "crete_db": -20.9
+ },
+ {
+  "debut": 123.33,
+  "fin": 125.65,
+  "texte": "Le point négatif, c'est que les vendeurs...",
+  "crete_db": -19.9
+ },
+ {
+  "debut": 125.84,
+  "fin": 126.9,
+  "texte": "Le point négatif,",
+  "crete_db": -22.2
+ },
+ {
+  "debut": 127.67,
+  "fin": 133.55,
+  "texte": "Et le point pas ouf, c'est que les vendeurs, on n'en sait rien, il y en a certains qui vont pas prendre de vacances, d'autres vont partir en vacances.",
+  "crete_db": -19.9
+ },
+ {
+  "debut": 133.68,
+  "fin": 135.57,
+  "texte": "Donc ça se trouve qu'il y aura des colis qui vont être...",
+  "crete_db": -24.8
+ },
+ {
+  "debut": 136.6,
+  "fin": 137.46,
+  "texte": "Et le point.",
+  "crete_db": -23.3
+ },
+ {
+  "debut": 137.51,
+  "fin": 139.14,
+  "texte": "Et le point un peu négatif.",
+  "crete_db": -23.4
+ },
+ {
+  "debut": 139.84,
+  "fin": 145.57,
+  "texte": "Et le point un peu négatif, c'est concernant les vendeurs. Eux, on ne sait pas ce qu'ils vont faire. Il y en a certains qui vont partir en vacances, d'autres vont continuer.",
+  "crete_db": -19.5
+ },
+ {
+  "debut": 146.44,
+  "fin": 147.24,
+  "texte": "Et le point.",
+  "crete_db": -23.7
+ },
+ {
+  "debut": 147.57,
+  "fin": 148.73,
+  "texte": "Et le point pas ouf.",
+  "crete_db": -18.0
+ },
+ {
+  "debut": 148.96,
+  "fin": 150.82,
+  "texte": "Et le point pas où, c'est concernant les vendeurs.",
+  "crete_db": -20.7
+ },
+ {
+  "debut": 150.95,
+  "fin": 157.14,
+  "texte": "Et le point pas ouf, c'est concernant les vendeurs. Les vendeurs, on ne sait pas s'ils vont partir en vacances, on ne sait pas s'ils vont rester.",
+  "crete_db": -20.4
+ },
+ {
+  "debut": 157.26,
+  "fin": 158.09,
+  "texte": "S'il reste...",
+  "crete_db": -25.7
+ },
+ {
+  "debut": 158.75,
+  "fin": 163.49,
+  "texte": "Le point pas ouf, c'est concernant les vendeurs. Eux, on n'en sait rien. Il y en a qui vont partir en vacances.",
+  "crete_db": -17.4
+ },
+ {
+  "debut": 163.55,
+  "fin": 167.83,
+  "texte": "Et il y en a qui vont rester travailler normalement. Ceux qui partent en vacances, vous avez beaucoup de risques.",
+  "crete_db": -23.9
+ },
+ {
+  "debut": 169.17,
+  "fin": 171.97,
+  "texte": "Le point pas ouf, c'est concernant les vendeurs, parce que concernant les vendeurs...",
+  "crete_db": -21.0
+ },
+ {
+  "debut": 172.35,
+  "fin": 177.26,
+  "texte": "Le point pas ouf, c'est concernant les vendeurs, parce que chez eux, on n'a aucune information, ça va dépendre de chaque vendeur.",
+  "crete_db": -20.1
+ },
+ {
+  "debut": 177.37,
+  "fin": 180.66,
+  "texte": "Certains vont rester comme d'habitude et d'autres vont partir en vacances.",
+  "crete_db": -22.7
+ },
+ {
+  "debut": 182.86,
+  "fin": 184.59,
+  "texte": "C'est-à-dire que tu risques...",
+  "crete_db": -20.9
+ },
+ {
+  "debut": 185.06,
+  "fin": 189.61,
+  "texte": "Donc, tu risques d'avoir des délais supplémentaires du vendeur jusqu'à l'entrepôt.",
+  "crete_db": -21.7
+ },
+ {
+  "debut": 190.97,
+  "fin": 193.14,
+  "texte": "Donc, tu risques d'avoir des délais.",
+  "crete_db": -22.3
+ },
+ {
+  "debut": 193.72,
+  "fin": 197.76,
+  "texte": "Donc tu risques d'avoir des délais supplémentaires de ton vendeur jusqu'à l'entrepôt Mumbai.",
+  "crete_db": -20.7
+ },
+ {
+  "debut": 208.99,
+  "fin": 210.14,
+  "texte": "Et le point encore.",
+  "crete_db": -17.4
+ },
+ {
+  "debut": 211.54,
+  "fin": 213.72,
+  "texte": "Et le point vraiment compliqué, c'est Kli.",
+  "crete_db": -21.3
+ },
+ {
+  "debut": 214.12,
+  "fin": 217.19,
+  "texte": "Et le point vraiment compliqué, c'est qu'après les fêtes, l'hiver arrive.",
+  "crete_db": -21.1
+ },
+ {
+  "debut": 230.39,
+  "fin": 233.67,
+  "texte": "Les compagnies aériennes vont couper les vols, donc moins de vols, moins de...",
+  "crete_db": -18.0
+ },
+ {
+  "debut": 238.17,
+  "fin": 242.86,
+  "texte": "Les compagnies aériennes vont couper certains vols, c'est-à-dire qu'il y aura moins de place, donc forcément moins de place.",
+  "crete_db": -18.6
+ },
+ {
+  "debut": 247.24,
+  "fin": 248.59,
+  "texte": "Les compagnies aériennes vont couper.",
+  "crete_db": -20.0
+ },
+ {
+  "debut": 248.82,
+  "fin": 252.5,
+  "texte": "Les compagnies aériennes vont couper les vols, c'est-à-dire moins de vols, moins de place dans les soutes.",
+  "crete_db": -19.9
+ },
+ {
+  "debut": 252.55,
+  "fin": 255.9,
+  "texte": "Donc forcément plus cher et potentiellement plus de délai aussi.",
+  "crete_db": -22.7
+ },
+ {
+  "debut": 263.05,
+  "fin": 267.08,
+  "texte": "Donc si tu veux faire ton haul, fais le très prochain.",
+  "crete_db": -19.9
+ },
+ {
+  "debut": 268.31,
+  "fin": 272.67,
+  "texte": "Donc, si tu préparais un hall, fais-le avant le 25, avant que les fêtes tombent.",
+  "crete_db": -20.6
+ },
+ {
+  "debut": 277.57,
+  "fin": 279.14,
+  "texte": "Donc si tu voulais te faire un haul,",
+  "crete_db": -22.1
+ },
+ {
+  "debut": 279.59,
+  "fin": 283.58,
+  "texte": "Donc si tu avais un hall en tête, fais-le maintenant avant le 25, comme ça tu n'auras pas de problème.",
+  "crete_db": -17.5
+ },
+ {
+  "debut": 285.76,
+  "fin": 286.86,
+  "texte": "Et comme d'habitude,",
+  "crete_db": -24.9
+ },
+ {
+  "debut": 287.28,
+  "fin": 291.53,
+  "texte": "Et comme d'habitude, tu es à moins 40% et moins 500$ en coupon en t'inscrivant avec le lien qui est dans ma bio.",
+  "crete_db": -23.3
+ }
+]

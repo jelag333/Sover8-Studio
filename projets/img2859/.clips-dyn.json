@@ -1,0 +1,123 @@
+[
+  {
+    "nom": "Accroche",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 430,
+    "fin_ms": 1963,
+    "volume": 0.0,
+    "source_rush_ms": [
+      35430,
+      36963
+    ]
+  },
+  {
+    "nom": "Dates",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 2798,
+    "fin_ms": 7198,
+    "volume": 0.0,
+    "source_rush_ms": [
+      57298,
+      61698
+    ]
+  },
+  {
+    "nom": "Positif",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 8031,
+    "fin_ms": 16798,
+    "volume": 0.0,
+    "source_rush_ms": [
+      85898,
+      94665
+    ]
+  },
+  {
+    "nom": "Vendeurs",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 17613,
+    "fin_ms": 22313,
+    "volume": 0.0,
+    "source_rush_ms": [
+      172580,
+      177280
+    ]
+  },
+  {
+    "nom": "Certains",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 23152,
+    "fin_ms": 26219,
+    "volume": 0.0,
+    "source_rush_ms": [
+      177585,
+      180652
+    ]
+  },
+  {
+    "nom": "Delais",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 27037,
+    "fin_ms": 30837,
+    "volume": 0.0,
+    "source_rush_ms": [
+      193937,
+      197737
+    ]
+  },
+  {
+    "nom": "Hiver",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 31689,
+    "fin_ms": 34555,
+    "volume": 0.0,
+    "source_rush_ms": [
+      214322,
+      217188
+    ]
+  },
+  {
+    "nom": "Vols",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 35395,
+    "fin_ms": 38862,
+    "volume": 0.0,
+    "source_rush_ms": [
+      249028,
+      252495
+    ]
+  },
+  {
+    "nom": "Cher",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 39685,
+    "fin_ms": 42785,
+    "volume": 0.0,
+    "source_rush_ms": [
+      252785,
+      255885
+    ]
+  },
+  {
+    "nom": "Maintenant",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 43620,
+    "fin_ms": 47353,
+    "volume": 0.0,
+    "source_rush_ms": [
+      279820,
+      283553
+    ]
+  },
+  {
+    "nom": "CTA",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+    "debut_ms": 48170,
+    "fin_ms": 52404,
+    "volume": 0.0,
+    "source_rush_ms": [
+      287503,
+      291737
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "total_ms": 31585,
+  "reperes": [
+    {
+      "nom": "Accroche",
+      "source_attaque": 18.63,
+      "source_fin": 20.695,
+      "attaque_ms": 40,
+      "fin_ms": 2105,
+      "decalage_ms": -18590.0,
+      "plan_ms": [
+        0,
+        2233
+      ]
+    },
+    {
+      "nom": "Cause",
+      "source_attaque": 47.285,
+      "source_fin": 51.05,
+      "attaque_ms": 2155,
+      "fin_ms": 5920,
+      "decalage_ms": -45130.0,
+      "plan_ms": [
+        2233,
+        6033
+      ]
+    },
+    {
+      "nom": "Sugargoo",
+      "source_attaque": 95.805,
+      "source_fin": 98.405,
+      "attaque_ms": 5970,
+      "fin_ms": 8570,
+      "decalage_ms": -89835.0,
+      "plan_ms": [
+        6033,
+        8700
+      ]
+    },
+    {
+      "nom": "Marques",
+      "source_attaque": 98.815,
+      "source_fin": 104.15,
+      "attaque_ms": 8620,
+      "fin_ms": 13955,
+      "decalage_ms": -90195.0,
+      "plan_ms": [
+        8700,
+        14067
+      ]
+    },
+    {
+      "nom": "Personne",
+      "source_attaque": 115.935,
+      "source_fin": 118.795,
+      "attaque_ms": 14005,
+      "fin_ms": 16865,
+      "decalage_ms": -101930.0,
+      "plan_ms": [
+        14067,
+        16967
+      ]
+    },
+    {
+      "nom": "Fin",
+      "source_attaque": 181.385,
+      "source_fin": 185.47,
+      "attaque_ms": 16915,
+      "fin_ms": 21000,
+      "decalage_ms": -164470.0,
+      "plan_ms": [
+        16967,
+        21133
+      ]
+    },
+    {
+      "nom": "Compliqué",
+      "source_attaque": 185.81,
+      "source_fin": 187.825,
+      "attaque_ms": 21050,
+      "fin_ms": 23065,
+      "decalage_ms": -164760.0,
+      "plan_ms": [
+        21133,
+        23167
+      ]
+    },
+    {
+      "nom": "CTA",
+      "source_attaque": 220.92,
+      "source_fin": 229.04,
+      "attaque_ms": 23115,
+      "fin_ms": 31235,
+      "decalage_ms": -197805.0,
+      "plan_ms": [
+        23167,
+        31600
+      ]
+    }
+  ]
+}

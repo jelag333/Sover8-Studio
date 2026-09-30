@@ -1,0 +1,46 @@
+{
+  "id": "mot-cle-jaune",
+  "nom": "Mot-clé jaune",
+  "police": "poppins-extrabold",
+  "taille": 96,
+  "couleur": "#FFD400",
+  "majuscules": true,
+  "contour": {
+    "couleur": "#000000",
+    "epaisseur": 8
+  },
+  "ombre": {
+    "couleur": "#000000A0",
+    "flou": 14,
+    "decalage": [
+      0,
+      6
+    ]
+  },
+  "zone": "tiers-haut",
+  "largeur": 0.8,
+  "lignes": 1,
+  "entree": {
+    "anim": "pop",
+    "duree_ms": 200
+  },
+  "sortie": {
+    "anim": "fondu",
+    "duree_ms": 120
+  },
+  "sfx_entree": {
+    "role": "pop",
+    "decalage_ms": 0
+  },
+  "description": "Un ou deux mots importants qui surgissent au-dessus du sujet.",
+  "usage": {
+    "role": "mot-cle",
+    "quand": "Souligner un mot important prononcé (chiffre, bénéfice, nom).",
+    "eviter": "Plus d'un toutes les 4-5 secondes.",
+    "placement": "Apparaît sur le mot prononcé, reste 0,8 à 1,5 s.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "type": "texte-fx",
+  "chasse": 0.7
+}

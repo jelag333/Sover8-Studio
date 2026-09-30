@@ -1,0 +1,90 @@
+[
+  {
+    "nom": "Accroche",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+    "debut_ms": 448,
+    "fin_ms": 2281,
+    "volume": 0.0,
+    "source_rush_ms": [
+      24015,
+      25848
+    ]
+  },
+  {
+    "nom": "TikTok",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+    "debut_ms": 3131,
+    "fin_ms": 7465,
+    "volume": 0.0,
+    "source_rush_ms": [
+      51898,
+      56232
+    ]
+  },
+  {
+    "nom": "Identifiant",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+    "debut_ms": 8282,
+    "fin_ms": 12415,
+    "volume": 0.0,
+    "source_rush_ms": [
+      150982,
+      155115
+    ]
+  },
+  {
+    "nom": "Étiquette",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+    "debut_ms": 13212,
+    "fin_ms": 15745,
+    "volume": 0.0,
+    "source_rush_ms": [
+      222245,
+      224778
+    ]
+  },
+  {
+    "nom": "Blocage",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+    "debut_ms": 16591,
+    "fin_ms": 20591,
+    "volume": 0.0,
+    "source_rush_ms": [
+      262058,
+      266058
+    ]
+  },
+  {
+    "nom": "Rassure",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+    "debut_ms": 21446,
+    "fin_ms": 24080,
+    "volume": 0.0,
+    "source_rush_ms": [
+      277013,
+      279647
+    ]
+  },
+  {
+    "nom": "Agents",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+    "debut_ms": 24890,
+    "fin_ms": 28323,
+    "volume": 0.0,
+    "source_rush_ms": [
+      304357,
+      307790
+    ]
+  },
+  {
+    "nom": "CTA",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/derush-img2950/rushes/selects-1440.mp4",
+    "debut_ms": 29165,
+    "fin_ms": 35832,
+    "volume": 0.0,
+    "source_rush_ms": [
+      338565,
+      345232
+    ]
+  }
+]

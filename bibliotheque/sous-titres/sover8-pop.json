@@ -1,0 +1,35 @@
+{
+  "id": "sover8-pop",
+  "type": "sous-titres",
+  "nom": "Sover8 Pop (mot à mot)",
+  "police": "poppins-bold",
+  "taille": 62,
+  "couleur": "#FFFFFF",
+  "couleur_cle": "#FFC21A",
+  "mode": "pop-mots",
+  "mots_max": 3,
+  "caracteres_max": 20,
+  "pause_coupe_ms": 400,
+  "y": 0.8,
+  "pop": 1.06,
+  "ombre": {
+    "couleur": "#000000C8",
+    "flou": 14,
+    "decalage": [
+      0,
+      3
+    ],
+    "etalement": 3
+  },
+  "description": "Blanc propre, ombre douce ; chaque mot pope quand il est prononcé ; mots clés en jaune doré.",
+  "usage": {
+    "role": "sous-titres",
+    "quand": "Shorts/Reels face caméra : sous-titres lisibles et vivants sans être envahissants.",
+    "eviter": "Plus de 3 mots à l'écran ; texte énorme.",
+    "placement": "Bas (80 % de la hauteur), au-dessus d'un objet s'il y en a un.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "espace": 1.15,
+  "depart": 45
+}

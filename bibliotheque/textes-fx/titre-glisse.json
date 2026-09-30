@@ -1,0 +1,47 @@
+{
+  "id": "titre-glisse",
+  "nom": "Titre glissé",
+  "police": "bebasneue-regular",
+  "taille": 120,
+  "couleur": "#FFFFFF",
+  "majuscules": true,
+  "ombre": {
+    "couleur": "#000000A0",
+    "flou": 14,
+    "decalage": [
+      0,
+      6
+    ]
+  },
+  "zone": "tiers-haut",
+  "largeur": 0.86,
+  "lignes": 2,
+  "interlettrage": 20,
+  "entree": {
+    "anim": "glisse-haut",
+    "duree_ms": 350
+  },
+  "sortie": {
+    "anim": "glisse-bas",
+    "duree_ms": 250
+  },
+  "mise_en_avant": {
+    "couleur": "#39E07A"
+  },
+  "sfx_entree": {
+    "role": "whoosh",
+    "decalage_ms": 0,
+    "volume": 0.25
+  },
+  "description": "Titre sobre qui glisse depuis le bas ; bon pour les chapitres.",
+  "usage": {
+    "role": "chapitre",
+    "quand": "Titre de partie, chapitre YouTube, nom d'un lieu ou d'une personne.",
+    "eviter": "Pubs très rythmées (préférer Titre Pop).",
+    "placement": "Début de partie, 2 à 3 s.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "type": "texte-fx",
+  "chasse": 0.42
+}

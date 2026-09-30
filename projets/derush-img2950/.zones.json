@@ -1,0 +1,608 @@
+[
+ {
+  "debut_ms": 4770,
+  "fin_ms": 6410,
+  "texte": "C'est la fin de la REP le 1er novembre.",
+  "crete_db": -14.1
+ },
+ {
+  "debut_ms": 7990,
+  "fin_ms": 10210,
+  "texte": "C'est la fin de l'arrêt, le 1er novembre.",
+  "crete_db": -10.6
+ },
+ {
+  "debut_ms": 11050,
+  "fin_ms": 12510,
+  "texte": "C'est la fin de la REP le 1er novembre.",
+  "crete_db": -15.2
+ },
+ {
+  "debut_ms": 14250,
+  "fin_ms": 15830,
+  "texte": "C'est la fin de la REP, le 1er novembre.",
+  "crete_db": -13.6
+ },
+ {
+  "debut_ms": 17060,
+  "fin_ms": 18860,
+  "texte": "C'est la fin de la REP, le 1er novembre.",
+  "crete_db": -14.1
+ },
+ {
+  "debut_ms": 20870,
+  "fin_ms": 22350,
+  "texte": "C'est la fin de la rep, le 1er novembre.",
+  "crete_db": -15.9
+ },
+ {
+  "debut_ms": 24060,
+  "fin_ms": 25770,
+  "texte": "C'est la fin de la REP, le 1er novembre.",
+  "crete_db": -15.1
+ },
+ {
+  "debut_ms": 32240,
+  "fin_ms": 32550,
+  "texte": "Merci.",
+  "crete_db": -40.2
+ },
+ {
+  "debut_ms": 38400,
+  "fin_ms": 39210,
+  "texte": "Vous avez dû voir sur...",
+  "crete_db": -14.1
+ },
+ {
+  "debut_ms": 39800,
+  "fin_ms": 41400,
+  "texte": "Vous avez sûrement dû voir plein de fois le...",
+  "crete_db": -16.3
+ },
+ {
+  "debut_ms": 43800,
+  "fin_ms": 44170,
+  "texte": "Vous avez du...",
+  "crete_db": -30.9
+ },
+ {
+  "debut_ms": 44420,
+  "fin_ms": 47270,
+  "texte": "Vous avez sûrement dû voir plein de TikTok concernant le 1er novembre à la fin de l'année.",
+  "crete_db": -27.0
+ },
+ {
+  "debut_ms": 49160,
+  "fin_ms": 49320,
+  "texte": "Merci.",
+  "crete_db": -40.3
+ },
+ {
+  "debut_ms": 49530,
+  "fin_ms": 50000,
+  "texte": "Sous-titrage ST' 501",
+  "crete_db": -21.1
+ },
+ {
+  "debut_ms": 51010,
+  "fin_ms": 51400,
+  "texte": "Vous avez...",
+  "crete_db": -19.0
+ },
+ {
+  "debut_ms": 51850,
+  "fin_ms": 56100,
+  "texte": "Vous avez sûrement dû voir plein de Tik Tok concernant le 1er novembre et la fin de la rep et je vous explique ça maintenant.",
+  "crete_db": -13.5
+ },
+ {
+  "debut_ms": 61000,
+  "fin_ms": 61200,
+  "texte": "Merci.",
+  "crete_db": -36.9
+ },
+ {
+  "debut_ms": 64800,
+  "fin_ms": 64950,
+  "texte": "C'est cool.",
+  "crete_db": -39.9
+ },
+ {
+  "debut_ms": 65210,
+  "fin_ms": 66980,
+  "texte": "à partir du 1er novembre chaque article",
+  "crete_db": -22.6
+ },
+ {
+  "debut_ms": 67160,
+  "fin_ms": 68950,
+  "texte": "Il doit avoir une notion de produit sur la déclaration.",
+  "crete_db": -35.9
+ },
+ {
+  "debut_ms": 69620,
+  "fin_ms": 70400,
+  "texte": "En gros, en coquille.",
+  "crete_db": -34.1
+ },
+ {
+  "debut_ms": 70620,
+  "fin_ms": 71800,
+  "texte": "exactement ce qu'il y a dans le code",
+  "crete_db": -31.9
+ },
+ {
+  "debut_ms": 72060,
+  "fin_ms": 72430,
+  "texte": "Merci.",
+  "crete_db": -25.5
+ },
+ {
+  "debut_ms": 73100,
+  "fin_ms": 73500,
+  "texte": "Merci.",
+  "crete_db": -35.3
+ },
+ {
+  "debut_ms": 74360,
+  "fin_ms": 74960,
+  "texte": "Merci.",
+  "crete_db": -19.8
+ },
+ {
+  "debut_ms": 78070,
+  "fin_ms": 79010,
+  "texte": "A partir du promo.",
+  "crete_db": -13.3
+ },
+ {
+  "debut_ms": 81330,
+  "fin_ms": 83880,
+  "texte": "à partir du 1er novembre chaque article doit avoir",
+  "crete_db": -16.0
+ },
+ {
+  "debut_ms": 88600,
+  "fin_ms": 88810,
+  "texte": "Adios.",
+  "crete_db": -36.4
+ },
+ {
+  "debut_ms": 89150,
+  "fin_ms": 89530,
+  "texte": "un identif",
+  "crete_db": -36.2
+ },
+ {
+  "debut_ms": 89720,
+  "fin_ms": 90490,
+  "texte": "sont produits sur la déclaration.",
+  "crete_db": -34.8
+ },
+ {
+  "debut_ms": 91660,
+  "fin_ms": 91920,
+  "texte": "Un identif.",
+  "crete_db": -39.6
+ },
+ {
+  "debut_ms": 92110,
+  "fin_ms": 92930,
+  "texte": "de produits sur la déclaration.",
+  "crete_db": -41.7
+ },
+ {
+  "debut_ms": 102720,
+  "fin_ms": 103230,
+  "texte": "A partir !",
+  "crete_db": -19.6
+ },
+ {
+  "debut_ms": 107400,
+  "fin_ms": 109400,
+  "texte": "A partir du 1er novembre, chaque article",
+  "crete_db": -17.3
+ },
+ {
+  "debut_ms": 113140,
+  "fin_ms": 117190,
+  "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur chaque déclaration.",
+  "crete_db": -15.6
+ },
+ {
+  "debut_ms": 119990,
+  "fin_ms": 120750,
+  "texte": "A partir du...",
+  "crete_db": -12.7
+ },
+ {
+  "debut_ms": 120980,
+  "fin_ms": 123790,
+  "texte": "A partir du 1er novembre, chaque article doit avoir un identif...",
+  "crete_db": -12.3
+ },
+ {
+  "debut_ms": 124590,
+  "fin_ms": 126240,
+  "texte": "à partir du 1er novembre chaque",
+  "crete_db": -15.6
+ },
+ {
+  "debut_ms": 126460,
+  "fin_ms": 130290,
+  "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur la déclaration.",
+  "crete_db": -12.9
+ },
+ {
+  "debut_ms": 133420,
+  "fin_ms": 135240,
+  "texte": "En gros, c'est un code qui dit exactement ce qu'il y a dans le code.",
+  "crete_db": -23.1
+ },
+ {
+  "debut_ms": 140850,
+  "fin_ms": 141420,
+  "texte": "C'est l'article d'Ovral.",
+  "crete_db": -41.8
+ },
+ {
+  "debut_ms": 143750,
+  "fin_ms": 145410,
+  "texte": "à partir du 1er novembre chaque",
+  "crete_db": -16.6
+ },
+ {
+  "debut_ms": 145900,
+  "fin_ms": 149650,
+  "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur la déclaration.",
+  "crete_db": -14.7
+ },
+ {
+  "debut_ms": 150900,
+  "fin_ms": 155020,
+  "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur la déclaration.",
+  "crete_db": -16.9
+ },
+ {
+  "debut_ms": 156360,
+  "fin_ms": 157640,
+  "texte": "à partir du 1er novembre",
+  "crete_db": -16.3
+ },
+ {
+  "debut_ms": 158320,
+  "fin_ms": 159560,
+  "texte": "A partir du 1er novembre...",
+  "crete_db": -17.2
+ },
+ {
+  "debut_ms": 160110,
+  "fin_ms": 160410,
+  "texte": "Voilà.",
+  "crete_db": -23.1
+ },
+ {
+  "debut_ms": 161200,
+  "fin_ms": 161680,
+  "texte": "Ah.",
+  "crete_db": -24.7
+ },
+ {
+  "debut_ms": 163500,
+  "fin_ms": 167490,
+  "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur la déclaration.",
+  "crete_db": -15.9
+ },
+ {
+  "debut_ms": 170010,
+  "fin_ms": 170530,
+  "texte": "En gros, c'est...",
+  "crete_db": -22.3
+ },
+ {
+  "debut_ms": 171000,
+  "fin_ms": 171600,
+  "texte": "En gros, c'est un…",
+  "crete_db": -20.4
+ },
+ {
+  "debut_ms": 173170,
+  "fin_ms": 173730,
+  "texte": "A partir !",
+  "crete_db": -14.5
+ },
+ {
+  "debut_ms": 173950,
+  "fin_ms": 177870,
+  "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur la déclaration.",
+  "crete_db": -14.5
+ },
+ {
+  "debut_ms": 182220,
+  "fin_ms": 183280,
+  "texte": "En gros, c'est un code...",
+  "crete_db": -15.1
+ },
+ {
+  "debut_ms": 186890,
+  "fin_ms": 188070,
+  "texte": "En gros, c'est une étiquette.",
+  "crete_db": -14.6
+ },
+ {
+  "debut_ms": 188340,
+  "fin_ms": 188580,
+  "texte": "Au...",
+  "crete_db": -18.1
+ },
+ {
+  "debut_ms": 188930,
+  "fin_ms": 192240,
+  "texte": "En gros, c'est une étiquette sur le colis qui dit exactement ce qu'il y a dans ce colis.",
+  "crete_db": -16.2
+ },
+ {
+  "debut_ms": 197330,
+  "fin_ms": 198010,
+  "texte": "En gros, c'est...",
+  "crete_db": -18.3
+ },
+ {
+  "debut_ms": 198290,
+  "fin_ms": 199370,
+  "texte": "En gros, c'est une étiquette.",
+  "crete_db": -18.0
+ },
+ {
+  "debut_ms": 201520,
+  "fin_ms": 204390,
+  "texte": "En gros, ce sera une étiquette qui dira exactement ce qu'il y a dans ce colis.",
+  "crete_db": -15.5
+ },
+ {
+  "debut_ms": 208530,
+  "fin_ms": 209870,
+  "texte": "En gros, ce serait une étiquette.",
+  "crete_db": -17.4
+ },
+ {
+  "debut_ms": 210490,
+  "fin_ms": 213130,
+  "texte": "En gros, ça sera une étiquette qui dit exactement ce qu'il y a dans le colis.",
+  "crete_db": -14.5
+ },
+ {
+  "debut_ms": 214700,
+  "fin_ms": 216890,
+  "texte": "En gros, ce sera une étiquette qui dit exactement",
+  "crete_db": -14.7
+ },
+ {
+  "debut_ms": 217260,
+  "fin_ms": 219720,
+  "texte": "En gros, ce serait une étiquette qui dit exactement ce qu'il y a dans le produit.",
+  "crete_db": -14.5
+ },
+ {
+  "debut_ms": 220580,
+  "fin_ms": 221660,
+  "texte": "En gros, ce sera une étiquette.",
+  "crete_db": -16.1
+ },
+ {
+  "debut_ms": 222180,
+  "fin_ms": 224670,
+  "texte": "En gros, ce sera une étiquette qui dit exactement ce qu'il y a dans le colis.",
+  "crete_db": -16.7
+ },
+ {
+  "debut_ms": 231080,
+  "fin_ms": 232600,
+  "texte": "Et si cette étiquette n'y est pas...",
+  "crete_db": -29.0
+ },
+ {
+  "debut_ms": 233000,
+  "fin_ms": 235550,
+  "texte": "Ou si elle est fausse, la déclaration est rejetée et que le dit reste à la frontière.",
+  "crete_db": -29.6
+ },
+ {
+  "debut_ms": 238780,
+  "fin_ms": 239200,
+  "texte": "et si",
+  "crete_db": -12.9
+ },
+ {
+  "debut_ms": 239490,
+  "fin_ms": 240560,
+  "texte": "Et s'il n'y a pas cette étiquette ?",
+  "crete_db": -13.0
+ },
+ {
+  "debut_ms": 241020,
+  "fin_ms": 242210,
+  "texte": "Et s'il n'y a pas cette étiquette ?",
+  "crete_db": -15.0
+ },
+ {
+  "debut_ms": 242420,
+  "fin_ms": 244390,
+  "texte": "Et s'il n'y a pas cette étiquette ?",
+  "crete_db": -15.5
+ },
+ {
+  "debut_ms": 244710,
+  "fin_ms": 245910,
+  "texte": "Et s'il n'y a pas cette étiquette ?",
+  "crete_db": -14.8
+ },
+ {
+  "debut_ms": 247030,
+  "fin_ms": 248030,
+  "texte": "Et s'il n'y a pas...",
+  "crete_db": -12.9
+ },
+ {
+  "debut_ms": 248770,
+  "fin_ms": 251470,
+  "texte": "Et s'il n'y a pas cette étiquette ou que la déclaration est fausse ?",
+  "crete_db": -15.5
+ },
+ {
+  "debut_ms": 259280,
+  "fin_ms": 260300,
+  "texte": "Et si cette étiquette",
+  "crete_db": -16.4
+ },
+ {
+  "debut_ms": 260970,
+  "fin_ms": 261810,
+  "texte": "Et s'il n'y a pas ?",
+  "crete_db": -15.7
+ },
+ {
+  "debut_ms": 262000,
+  "fin_ms": 265930,
+  "texte": "Et s'il n'y a pas cette étiquette ou que la déclaration est fausse, le colis est bloqué et reste à la frontière.",
+  "crete_db": -15.4
+ },
+ {
+  "debut_ms": 271120,
+  "fin_ms": 271320,
+  "texte": "Sous-titrage ST' 501",
+  "crete_db": -39.0
+ },
+ {
+  "debut_ms": 273190,
+  "fin_ms": 274180,
+  "texte": "Mais je te rassure tout de suite.",
+  "crete_db": -19.2
+ },
+ {
+  "debut_ms": 274400,
+  "fin_ms": 274820,
+  "texte": "Je te rassure.",
+  "crete_db": -16.6
+ },
+ {
+  "debut_ms": 275090,
+  "fin_ms": 276630,
+  "texte": "Je te rassure tout de suite, c'est pas toi qui rends...",
+  "crete_db": -19.6
+ },
+ {
+  "debut_ms": 276940,
+  "fin_ms": 279530,
+  "texte": "Je te rassure tout de suite, c'est pas toi qui remplis ça, c'est ton agent qui s'en occupe.",
+  "crete_db": -21.4
+ },
+ {
+  "debut_ms": 283810,
+  "fin_ms": 283960,
+  "texte": "Merci.",
+  "crete_db": -38.2
+ },
+ {
+  "debut_ms": 284220,
+  "fin_ms": 284410,
+  "texte": "C'est parti.",
+  "crete_db": -37.7
+ },
+ {
+  "debut_ms": 285830,
+  "fin_ms": 286460,
+  "texte": "Les agents.",
+  "crete_db": -17.4
+ },
+ {
+  "debut_ms": 292180,
+  "fin_ms": 293320,
+  "texte": "Les agents comme Mumbai...",
+  "crete_db": -13.0
+ },
+ {
+  "debut_ms": 293510,
+  "fin_ms": 296440,
+  "texte": "Les agents comme Boombay, etc. ont déjà trouvé des solutions à ce problème.",
+  "crete_db": -12.2
+ },
+ {
+  "debut_ms": 297370,
+  "fin_ms": 298930,
+  "texte": "Les agents comme Boombay, etc.",
+  "crete_db": -12.8
+ },
+ {
+  "debut_ms": 299310,
+  "fin_ms": 300560,
+  "texte": "Les agents comme Boonbaï.",
+  "crete_db": -15.8
+ },
+ {
+  "debut_ms": 300940,
+  "fin_ms": 302840,
+  "texte": "Les agents comme Mumbai ont déjà trouvé des...",
+  "crete_db": -17.0
+ },
+ {
+  "debut_ms": 303020,
+  "fin_ms": 303220,
+  "texte": "Sous-titrage ST' 501",
+  "crete_db": -31.8
+ },
+ {
+  "debut_ms": 304290,
+  "fin_ms": 307670,
+  "texte": "Les agents comme Boonbaï ont déjà trouvé des solutions à ce problème, donc ne vous inquiétez pas.",
+  "crete_db": -12.6
+ },
+ {
+  "debut_ms": 314270,
+  "fin_ms": 314910,
+  "texte": "C'est parti.",
+  "crete_db": -43.2
+ },
+ {
+  "debut_ms": 326670,
+  "fin_ms": 327150,
+  "texte": "Bref.",
+  "crete_db": -17.5
+ },
+ {
+  "debut_ms": 328020,
+  "fin_ms": 329280,
+  "texte": "Bref, c'est toujours pas la fin de la rap.",
+  "crete_db": -17.2
+ },
+ {
+  "debut_ms": 329920,
+  "fin_ms": 330330,
+  "texte": "Bref.",
+  "crete_db": -16.8
+ },
+ {
+  "debut_ms": 330980,
+  "fin_ms": 332570,
+  "texte": "Bref, c'est toujours pas la fin de la rep.",
+  "crete_db": -19.4
+ },
+ {
+  "debut_ms": 333290,
+  "fin_ms": 336140,
+  "texte": "bref c'est toujours pas la fin de la règle et si tu veux t'inscrire il ya moins 40",
+  "crete_db": -20.0
+ },
+ {
+  "debut_ms": 337410,
+  "fin_ms": 338270,
+  "texte": "Bref, c'est toujours pas...",
+  "crete_db": -18.7
+ },
+ {
+  "debut_ms": 338510,
+  "fin_ms": 344880,
+  "texte": "Bref, c'est toujours pas la fin de la REP et si tu veux commander en t'inscrivant avec le lien qui est dans ma bio, t'as moins 40% et moins 500$ en coupon sur ta livraison.",
+  "crete_db": -17.2
+ }
+]

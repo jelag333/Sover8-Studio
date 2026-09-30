@@ -1,0 +1,46 @@
+{
+  "id": "titre-impact",
+  "nom": "Titre Impact",
+  "police": "anton-regular",
+  "taille": 150,
+  "couleur": "#FFFFFF",
+  "majuscules": true,
+  "ombre": {
+    "couleur": "#000000C0",
+    "flou": 22,
+    "decalage": [
+      0,
+      10
+    ]
+  },
+  "zone": "centre",
+  "largeur": 0.9,
+  "lignes": 2,
+  "interlettrage": 10,
+  "entree": {
+    "anim": "zoom-doux",
+    "duree_ms": 320
+  },
+  "sortie": {
+    "anim": "pop",
+    "duree_ms": 160
+  },
+  "mise_en_avant": {
+    "couleur": "#FF3D3D"
+  },
+  "sfx_entree": {
+    "role": "impact",
+    "decalage_ms": 0
+  },
+  "description": "Gros titre condensé qui arrive en zoom avec un impact sonore.",
+  "usage": {
+    "role": "titre",
+    "quand": "Révélation, chiffre clé, drop musical, titre de pub.",
+    "eviter": "Textes longs ; vidéos calmes.",
+    "placement": "Sur un temps fort de la musique ou une coupe ; impact sur l'apparition.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "type": "texte-fx",
+  "chasse": 0.47
+}

@@ -1,0 +1,13 @@
+- [Nom : Sover8](nom-sover8.md) — je m'appelle Sover8 (« sover-eight ») avec lui
+- [Langue : français](user-language-french.md) — toujours répondre en français
+- [Studio Tesseract](studio-tesseract-projet.md) — studio de montage local, catalogue en ligne, pièges tsrct
+- [Style des zooms](style-zooms.md) — bons mots, lissés, peu nombreux, montée → punch → relâchement
+- [Style d'habillage](style-habillage.md) — objets/images sur le mot, ombre toujours, lueur libre, images web arrondies sans watermark
+- [Contexte REP / Boonbuy](contexte-reps-boonbuy.md) — orthographe Boonbuy, agent Taobao, logo fourni (logo-boonbuy)
+- [Étalonnage et transitions](style-etalonnage-transitions.md) — colorimétrie douce toujours, flashs photo sur quelques coupes, 40 min max
+- [Style musique](style-musique.md) — douce, ~20 dB sous la voix, trend/rap/trap ; aller vite
+- [Règles de sound design](no-sfx-sans-demande.md) — SFX en fond, gain bas, juste milieu : apparitions, moments drôles, changements de musique
+- [Méthode de dérushage](methode-derushage.md) — une prise par phrase, coupes serrées, vérif par transcription
+- [Style des sous-titres](style-sous-titres.md) — simples, pop-in mot à mot, mots clés dorés, pas énormes
+- [Méthode des edits](methode-edits.md) — clips + effets calés sur musique : décortiquer la réf image par image, edit.py, comparer côte à côte
+- [Questions à la fin](questions-en-fin.md) — il lit surtout la fin des messages : questions en dernier

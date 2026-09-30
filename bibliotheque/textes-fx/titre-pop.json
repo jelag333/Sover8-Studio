@@ -1,0 +1,49 @@
+{
+  "id": "titre-pop",
+  "nom": "Titre Pop",
+  "police": "poppins-black",
+  "taille": 108,
+  "couleur": "#FFFFFF",
+  "majuscules": true,
+  "contour": {
+    "couleur": "#000000",
+    "epaisseur": 8
+  },
+  "ombre": {
+    "couleur": "#000000A0",
+    "flou": 14,
+    "decalage": [
+      0,
+      6
+    ]
+  },
+  "zone": "centre",
+  "largeur": 0.86,
+  "lignes": 2,
+  "entree": {
+    "anim": "pop",
+    "duree_ms": 240
+  },
+  "sortie": {
+    "anim": "fondu",
+    "duree_ms": 160
+  },
+  "mise_en_avant": {
+    "couleur": "#FFD400"
+  },
+  "sfx_entree": {
+    "role": "pop",
+    "decalage_ms": 0
+  },
+  "description": "Accroche énergique au centre, apparition en rebond ; *mot* = surligné en jaune.",
+  "usage": {
+    "role": "accroche",
+    "quand": "Accroche des 2 premières secondes d'un short, annonce d'une partie, phrase choc.",
+    "eviter": "Plus de 7 mots ; en même temps qu'un autre titre.",
+    "placement": "Début de vidéo ou d'une partie, 1,5 à 2,5 s à l'écran. Son pop sur l'apparition.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "type": "texte-fx",
+  "chasse": 0.72
+}

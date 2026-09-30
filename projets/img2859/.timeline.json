@@ -1,0 +1,137 @@
+{
+  "total_ms": 43675,
+  "reperes": [
+    {
+      "nom": "Accroche",
+      "source_attaque": 35.47,
+      "source_fin": 36.855,
+      "attaque_ms": 40,
+      "fin_ms": 1425,
+      "decalage_ms": -35430.0,
+      "plan_ms": [
+        0,
+        1533
+      ]
+    },
+    {
+      "nom": "Dates",
+      "source_attaque": 57.24,
+      "source_fin": 61.595,
+      "attaque_ms": 1475,
+      "fin_ms": 5830,
+      "decalage_ms": -55765.0,
+      "plan_ms": [
+        1533,
+        5933
+      ]
+    },
+    {
+      "nom": "Positif",
+      "source_attaque": 85.845,
+      "source_fin": 94.54,
+      "attaque_ms": 5880,
+      "fin_ms": 14575,
+      "decalage_ms": -79965.0,
+      "plan_ms": [
+        5933,
+        14700
+      ]
+    },
+    {
+      "nom": "Vendeurs",
+      "source_attaque": 172.505,
+      "source_fin": 177.16,
+      "attaque_ms": 14625,
+      "fin_ms": 19280,
+      "decalage_ms": -157880.0,
+      "plan_ms": [
+        14700,
+        19400
+      ]
+    },
+    {
+      "nom": "Certains",
+      "source_attaque": 177.515,
+      "source_fin": 180.53,
+      "attaque_ms": 19330,
+      "fin_ms": 22345,
+      "decalage_ms": -158185.0,
+      "plan_ms": [
+        19400,
+        22467
+      ]
+    },
+    {
+      "nom": "Delais",
+      "source_attaque": 193.865,
+      "source_fin": 197.635,
+      "attaque_ms": 22395,
+      "fin_ms": 26165,
+      "decalage_ms": -171470.0,
+      "plan_ms": [
+        22467,
+        26267
+      ]
+    },
+    {
+      "nom": "Hiver",
+      "source_attaque": 214.27,
+      "source_fin": 217.075,
+      "attaque_ms": 26215,
+      "fin_ms": 29020,
+      "decalage_ms": -188055.0,
+      "plan_ms": [
+        26267,
+        29133
+      ]
+    },
+    {
+      "nom": "Vols",
+      "source_attaque": 248.965,
+      "source_fin": 252.365,
+      "attaque_ms": 29070,
+      "fin_ms": 32470,
+      "decalage_ms": -219895.0,
+      "plan_ms": [
+        29133,
+        32600
+      ]
+    },
+    {
+      "nom": "Cher",
+      "source_attaque": 252.705,
+      "source_fin": 255.765,
+      "attaque_ms": 32520,
+      "fin_ms": 35580,
+      "decalage_ms": -220185.0,
+      "plan_ms": [
+        32600,
+        35700
+      ]
+    },
+    {
+      "nom": "Maintenant",
+      "source_attaque": 279.75,
+      "source_fin": 283.42,
+      "attaque_ms": 35630,
+      "fin_ms": 39300,
+      "decalage_ms": -244120.0,
+      "plan_ms": [
+        35700,
+        39433
+      ]
+    },
+    {
+      "nom": "CTA",
+      "source_attaque": 287.42,
+      "source_fin": 291.395,
+      "attaque_ms": 39350,
+      "fin_ms": 43325,
+      "decalage_ms": -248070.0,
+      "plan_ms": [
+        39433,
+        43667
+      ]
+    }
+  ]
+}

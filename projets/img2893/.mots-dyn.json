@@ -1,0 +1,800 @@
+[
+ {
+  "mot": "Top",
+  "debut_ms": -260,
+  "fin_ms": 140,
+  "p": 0.75,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "3",
+  "debut_ms": 140,
+  "fin_ms": 400,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "des",
+  "debut_ms": 400,
+  "fin_ms": 540,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "doudounes",
+  "debut_ms": 540,
+  "fin_ms": 940,
+  "p": 0.93,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 940,
+  "fin_ms": 960,
+  "p": 0.93,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "PNJ",
+  "debut_ms": 960,
+  "fin_ms": 1280,
+  "p": 0.99,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "pour",
+  "debut_ms": 1280,
+  "fin_ms": 1440,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "cet",
+  "debut_ms": 1440,
+  "fin_ms": 1600,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "hiver.",
+  "debut_ms": 1600,
+  "fin_ms": 1900,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "on",
+  "debut_ms": 1770,
+  "fin_ms": 2310,
+  "p": 0.54,
+  "prise": "Top3"
+ },
+ {
+  "mot": "commence",
+  "debut_ms": 2310,
+  "fin_ms": 2590,
+  "p": 1.0,
+  "prise": "Top3"
+ },
+ {
+  "mot": "par",
+  "debut_ms": 2590,
+  "fin_ms": 2730,
+  "p": 1.0,
+  "prise": "Top3"
+ },
+ {
+  "mot": "le",
+  "debut_ms": 2730,
+  "fin_ms": 2850,
+  "p": 0.99,
+  "prise": "Top3"
+ },
+ {
+  "mot": "top",
+  "debut_ms": 2850,
+  "fin_ms": 2950,
+  "p": 0.97,
+  "prise": "Top3"
+ },
+ {
+  "mot": "3,",
+  "debut_ms": 2950,
+  "fin_ms": 3190,
+  "p": 0.99,
+  "prise": "Top3"
+ },
+ {
+  "mot": "c",
+  "debut_ms": 3310,
+  "fin_ms": 3350,
+  "p": 1.0,
+  "prise": "Top3"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 3350,
+  "fin_ms": 3430,
+  "p": 1.0,
+  "prise": "Top3"
+ },
+ {
+  "mot": "la",
+  "debut_ms": 3430,
+  "fin_ms": 3510,
+  "p": 1.0,
+  "prise": "Top3"
+ },
+ {
+  "mot": "Montclair",
+  "debut_ms": 3510,
+  "fin_ms": 3930,
+  "p": 0.98,
+  "prise": "Top3"
+ },
+ {
+  "mot": "Maya",
+  "debut_ms": 3930,
+  "fin_ms": 4250,
+  "p": 0.94,
+  "prise": "Top3"
+ },
+ {
+  "mot": "noire",
+  "debut_ms": 4250,
+  "fin_ms": 4810,
+  "p": 0.59,
+  "prise": "Top3"
+ },
+ {
+  "mot": "brillante,",
+  "debut_ms": 4810,
+  "fin_ms": 5430,
+  "p": 0.99,
+  "prise": "Top3"
+ },
+ {
+  "mot": "celle",
+  "debut_ms": 5570,
+  "fin_ms": 5790,
+  "p": 1.0,
+  "prise": "Top3"
+ },
+ {
+  "mot": "-là",
+  "debut_ms": 5790,
+  "fin_ms": 5870,
+  "p": 0.91,
+  "prise": "Top3"
+ },
+ {
+  "mot": "les",
+  "debut_ms": 5870,
+  "fin_ms": 6050,
+  "p": 0.59,
+  "prise": "Top3"
+ },
+ {
+  "mot": "gars",
+  "debut_ms": 6050,
+  "fin_ms": 6190,
+  "p": 1.0,
+  "prise": "Top3"
+ },
+ {
+  "mot": "elle",
+  "debut_ms": 6190,
+  "fin_ms": 6430,
+  "p": 0.5,
+  "prise": "Top3"
+ },
+ {
+  "mot": "est",
+  "debut_ms": 6430,
+  "fin_ms": 6570,
+  "p": 1.0,
+  "prise": "Top3"
+ },
+ {
+  "mot": "finito",
+  "debut_ms": 6570,
+  "fin_ms": 7110,
+  "p": 0.98,
+  "prise": "Top3"
+ },
+ {
+  "mot": "En",
+  "debut_ms": 7015,
+  "fin_ms": 7455,
+  "p": 0.74,
+  "prise": "Top2"
+ },
+ {
+  "mot": "top",
+  "debut_ms": 7455,
+  "fin_ms": 7595,
+  "p": 0.93,
+  "prise": "Top2"
+ },
+ {
+  "mot": "2,",
+  "debut_ms": 7595,
+  "fin_ms": 7835,
+  "p": 0.97,
+  "prise": "Top2"
+ },
+ {
+  "mot": "on",
+  "debut_ms": 8055,
+  "fin_ms": 8055,
+  "p": 0.97,
+  "prise": "Top2"
+ },
+ {
+  "mot": "a",
+  "debut_ms": 8055,
+  "fin_ms": 8195,
+  "p": 1.0,
+  "prise": "Top2"
+ },
+ {
+  "mot": "cette",
+  "debut_ms": 8195,
+  "fin_ms": 8335,
+  "p": 0.33,
+  "prise": "Top2"
+ },
+ {
+  "mot": "doudoune",
+  "debut_ms": 8335,
+  "fin_ms": 8635,
+  "p": 0.79,
+  "prise": "Top2"
+ },
+ {
+  "mot": "Canada",
+  "debut_ms": 8635,
+  "fin_ms": 8835,
+  "p": 0.27,
+  "prise": "Top2"
+ },
+ {
+  "mot": "Goose",
+  "debut_ms": 8835,
+  "fin_ms": 9215,
+  "p": 0.75,
+  "prise": "Top2"
+ },
+ {
+  "mot": "noire",
+  "debut_ms": 9215,
+  "fin_ms": 9635,
+  "p": 0.73,
+  "prise": "Top2"
+ },
+ {
+  "mot": "mat,",
+  "debut_ms": 9635,
+  "fin_ms": 9875,
+  "p": 0.36,
+  "prise": "Top2"
+ },
+ {
+  "mot": "il",
+  "debut_ms": 10155,
+  "fin_ms": 10175,
+  "p": 0.96,
+  "prise": "Top2"
+ },
+ {
+  "mot": "me",
+  "debut_ms": 10175,
+  "fin_ms": 10275,
+  "p": 0.99,
+  "prise": "Top2"
+ },
+ {
+  "mot": "semble",
+  "debut_ms": 10275,
+  "fin_ms": 10415,
+  "p": 1.0,
+  "prise": "Top2"
+ },
+ {
+  "mot": "que",
+  "debut_ms": 10415,
+  "fin_ms": 10515,
+  "p": 0.99,
+  "prise": "Top2"
+ },
+ {
+  "mot": "c",
+  "debut_ms": 10515,
+  "fin_ms": 10575,
+  "p": 0.98,
+  "prise": "Top2"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 10575,
+  "fin_ms": 10635,
+  "p": 1.0,
+  "prise": "Top2"
+ },
+ {
+  "mot": "la",
+  "debut_ms": 10635,
+  "fin_ms": 10715,
+  "p": 0.81,
+  "prise": "Top2"
+ },
+ {
+  "mot": "Mac",
+  "debut_ms": 10715,
+  "fin_ms": 10915,
+  "p": 0.86,
+  "prise": "Top2"
+ },
+ {
+  "mot": "Milan,",
+  "debut_ms": 10915,
+  "fin_ms": 11155,
+  "p": 0.65,
+  "prise": "Top2"
+ },
+ {
+  "mot": "mais",
+  "debut_ms": 11295,
+  "fin_ms": 11335,
+  "p": 0.99,
+  "prise": "Top2"
+ },
+ {
+  "mot": "je",
+  "debut_ms": 11335,
+  "fin_ms": 11395,
+  "p": 0.99,
+  "prise": "Top2"
+ },
+ {
+  "mot": "ne",
+  "debut_ms": 11395,
+  "fin_ms": 11395,
+  "p": 0.69,
+  "prise": "Top2"
+ },
+ {
+  "mot": "suis",
+  "debut_ms": 11395,
+  "fin_ms": 11455,
+  "p": 1.0,
+  "prise": "Top2"
+ },
+ {
+  "mot": "pas",
+  "debut_ms": 11455,
+  "fin_ms": 11595,
+  "p": 1.0,
+  "prise": "Top2"
+ },
+ {
+  "mot": "sûr.",
+  "debut_ms": 11595,
+  "fin_ms": 11755,
+  "p": 0.99,
+  "prise": "Top2"
+ },
+ {
+  "mot": "Bref,",
+  "debut_ms": 12000,
+  "fin_ms": 12240,
+  "p": 0.66,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "c",
+  "debut_ms": 12500,
+  "fin_ms": 12540,
+  "p": 0.53,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 12540,
+  "fin_ms": 12600,
+  "p": 0.93,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "à",
+  "debut_ms": 12600,
+  "fin_ms": 12660,
+  "p": 0.64,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "ça,",
+  "debut_ms": 12660,
+  "fin_ms": 12780,
+  "p": 0.95,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "t",
+  "debut_ms": 12860,
+  "fin_ms": 12860,
+  "p": 0.62,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "'es",
+  "debut_ms": 12860,
+  "fin_ms": 12940,
+  "p": 1.0,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "aussi",
+  "debut_ms": 12940,
+  "fin_ms": 13100,
+  "p": 1.0,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "un",
+  "debut_ms": 13100,
+  "fin_ms": 13200,
+  "p": 0.75,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "gros",
+  "debut_ms": 13200,
+  "fin_ms": 13380,
+  "p": 0.81,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "PNJ.",
+  "debut_ms": 13380,
+  "fin_ms": 13720,
+  "p": 0.95,
+  "prise": "PNJ2"
+ },
+ {
+  "mot": "Et",
+  "debut_ms": 13575,
+  "fin_ms": 13915,
+  "p": 0.79,
+  "prise": "Top1"
+ },
+ {
+  "mot": "le",
+  "debut_ms": 13915,
+  "fin_ms": 14035,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "top",
+  "debut_ms": 14035,
+  "fin_ms": 14195,
+  "p": 0.95,
+  "prise": "Top1"
+ },
+ {
+  "mot": "1",
+  "debut_ms": 14195,
+  "fin_ms": 14415,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "selon",
+  "debut_ms": 14415,
+  "fin_ms": 14655,
+  "p": 0.95,
+  "prise": "Top1"
+ },
+ {
+  "mot": "la",
+  "debut_ms": 14655,
+  "fin_ms": 14775,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "communauté",
+  "debut_ms": 14775,
+  "fin_ms": 15035,
+  "p": 0.69,
+  "prise": "Top1"
+ },
+ {
+  "mot": "Discord",
+  "debut_ms": 15035,
+  "fin_ms": 15455,
+  "p": 0.89,
+  "prise": "Top1"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 15455,
+  "fin_ms": 15595,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "100",
+  "debut_ms": 15595,
+  "fin_ms": 15735,
+  "p": 0.98,
+  "prise": "Top1"
+ },
+ {
+  "mot": "000",
+  "debut_ms": 15735,
+  "fin_ms": 15855,
+  "p": 0.89,
+  "prise": "Top1"
+ },
+ {
+  "mot": "membres",
+  "debut_ms": 15855,
+  "fin_ms": 16175,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "qui",
+  "debut_ms": 16175,
+  "fin_ms": 16355,
+  "p": 0.91,
+  "prise": "Top1"
+ },
+ {
+  "mot": "se",
+  "debut_ms": 16355,
+  "fin_ms": 16515,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "trouve",
+  "debut_ms": 16515,
+  "fin_ms": 16635,
+  "p": 0.98,
+  "prise": "Top1"
+ },
+ {
+  "mot": "dans",
+  "debut_ms": 16635,
+  "fin_ms": 16735,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "ma",
+  "debut_ms": 16735,
+  "fin_ms": 16895,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "bio",
+  "debut_ms": 16895,
+  "fin_ms": 17015,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "d",
+  "debut_ms": 17015,
+  "fin_ms": 17135,
+  "p": 0.98,
+  "prise": "Top1"
+ },
+ {
+  "mot": "'ailleurs.",
+  "debut_ms": 17135,
+  "fin_ms": 17375,
+  "p": 1.0,
+  "prise": "Top1"
+ },
+ {
+  "mot": "C",
+  "debut_ms": 17235,
+  "fin_ms": 17655,
+  "p": 0.7,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 17655,
+  "fin_ms": 17735,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "cette",
+  "debut_ms": 17735,
+  "fin_ms": 17975,
+  "p": 0.8,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "doudoune",
+  "debut_ms": 17975,
+  "fin_ms": 18335,
+  "p": 0.87,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "burberie,",
+  "debut_ms": 18335,
+  "fin_ms": 18835,
+  "p": 0.8,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "donc",
+  "debut_ms": 18995,
+  "fin_ms": 19075,
+  "p": 0.91,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "si",
+  "debut_ms": 19075,
+  "fin_ms": 19195,
+  "p": 0.99,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "tu",
+  "debut_ms": 19195,
+  "fin_ms": 19335,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "l",
+  "debut_ms": 19335,
+  "fin_ms": 19455,
+  "p": 0.99,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "'as,",
+  "debut_ms": 19455,
+  "fin_ms": 19535,
+  "p": 0.99,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "dis",
+  "debut_ms": 19575,
+  "fin_ms": 19635,
+  "p": 0.98,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "le",
+  "debut_ms": 19635,
+  "fin_ms": 19715,
+  "p": 0.23,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "moi",
+  "debut_ms": 19715,
+  "fin_ms": 19835,
+  "p": 0.95,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "en",
+  "debut_ms": 19835,
+  "fin_ms": 19915,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "commentaire",
+  "debut_ms": 19915,
+  "fin_ms": 20395,
+  "p": 0.99,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "et",
+  "debut_ms": 20395,
+  "fin_ms": 20575,
+  "p": 0.74,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "félicitations",
+  "debut_ms": 20575,
+  "fin_ms": 21115,
+  "p": 0.99,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "mon",
+  "debut_ms": 21115,
+  "fin_ms": 21275,
+  "p": 0.97,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "frérot,",
+  "debut_ms": 21275,
+  "fin_ms": 21575,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "tu",
+  "debut_ms": 21695,
+  "fin_ms": 21755,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "es",
+  "debut_ms": 21755,
+  "fin_ms": 21835,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "le",
+  "debut_ms": 21835,
+  "fin_ms": 21935,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "plus",
+  "debut_ms": 21935,
+  "fin_ms": 22075,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "gros",
+  "debut_ms": 22075,
+  "fin_ms": 22255,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "PNJ",
+  "debut_ms": 22255,
+  "fin_ms": 22655,
+  "p": 0.95,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "que",
+  "debut_ms": 22655,
+  "fin_ms": 22775,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "je",
+  "debut_ms": 22775,
+  "fin_ms": 22835,
+  "p": 1.0,
+  "prise": "Burberry"
+ },
+ {
+  "mot": "connaisse.",
+  "debut_ms": 22835,
+  "fin_ms": 23115,
+  "p": 0.99,
+  "prise": "Burberry"
+ }
+]

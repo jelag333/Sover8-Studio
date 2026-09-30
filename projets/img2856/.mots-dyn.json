@@ -1,0 +1,1248 @@
+[
+ {
+  "mot": "Ça",
+  "debut_ms": -260,
+  "fin_ms": 220,
+  "p": 0.5,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "y",
+  "debut_ms": 220,
+  "fin_ms": 320,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "est",
+  "debut_ms": 320,
+  "fin_ms": 440,
+  "p": 0.99,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "les",
+  "debut_ms": 440,
+  "fin_ms": 540,
+  "p": 0.83,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "gars,",
+  "debut_ms": 540,
+  "fin_ms": 620,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "c",
+  "debut_ms": 660,
+  "fin_ms": 780,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 780,
+  "fin_ms": 920,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "fini,",
+  "debut_ms": 920,
+  "fin_ms": 1080,
+  "p": 0.99,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "c",
+  "debut_ms": 1360,
+  "fin_ms": 1560,
+  "p": 0.99,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 1560,
+  "fin_ms": 1620,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "la",
+  "debut_ms": 1620,
+  "fin_ms": 1700,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "fin",
+  "debut_ms": 1700,
+  "fin_ms": 1820,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 1820,
+  "fin_ms": 1900,
+  "p": 1.0,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "la",
+  "debut_ms": 1900,
+  "fin_ms": 1980,
+  "p": 0.96,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "REP.",
+  "debut_ms": 1980,
+  "fin_ms": 2140,
+  "p": 0.52,
+  "prise": "Accroche"
+ },
+ {
+  "mot": "C",
+  "debut_ms": 1855,
+  "fin_ms": 2235,
+  "p": 0.55,
+  "prise": "Cause"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 2235,
+  "fin_ms": 2295,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "pas",
+  "debut_ms": 2295,
+  "fin_ms": 2395,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "à",
+  "debut_ms": 2395,
+  "fin_ms": 2515,
+  "p": 0.98,
+  "prise": "Cause"
+ },
+ {
+  "mot": "cause",
+  "debut_ms": 2515,
+  "fin_ms": 2615,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "d",
+  "debut_ms": 2615,
+  "fin_ms": 2755,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "'une",
+  "debut_ms": 2755,
+  "fin_ms": 2835,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "loi",
+  "debut_ms": 2835,
+  "fin_ms": 3075,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "ni",
+  "debut_ms": 3075,
+  "fin_ms": 3315,
+  "p": 0.39,
+  "prise": "Cause"
+ },
+ {
+  "mot": "à",
+  "debut_ms": 3315,
+  "fin_ms": 3415,
+  "p": 0.9,
+  "prise": "Cause"
+ },
+ {
+  "mot": "cause",
+  "debut_ms": 3415,
+  "fin_ms": 3575,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 3575,
+  "fin_ms": 3655,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "la",
+  "debut_ms": 3655,
+  "fin_ms": 3775,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "douane,",
+  "debut_ms": 3775,
+  "fin_ms": 4175,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "c",
+  "debut_ms": 4315,
+  "fin_ms": 4335,
+  "p": 0.96,
+  "prise": "Cause"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 4335,
+  "fin_ms": 4375,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "les",
+  "debut_ms": 4375,
+  "fin_ms": 4515,
+  "p": 0.77,
+  "prise": "Cause"
+ },
+ {
+  "mot": "agents",
+  "debut_ms": 4515,
+  "fin_ms": 4735,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "qui",
+  "debut_ms": 4735,
+  "fin_ms": 4855,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "deviennent",
+  "debut_ms": 4855,
+  "fin_ms": 5075,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 5075,
+  "fin_ms": 5195,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "plus",
+  "debut_ms": 5195,
+  "fin_ms": 5435,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "en",
+  "debut_ms": 5435,
+  "fin_ms": 5575,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "plus",
+  "debut_ms": 5575,
+  "fin_ms": 5715,
+  "p": 1.0,
+  "prise": "Cause"
+ },
+ {
+  "mot": "stricts.",
+  "debut_ms": 5715,
+  "fin_ms": 6075,
+  "p": 0.96,
+  "prise": "Cause"
+ },
+ {
+  "mot": "Si",
+  "debut_ms": 5670,
+  "fin_ms": 6110,
+  "p": 0.87,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "on",
+  "debut_ms": 6110,
+  "fin_ms": 6190,
+  "p": 0.99,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "prend",
+  "debut_ms": 6190,
+  "fin_ms": 6330,
+  "p": 0.99,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "l",
+  "debut_ms": 6330,
+  "fin_ms": 6430,
+  "p": 0.99,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "'exemple",
+  "debut_ms": 6430,
+  "fin_ms": 6630,
+  "p": 1.0,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 6630,
+  "fin_ms": 6710,
+  "p": 0.99,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "Sugar",
+  "debut_ms": 6710,
+  "fin_ms": 6910,
+  "p": 0.9,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "Goo,",
+  "debut_ms": 6910,
+  "fin_ms": 7190,
+  "p": 0.41,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "ils",
+  "debut_ms": 7450,
+  "fin_ms": 7550,
+  "p": 0.99,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "ont",
+  "debut_ms": 7550,
+  "fin_ms": 7670,
+  "p": 0.99,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "encore",
+  "debut_ms": 7670,
+  "fin_ms": 7770,
+  "p": 0.94,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "bloqué",
+  "debut_ms": 7770,
+  "fin_ms": 8010,
+  "p": 1.0,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "plein",
+  "debut_ms": 8010,
+  "fin_ms": 8270,
+  "p": 0.99,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 8270,
+  "fin_ms": 8390,
+  "p": 1.0,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "marques.",
+  "debut_ms": 8390,
+  "fin_ms": 8650,
+  "p": 1.0,
+  "prise": "Sugargoo"
+ },
+ {
+  "mot": "Gucci,",
+  "debut_ms": 8320,
+  "fin_ms": 8860,
+  "p": 0.91,
+  "prise": "Marques"
+ },
+ {
+  "mot": "Chanel,",
+  "debut_ms": 9140,
+  "fin_ms": 9440,
+  "p": 1.0,
+  "prise": "Marques"
+ },
+ {
+  "mot": "Hermès,",
+  "debut_ms": 9700,
+  "fin_ms": 10100,
+  "p": 0.98,
+  "prise": "Marques"
+ },
+ {
+  "mot": "Tessi",
+  "debut_ms": 10200,
+  "fin_ms": 10560,
+  "p": 0.57,
+  "prise": "Marques"
+ },
+ {
+  "mot": "Donc",
+  "debut_ms": 10560,
+  "fin_ms": 10960,
+  "p": 0.1,
+  "prise": "Marques"
+ },
+ {
+  "mot": "en",
+  "debut_ms": 10960,
+  "fin_ms": 11060,
+  "p": 0.98,
+  "prise": "Marques"
+ },
+ {
+  "mot": "fait",
+  "debut_ms": 11060,
+  "fin_ms": 11140,
+  "p": 1.0,
+  "prise": "Marques"
+ },
+ {
+  "mot": "c",
+  "debut_ms": 11140,
+  "fin_ms": 11240,
+  "p": 0.65,
+  "prise": "Marques"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 11240,
+  "fin_ms": 11280,
+  "p": 1.0,
+  "prise": "Marques"
+ },
+ {
+  "mot": "même",
+  "debut_ms": 11280,
+  "fin_ms": 11360,
+  "p": 0.97,
+  "prise": "Marques"
+ },
+ {
+  "mot": "plus",
+  "debut_ms": 11360,
+  "fin_ms": 11480,
+  "p": 1.0,
+  "prise": "Marques"
+ },
+ {
+  "mot": "une",
+  "debut_ms": 11480,
+  "fin_ms": 11580,
+  "p": 1.0,
+  "prise": "Marques"
+ },
+ {
+  "mot": "question",
+  "debut_ms": 11580,
+  "fin_ms": 11820,
+  "p": 1.0,
+  "prise": "Marques"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 11820,
+  "fin_ms": 11980,
+  "p": 0.99,
+  "prise": "Marques"
+ },
+ {
+  "mot": "prix",
+  "debut_ms": 11980,
+  "fin_ms": 12280,
+  "p": 1.0,
+  "prise": "Marques"
+ },
+ {
+  "mot": "De",
+  "debut_ms": 12280,
+  "fin_ms": 12460,
+  "p": 0.41,
+  "prise": "Marques"
+ },
+ {
+  "mot": "valeur",
+  "debut_ms": 12460,
+  "fin_ms": 12780,
+  "p": 0.99,
+  "prise": "Marques"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 12780,
+  "fin_ms": 12900,
+  "p": 0.99,
+  "prise": "Marques"
+ },
+ {
+  "mot": "l",
+  "debut_ms": 12900,
+  "fin_ms": 12960,
+  "p": 1.0,
+  "prise": "Marques"
+ },
+ {
+  "mot": "'item",
+  "debut_ms": 12960,
+  "fin_ms": 13260,
+  "p": 0.98,
+  "prise": "Marques"
+ },
+ {
+  "mot": "mais",
+  "debut_ms": 13260,
+  "fin_ms": 13440,
+  "p": 0.92,
+  "prise": "Marques"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 13440,
+  "fin_ms": 13580,
+  "p": 1.0,
+  "prise": "Marques"
+ },
+ {
+  "mot": "marque",
+  "debut_ms": 13580,
+  "fin_ms": 13840,
+  "p": 0.96,
+  "prise": "Marques"
+ },
+ {
+  "mot": "Et",
+  "debut_ms": 13705,
+  "fin_ms": 14065,
+  "p": 0.4,
+  "prise": "Personne"
+ },
+ {
+  "mot": "personne",
+  "debut_ms": 14065,
+  "fin_ms": 14365,
+  "p": 1.0,
+  "prise": "Personne"
+ },
+ {
+  "mot": "ne",
+  "debut_ms": 14365,
+  "fin_ms": 14565,
+  "p": 0.96,
+  "prise": "Personne"
+ },
+ {
+  "mot": "pourra",
+  "debut_ms": 14565,
+  "fin_ms": 14645,
+  "p": 0.72,
+  "prise": "Personne"
+ },
+ {
+  "mot": "te",
+  "debut_ms": 14645,
+  "fin_ms": 14785,
+  "p": 0.86,
+  "prise": "Personne"
+ },
+ {
+  "mot": "dire",
+  "debut_ms": 14785,
+  "fin_ms": 14905,
+  "p": 1.0,
+  "prise": "Personne"
+ },
+ {
+  "mot": "quelle",
+  "debut_ms": 14905,
+  "fin_ms": 15045,
+  "p": 0.97,
+  "prise": "Personne"
+ },
+ {
+  "mot": "est",
+  "debut_ms": 15045,
+  "fin_ms": 15125,
+  "p": 1.0,
+  "prise": "Personne"
+ },
+ {
+  "mot": "la",
+  "debut_ms": 15125,
+  "fin_ms": 15225,
+  "p": 1.0,
+  "prise": "Personne"
+ },
+ {
+  "mot": "prochaine",
+  "debut_ms": 15225,
+  "fin_ms": 15425,
+  "p": 1.0,
+  "prise": "Personne"
+ },
+ {
+  "mot": "marque",
+  "debut_ms": 15425,
+  "fin_ms": 15745,
+  "p": 1.0,
+  "prise": "Personne"
+ },
+ {
+  "mot": "ou",
+  "debut_ms": 15745,
+  "fin_ms": 15905,
+  "p": 0.88,
+  "prise": "Personne"
+ },
+ {
+  "mot": "sur",
+  "debut_ms": 15905,
+  "fin_ms": 16045,
+  "p": 1.0,
+  "prise": "Personne"
+ },
+ {
+  "mot": "quelle",
+  "debut_ms": 16045,
+  "fin_ms": 16205,
+  "p": 0.96,
+  "prise": "Personne"
+ },
+ {
+  "mot": "agence",
+  "debut_ms": 16205,
+  "fin_ms": 16425,
+  "p": 0.99,
+  "prise": "Personne"
+ },
+ {
+  "mot": "ça",
+  "debut_ms": 16425,
+  "fin_ms": 16545,
+  "p": 0.96,
+  "prise": "Personne"
+ },
+ {
+  "mot": "arrivera.",
+  "debut_ms": 16545,
+  "fin_ms": 16865,
+  "p": 1.0,
+  "prise": "Personne"
+ },
+ {
+  "mot": "Donc",
+  "debut_ms": 16615,
+  "fin_ms": 17035,
+  "p": 0.66,
+  "prise": "Fin"
+ },
+ {
+  "mot": "bien",
+  "debut_ms": 17035,
+  "fin_ms": 17195,
+  "p": 0.85,
+  "prise": "Fin"
+ },
+ {
+  "mot": "sûr,",
+  "debut_ms": 17195,
+  "fin_ms": 17375,
+  "p": 0.94,
+  "prise": "Fin"
+ },
+ {
+  "mot": "non,",
+  "debut_ms": 17535,
+  "fin_ms": 17595,
+  "p": 0.96,
+  "prise": "Fin"
+ },
+ {
+  "mot": "c",
+  "debut_ms": 17735,
+  "fin_ms": 17735,
+  "p": 0.41,
+  "prise": "Fin"
+ },
+ {
+  "mot": "'est",
+  "debut_ms": 17735,
+  "fin_ms": 17835,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "pas",
+  "debut_ms": 17835,
+  "fin_ms": 17895,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "la",
+  "debut_ms": 17895,
+  "fin_ms": 17995,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "fin",
+  "debut_ms": 17995,
+  "fin_ms": 18095,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 18095,
+  "fin_ms": 18175,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "la",
+  "debut_ms": 18175,
+  "fin_ms": 18235,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "seconde",
+  "debut_ms": 18235,
+  "fin_ms": 18535,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "main,",
+  "debut_ms": 18535,
+  "fin_ms": 18615,
+  "p": 0.99,
+  "prise": "Fin"
+ },
+ {
+  "mot": "mais",
+  "debut_ms": 18755,
+  "fin_ms": 18795,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "attendez",
+  "debut_ms": 18795,
+  "fin_ms": 19135,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "-vous",
+  "debut_ms": 19135,
+  "fin_ms": 19315,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "à",
+  "debut_ms": 19315,
+  "fin_ms": 19435,
+  "p": 0.88,
+  "prise": "Fin"
+ },
+ {
+  "mot": "ce",
+  "debut_ms": 19435,
+  "fin_ms": 19495,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "que",
+  "debut_ms": 19495,
+  "fin_ms": 19555,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "dans",
+  "debut_ms": 19555,
+  "fin_ms": 19635,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "les",
+  "debut_ms": 19635,
+  "fin_ms": 19755,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "mois",
+  "debut_ms": 19755,
+  "fin_ms": 19995,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "et",
+  "debut_ms": 19995,
+  "fin_ms": 20195,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "les",
+  "debut_ms": 20195,
+  "fin_ms": 20295,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "années",
+  "debut_ms": 20295,
+  "fin_ms": 20475,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "qui",
+  "debut_ms": 20475,
+  "fin_ms": 20615,
+  "p": 0.99,
+  "prise": "Fin"
+ },
+ {
+  "mot": "arrivent,",
+  "debut_ms": 20615,
+  "fin_ms": 20955,
+  "p": 1.0,
+  "prise": "Fin"
+ },
+ {
+  "mot": "ce",
+  "debut_ms": 20750,
+  "fin_ms": 21110,
+  "p": 0.44,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "soit",
+  "debut_ms": 21110,
+  "fin_ms": 21250,
+  "p": 0.94,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "de",
+  "debut_ms": 21250,
+  "fin_ms": 21330,
+  "p": 1.0,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "plus",
+  "debut_ms": 21330,
+  "fin_ms": 21470,
+  "p": 1.0,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "en",
+  "debut_ms": 21470,
+  "fin_ms": 21570,
+  "p": 1.0,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "plus",
+  "debut_ms": 21570,
+  "fin_ms": 21690,
+  "p": 1.0,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "compliqué",
+  "debut_ms": 21690,
+  "fin_ms": 22110,
+  "p": 0.97,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "à",
+  "debut_ms": 22110,
+  "fin_ms": 22350,
+  "p": 0.97,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "commander",
+  "debut_ms": 22350,
+  "fin_ms": 22590,
+  "p": 0.96,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "certaines",
+  "debut_ms": 22590,
+  "fin_ms": 22870,
+  "p": 0.97,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "marques",
+  "debut_ms": 22870,
+  "fin_ms": 23130,
+  "p": 1.0,
+  "prise": "Compliqué"
+ },
+ {
+  "mot": "En",
+  "debut_ms": 22815,
+  "fin_ms": 23175,
+  "p": 0.93,
+  "prise": "CTA"
+ },
+ {
+  "mot": "tout",
+  "debut_ms": 23175,
+  "fin_ms": 23275,
+  "p": 0.99,
+  "prise": "CTA"
+ },
+ {
+  "mot": "cas",
+  "debut_ms": 23275,
+  "fin_ms": 23375,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "sur",
+  "debut_ms": 23375,
+  "fin_ms": 23515,
+  "p": 0.67,
+  "prise": "CTA"
+ },
+ {
+  "mot": "Boonbuy,",
+  "debut_ms": 23515,
+  "fin_ms": 23855,
+  "p": 0.82,
+  "prise": "CTA"
+ },
+ {
+  "mot": "toutes",
+  "debut_ms": 23915,
+  "fin_ms": 24015,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "ces",
+  "debut_ms": 24015,
+  "fin_ms": 24155,
+  "p": 0.94,
+  "prise": "CTA"
+ },
+ {
+  "mot": "marques",
+  "debut_ms": 24155,
+  "fin_ms": 24375,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "sont",
+  "debut_ms": 24375,
+  "fin_ms": 24475,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "encore",
+  "debut_ms": 24475,
+  "fin_ms": 24615,
+  "p": 0.99,
+  "prise": "CTA"
+ },
+ {
+  "mot": "disponibles,",
+  "debut_ms": 24615,
+  "fin_ms": 25155,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "donc",
+  "debut_ms": 25255,
+  "fin_ms": 25295,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "si",
+  "debut_ms": 25295,
+  "fin_ms": 25395,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "tu",
+  "debut_ms": 25395,
+  "fin_ms": 25495,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "veux",
+  "debut_ms": 25495,
+  "fin_ms": 25595,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "commander",
+  "debut_ms": 25595,
+  "fin_ms": 25935,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "et",
+  "debut_ms": 25935,
+  "fin_ms": 26255,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "ne",
+  "debut_ms": 26255,
+  "fin_ms": 26355,
+  "p": 0.68,
+  "prise": "CTA"
+ },
+ {
+  "mot": "pas",
+  "debut_ms": 26355,
+  "fin_ms": 26415,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "rater",
+  "debut_ms": 26415,
+  "fin_ms": 26635,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "ça,",
+  "debut_ms": 26635,
+  "fin_ms": 26815,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "inscris",
+  "debut_ms": 27175,
+  "fin_ms": 27455,
+  "p": 0.9,
+  "prise": "CTA"
+ },
+ {
+  "mot": "-toi",
+  "debut_ms": 27455,
+  "fin_ms": 27535,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "avec",
+  "debut_ms": 27535,
+  "fin_ms": 27635,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "le",
+  "debut_ms": 27635,
+  "fin_ms": 27695,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "lien",
+  "debut_ms": 27695,
+  "fin_ms": 27815,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "qui",
+  "debut_ms": 27815,
+  "fin_ms": 27915,
+  "p": 0.89,
+  "prise": "CTA"
+ },
+ {
+  "mot": "est",
+  "debut_ms": 27915,
+  "fin_ms": 27915,
+  "p": 0.98,
+  "prise": "CTA"
+ },
+ {
+  "mot": "dans",
+  "debut_ms": 27915,
+  "fin_ms": 27995,
+  "p": 0.99,
+  "prise": "CTA"
+ },
+ {
+  "mot": "ma",
+  "debut_ms": 27995,
+  "fin_ms": 28155,
+  "p": 0.99,
+  "prise": "CTA"
+ },
+ {
+  "mot": "bio",
+  "debut_ms": 28155,
+  "fin_ms": 28255,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "pour",
+  "debut_ms": 28255,
+  "fin_ms": 28375,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "avoir",
+  "debut_ms": 28375,
+  "fin_ms": 28515,
+  "p": 0.99,
+  "prise": "CTA"
+ },
+ {
+  "mot": "moins",
+  "debut_ms": 28515,
+  "fin_ms": 28715,
+  "p": 0.99,
+  "prise": "CTA"
+ },
+ {
+  "mot": "40",
+  "debut_ms": 28715,
+  "fin_ms": 29055,
+  "p": 0.5,
+  "prise": "CTA"
+ },
+ {
+  "mot": "%",
+  "debut_ms": 29055,
+  "fin_ms": 29335,
+  "p": 0.99,
+  "prise": "CTA"
+ },
+ {
+  "mot": "et",
+  "debut_ms": 29335,
+  "fin_ms": 29535,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "moins",
+  "debut_ms": 29535,
+  "fin_ms": 29695,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "500",
+  "debut_ms": 29695,
+  "fin_ms": 29935,
+  "p": 0.99,
+  "prise": "CTA"
+ },
+ {
+  "mot": "$",
+  "debut_ms": 29935,
+  "fin_ms": 30075,
+  "p": 0.96,
+  "prise": "CTA"
+ },
+ {
+  "mot": "en",
+  "debut_ms": 30075,
+  "fin_ms": 30235,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "coupon",
+  "debut_ms": 30235,
+  "fin_ms": 30495,
+  "p": 0.49,
+  "prise": "CTA"
+ },
+ {
+  "mot": "sur",
+  "debut_ms": 30495,
+  "fin_ms": 30755,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "ta",
+  "debut_ms": 30755,
+  "fin_ms": 30855,
+  "p": 1.0,
+  "prise": "CTA"
+ },
+ {
+  "mot": "livraison.",
+  "debut_ms": 30855,
+  "fin_ms": 31195,
+  "p": 1.0,
+  "prise": "CTA"
+ }
+]

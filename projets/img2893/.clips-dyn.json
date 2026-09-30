@@ -1,0 +1,68 @@
+[
+  {
+    "nom": "Accroche",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+    "debut_ms": 410,
+    "fin_ms": 2543,
+    "volume": 0.0,
+    "source_rush_ms": [
+      30010,
+      32143
+    ]
+  },
+  {
+    "nom": "Top3",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+    "debut_ms": 3376,
+    "fin_ms": 8610,
+    "volume": 0.0,
+    "source_rush_ms": [
+      40443,
+      45677
+    ]
+  },
+  {
+    "nom": "Top2",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+    "debut_ms": 9459,
+    "fin_ms": 14092,
+    "volume": 0.0,
+    "source_rush_ms": [
+      110192,
+      114825
+    ]
+  },
+  {
+    "nom": "PNJ2",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+    "debut_ms": 14915,
+    "fin_ms": 16848,
+    "volume": 0.0,
+    "source_rush_ms": [
+      116215,
+      118148
+    ]
+  },
+  {
+    "nom": "Top1",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+    "debut_ms": 17678,
+    "fin_ms": 21345,
+    "volume": 0.0,
+    "source_rush_ms": [
+      177378,
+      181045
+    ]
+  },
+  {
+    "nom": "Burberry",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+    "debut_ms": 22173,
+    "fin_ms": 28106,
+    "volume": 0.0,
+    "source_rush_ms": [
+      223240,
+      229173
+    ]
+  }
+]

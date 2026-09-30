@@ -1,0 +1,290 @@
+[
+ {
+  "debut": 5.13,
+  "fin": 5.99,
+  "texte": "Ça y est.",
+  "crete_db": -25.4
+ },
+ {
+  "debut": 6.34,
+  "fin": 7.91,
+  "texte": "C'est bon, c'est la fin de la rep.",
+  "crete_db": -27.9
+ },
+ {
+  "debut": 9.93,
+  "fin": 11.5,
+  "texte": "C'est bon les gars, c'est la fin de la rep.",
+  "crete_db": -25.5
+ },
+ {
+  "debut": 14.53,
+  "fin": 15.18,
+  "texte": "Ça y est.",
+  "crete_db": -30.1
+ },
+ {
+  "debut": 15.6,
+  "fin": 16.73,
+  "texte": "Ça y est, c'est fini.",
+  "crete_db": -27.8
+ },
+ {
+  "debut": 16.82,
+  "fin": 17.74,
+  "texte": "C'est la fin de la rip.",
+  "crete_db": -33.9
+ },
+ {
+  "debut": 18.49,
+  "fin": 20.84,
+  "texte": "Ça y est les gars, c'est fini, c'est la fin de la REP.",
+  "crete_db": -25.0
+ },
+ {
+  "debut": 26.72,
+  "fin": 28.15,
+  "texte": "Ce n'est pas à cause d'une loi.",
+  "crete_db": -23.0
+ },
+ {
+  "debut": 32.21,
+  "fin": 35.26,
+  "texte": "C'est pas à cause d'une loi ni à cause de la douane.",
+  "crete_db": -22.5
+ },
+ {
+  "debut": 35.5,
+  "fin": 38.19,
+  "texte": "C'est pas à cause d'une loi, ni à cause de la douane, mais c'est à cause des...",
+  "crete_db": -22.4
+ },
+ {
+  "debut": 38.62,
+  "fin": 39.62,
+  "texte": "Ce n'est pas une loi.",
+  "crete_db": -19.6
+ },
+ {
+  "debut": 39.88,
+  "fin": 42.61,
+  "texte": "C'est pas à cause d'une loi, ni à cause de la douane, c'est à cause...",
+  "crete_db": -22.2
+ },
+ {
+  "debut": 47.14,
+  "fin": 51.2,
+  "texte": "C'est pas à cause d'une loi, ni à cause de la douane, c'est les agents qui deviennent de plus en plus stricts.",
+  "crete_db": -22.1
+ },
+ {
+  "debut": 61.99,
+  "fin": 65.15,
+  "texte": "Regarde, si on prend l'exemple de Sugar Goo.",
+  "crete_db": -21.7
+ },
+ {
+  "debut": 67.41,
+  "fin": 72.06,
+  "texte": "Si on prend l'exemple de Sugar Goo, ils ont encore bloqué plein de marques à leur entrée.",
+  "crete_db": -20.2
+ },
+ {
+  "debut": 73.81,
+  "fin": 81.58,
+  "texte": "Si on prend l'exemple de Sugar Goo, ils ont encore bloqué plein de marques comme Hermès, Louis Vuitton, Stussy. Donc en fait, ce n'est pas une question de marques.",
+  "crete_db": -22.4
+ },
+ {
+  "debut": 83.38,
+  "fin": 85.01,
+  "texte": "Gucci, Chanel, Hermès et ceci.",
+  "crete_db": -36.6
+ },
+ {
+  "debut": 89.92,
+  "fin": 91.45,
+  "texte": "Si on prend l'exemple de Sugar Go.",
+  "crete_db": -19.4
+ },
+ {
+  "debut": 91.81,
+  "fin": 95.21,
+  "texte": "Si on prend l'exemple de Sugar Goo, ils ont encore bloqué plein de marques, Gucci.",
+  "crete_db": -20.4
+ },
+ {
+  "debut": 95.66,
+  "fin": 98.55,
+  "texte": "Si on prend l'exemple de Sugar Goo, ils ont encore bloqué plein de marques.",
+  "crete_db": -21.4
+ },
+ {
+  "debut": 98.68,
+  "fin": 104.27,
+  "texte": "Gucci, Chanel, Hermès, Tussi. Donc en fait, ce n'est même plus une question de prix et de valeur de l'item, mais de marque.",
+  "crete_db": -22.1
+ },
+ {
+  "debut": 109.05,
+  "fin": 110.22,
+  "texte": "Et personne pourrait...",
+  "crete_db": -20.7
+ },
+ {
+  "debut": 110.68,
+  "fin": 113.93,
+  "texte": "Et personne ne peut te dire quelle sera la prochaine marque ou sur quelle agence ça va.",
+  "crete_db": -21.8
+ },
+ {
+  "debut": 114.5,
+  "fin": 115.38,
+  "texte": "Et personne...",
+  "crete_db": -23.9
+ },
+ {
+  "debut": 115.79,
+  "fin": 118.93,
+  "texte": "Et personne ne pourra te dire quelle est la prochaine marque ou sur quelle agence ça arrivera.",
+  "crete_db": -23.9
+ },
+ {
+  "debut": 119.79,
+  "fin": 122.89,
+  "texte": "Et personne ne pourra te dire quelle est la prochaine marque ou sur quelle agence arrivera.",
+  "crete_db": -21.4
+ },
+ {
+  "debut": 126.49,
+  "fin": 128.3,
+  "texte": "Alors bien sûr, non, c'est pas la fin.",
+  "crete_db": -20.1
+ },
+ {
+  "debut": 129.73,
+  "fin": 133.75,
+  "texte": "Alors bien sûr, non, ce n'est pas la fin du 1-1, mais tout peut arriver très vite.",
+  "crete_db": -23.0
+ },
+ {
+  "debut": 135.52,
+  "fin": 138.96,
+  "texte": "Alors bien sûr, non, c'est pas la fin du 1.1, mais...",
+  "crete_db": -17.6
+ },
+ {
+  "debut": 141.39,
+  "fin": 145.22,
+  "texte": "Alors bien sûr, non, c'est pas la fin de la seconde main. Mais attendez-vous, est-ce que dans les...",
+  "crete_db": -22.5
+ },
+ {
+  "debut": 146.28,
+  "fin": 148.48,
+  "texte": "Alors bien sûr, non, c'est pas la fin du 1 à 1.",
+  "crete_db": -20.8
+ },
+ {
+  "debut": 149.59,
+  "fin": 156.15,
+  "texte": "Alors bien sûr non, c'est pas la fin du 1.1, mais attendez-vous à ce que dans les mois et les années qui arrivent, ça soit de plus en plus compliqué d'en trouver.",
+  "crete_db": -20.2
+ },
+ {
+  "debut": 157.92,
+  "fin": 160.43,
+  "texte": "Donc bien sûr, non, ce n'est pas la fin du 1.1, mais...",
+  "crete_db": -25.0
+ },
+ {
+  "debut": 160.58,
+  "fin": 162.26,
+  "texte": "Donc, bien sûr, non, ce n'est pas la fin du...",
+  "crete_db": -21.2
+ },
+ {
+  "debut": 162.43,
+  "fin": 167.6,
+  "texte": "Donc bien sûr, non, ce n'est pas la fin du 1.1, mais attendez-vous que dans les mois ou les années qui arrivent, ce sera...",
+  "crete_db": -22.1
+ },
+ {
+  "debut": 169.22,
+  "fin": 172.12,
+  "texte": "Donc bien sûr, non, ce n'est pas la fin du 1.1, mais attendez-vous.",
+  "crete_db": -23.4
+ },
+ {
+  "debut": 173.77,
+  "fin": 175.61,
+  "texte": "Donc, bien sûr, non, ce n'est pas la fin.",
+  "crete_db": -20.9
+ },
+ {
+  "debut": 175.81,
+  "fin": 178.38,
+  "texte": "Donc bien sûr, non, ce n'est pas la fin du 1.1, mais...",
+  "crete_db": -22.0
+ },
+ {
+  "debut": 179.91,
+  "fin": 181.11,
+  "texte": "Donc bien sûr, non.",
+  "crete_db": -20.0
+ },
+ {
+  "debut": 181.23,
+  "fin": 185.61,
+  "texte": "Donc bien sûr, non, ce n'est pas la fin de la seconde main, mais attendez-vous à ce que dans les mois et les années qui arrivent,",
+  "crete_db": -20.8
+ },
+ {
+  "debut": 185.67,
+  "fin": 187.95,
+  "texte": "ce soit de plus en plus compliqué à commander certaines marques",
+  "crete_db": -23.6
+ },
+ {
+  "debut": 199.27,
+  "fin": 201.44,
+  "texte": "En tout cas, sur Boombay.",
+  "crete_db": -17.9
+ },
+ {
+  "debut": 201.87,
+  "fin": 204.76,
+  "texte": "En tout cas, sur Boombay, toutes ces marques sont encore disponibles.",
+  "crete_db": -19.8
+ },
+ {
+  "debut": 205.33,
+  "fin": 211.07,
+  "texte": "En tout cas, sur Boonbuy, toutes ces marques sont encore disponibles. Donc, si tu ne veux pas rater ça, il y a le lien dans ma bio pour t'inscrire et avoir 500 dollars.",
+  "crete_db": -19.2
+ },
+ {
+  "debut": 211.99,
+  "fin": 215.82,
+  "texte": "En tout cas, sur Boombay, toutes ces marques sont encore disponibles. Donc, si tu veux commander, c'est avec...",
+  "crete_db": -21.9
+ },
+ {
+  "debut": 216.42,
+  "fin": 220.24,
+  "texte": "En tout cas, sur Boonbuy, toutes ces marques sont encore disponibles.",
+  "crete_db": -19.0
+ },
+ {
+  "debut": 220.77,
+  "fin": 229.18,
+  "texte": "En tout cas sur Boonbuy, toutes ces marques sont encore disponibles, donc si tu veux commander et ne pas rater ça, inscris-toi avec le lien qui est dans ma bio pour avoir moins 40% et moins 500$ en coupons sur ta livraison.",
+  "crete_db": -20.3
+ },
+ {
+  "debut": 243.44,
+  "fin": 244.51,
+  "texte": "Merci.",
+  "crete_db": -23.2
+ }
+]

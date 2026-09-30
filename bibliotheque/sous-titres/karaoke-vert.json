@@ -1,0 +1,42 @@
+{
+  "id": "karaoke-vert",
+  "nom": "Karaoké vert",
+  "police": "poppins-extrabold",
+  "taille": 74,
+  "couleur": "#FFFFFF",
+  "couleur_active": "#39E07A",
+  "contour": {
+    "couleur": "#000000",
+    "epaisseur": 7
+  },
+  "ombre": {
+    "couleur": "#000000A0",
+    "flou": 14,
+    "decalage": [
+      0,
+      6
+    ]
+  },
+  "majuscules": true,
+  "mode": "karaoke",
+  "mots_max": 3,
+  "caracteres_max": 20,
+  "zone": "bas",
+  "largeur": 0.88,
+  "lignes": 2,
+  "entree": {
+    "anim": "pop",
+    "duree_ms": 140
+  },
+  "description": "Variante verte du karaoké, un peu moins massive.",
+  "usage": {
+    "role": "sous-titres",
+    "quand": "Shorts tech, business, sport.",
+    "eviter": "Images très vertes.",
+    "placement": "Zone basse.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "type": "sous-titres",
+  "chasse": 0.7
+}

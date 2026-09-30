@@ -1,0 +1,38 @@
+{
+  "id": "phrase-sobre",
+  "nom": "Phrase sobre",
+  "police": "poppins-bold",
+  "taille": 58,
+  "couleur": "#FFFFFF",
+  "ombre": {
+    "couleur": "#000000CC",
+    "flou": 10,
+    "decalage": [
+      0,
+      3
+    ]
+  },
+  "majuscules": false,
+  "mode": "phrase",
+  "mots_max": 8,
+  "caracteres_max": 40,
+  "ponctuation": true,
+  "zone": "bas",
+  "largeur": 0.86,
+  "lignes": 2,
+  "entree": {
+    "anim": "fondu",
+    "duree_ms": 120
+  },
+  "description": "Sous-titres classiques, lisibles, sans effet.",
+  "usage": {
+    "role": "sous-titres",
+    "quand": "YouTube, interviews, tutoriels, vidéos longues.",
+    "eviter": "Shorts très rythmés.",
+    "placement": "Bas de l'image.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "type": "sous-titres",
+  "chasse": 0.58
+}

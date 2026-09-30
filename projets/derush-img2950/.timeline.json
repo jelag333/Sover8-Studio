@@ -1,0 +1,101 @@
+{
+  "total_ms": 29570,
+  "reperes": [
+    {
+      "nom": "Accroche",
+      "source_attaque": 24.055,
+      "source_fin": 25.745,
+      "attaque_ms": 40,
+      "fin_ms": 1730,
+      "decalage_ms": -24015.0,
+      "plan_ms": [
+        0,
+        1833
+      ]
+    },
+    {
+      "nom": "TikTok",
+      "source_attaque": 51.845,
+      "source_fin": 56.1,
+      "attaque_ms": 1780,
+      "fin_ms": 6035,
+      "decalage_ms": -50065.0,
+      "plan_ms": [
+        1833,
+        6167
+      ]
+    },
+    {
+      "nom": "Identifiant",
+      "source_attaque": 150.9,
+      "source_fin": 155.005,
+      "attaque_ms": 6085,
+      "fin_ms": 10190,
+      "decalage_ms": -144815.0,
+      "plan_ms": [
+        6167,
+        10300
+      ]
+    },
+    {
+      "nom": "Étiquette",
+      "source_attaque": 222.185,
+      "source_fin": 224.675,
+      "attaque_ms": 10240,
+      "fin_ms": 12730,
+      "decalage_ms": -211945.0,
+      "plan_ms": [
+        10300,
+        12833
+      ]
+    },
+    {
+      "nom": "Blocage",
+      "source_attaque": 262.005,
+      "source_fin": 265.94,
+      "attaque_ms": 12780,
+      "fin_ms": 16715,
+      "decalage_ms": -249225.0,
+      "plan_ms": [
+        12833,
+        16833
+      ]
+    },
+    {
+      "nom": "Rassure",
+      "source_attaque": 276.945,
+      "source_fin": 279.53,
+      "attaque_ms": 16765,
+      "fin_ms": 19350,
+      "decalage_ms": -260180.0,
+      "plan_ms": [
+        16833,
+        19467
+      ]
+    },
+    {
+      "nom": "Agents",
+      "source_attaque": 304.29,
+      "source_fin": 307.685,
+      "attaque_ms": 19400,
+      "fin_ms": 22795,
+      "decalage_ms": -284890.0,
+      "plan_ms": [
+        19467,
+        22900
+      ]
+    },
+    {
+      "nom": "CTA",
+      "source_attaque": 338.51,
+      "source_fin": 344.885,
+      "attaque_ms": 22845,
+      "fin_ms": 29220,
+      "decalage_ms": -315665.0,
+      "plan_ms": [
+        22900,
+        29567
+      ]
+    }
+  ]
+}

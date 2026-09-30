@@ -1,0 +1,2653 @@
+{
+ "langue": "fr",
+ "segments": [
+  {
+   "texte": "C'est la fin de l'AREP le 1er novembre",
+   "debut_ms": 4579,
+   "fin_ms": 6380
+  },
+  {
+   "texte": "vous avez dû voir sur vous avez sûrement dû voir plein de fois le vous avez dû vous avez",
+   "debut_ms": 38080,
+   "fin_ms": 44640
+  },
+  {
+   "texte": "sûrement dû voir plein de tiktok concernant le 1er novembre et la fin de la rep et je vous",
+   "debut_ms": 44640,
+   "fin_ms": 55380
+  },
+  {
+   "texte": "explique ça maintenant chaque article doit avoir une notion produit sur la",
+   "debut_ms": 55380,
+   "fin_ms": 68420
+  },
+  {
+   "texte": "déclaration en gros exactement ce qu'il ya dans le colis à partir du pro à",
+   "debut_ms": 68420,
+   "fin_ms": 81380
+  },
+  {
+   "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur la déclaration.",
+   "debut_ms": 81380,
+   "fin_ms": 90700
+  },
+  {
+   "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur chaque déclaration.",
+   "debut_ms": 102160,
+   "fin_ms": 117080
+  },
+  {
+   "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur la déclaration.",
+   "debut_ms": 119680,
+   "fin_ms": 130180
+  },
+  {
+   "texte": "En gros, c'est un code qui dit exactement ce qu'il y a dans le code.",
+   "debut_ms": 133140,
+   "fin_ms": 135220
+  },
+  {
+   "texte": "A partir du 1er novembre, chaque article doit avoir un identifiant produit sur la déclaration.",
+   "debut_ms": 143299,
+   "fin_ms": 149540
+  },
+  {
+   "texte": "doit avoir un identifiant produit sur la déclaration en gros c'est en gros ça à",
+   "debut_ms": 165220,
+   "fin_ms": 173240
+  },
+  {
+   "texte": "partir à partir du 1er novembre chaque article doit avoir un identifiant produit",
+   "debut_ms": 173240,
+   "fin_ms": 177080
+  },
+  {
+   "texte": "sur la déclaration en gros c'est un code en gros c'est une étiquette en gros c'est",
+   "debut_ms": 177080,
+   "fin_ms": 189360
+  },
+  {
+   "texte": "une étiquette sans colis qui dit exactement ce qu'il ya dans ce colis",
+   "debut_ms": 189360,
+   "fin_ms": 192200
+  },
+  {
+   "texte": "En gros, c'est une étiquette qui dira exactement ce qu'il y a dans ce colis.",
+   "debut_ms": 197019,
+   "fin_ms": 204400
+  },
+  {
+   "texte": "Et si cette étiquette n'y est pas, ou si elle est fausse, la déclaration est rejetée et que le dit reste à la frontière.",
+   "debut_ms": 230820,
+   "fin_ms": 235580
+  },
+  {
+   "texte": "Et s'il n'y a pas cette étiquette, ou que la déclaration est fausse,",
+   "debut_ms": 238540,
+   "fin_ms": 251420
+  },
+  {
+   "texte": "Et s'il n'y a pas cette étiquette ou que la déclaration est fausse, le colis est bloqué et reste à la frontière.",
+   "debut_ms": 259040,
+   "fin_ms": 265900
+  },
+  {
+   "texte": "Mais je te rassure tout de suite, c'est pas toi qui remplis ça, c'est ton agent qui s'en occupe.",
+   "debut_ms": 272960,
+   "fin_ms": 279580
+  },
+  {
+   "texte": "Les agents comme Boonbuy, etc. ont déjà trouvé des solutions à ce problème, donc ne vous inquiétez pas.",
+   "debut_ms": 291840,
+   "fin_ms": 307620
+  },
+  {
+   "texte": "bref bref c'est toujours pas la fin de la rep bref bref c'est toujours pas la fin de la rep bref",
+   "debut_ms": 327840,
+   "fin_ms": 333600
+  },
+  {
+   "texte": "c'est toujours pas la fin de la rep et si tu veux t'inscrire il ya moins 40 bref c'est toujours pas",
+   "debut_ms": 333600,
+   "fin_ms": 338180
+  },
+  {
+   "texte": "bref c'est toujours pas la fin de la rép et si tu veux commander en t'inscrivant avec le lien",
+   "debut_ms": 338560,
+   "fin_ms": 341620
+  },
+  {
+   "texte": "dans ma bio tu as moins 40% et moins 500 dollars en coupons sur ta livraison",
+   "debut_ms": 341620,
+   "fin_ms": 344840
+  }
+ ],
+ "mots": [
+  {
+   "mot": " C",
+   "debut_ms": 4579,
+   "fin_ms": 4860,
+   "proba": 0.85
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 4860,
+   "fin_ms": 4920,
+   "proba": 1.0
+  },
+  {
+   "mot": " la",
+   "debut_ms": 4920,
+   "fin_ms": 5020,
+   "proba": 0.99
+  },
+  {
+   "mot": " fin",
+   "debut_ms": 5020,
+   "fin_ms": 5200,
+   "proba": 1.0
+  },
+  {
+   "mot": " de",
+   "debut_ms": 5200,
+   "fin_ms": 5300,
+   "proba": 0.99
+  },
+  {
+   "mot": " l",
+   "debut_ms": 5300,
+   "fin_ms": 5360,
+   "proba": 0.44
+  },
+  {
+   "mot": "'AREP",
+   "debut_ms": 5360,
+   "fin_ms": 5560,
+   "proba": 0.82
+  },
+  {
+   "mot": " le",
+   "debut_ms": 5560,
+   "fin_ms": 5660,
+   "proba": 0.91
+  },
+  {
+   "mot": " 1er",
+   "debut_ms": 5660,
+   "fin_ms": 5960,
+   "proba": 0.97
+  },
+  {
+   "mot": " novembre",
+   "debut_ms": 5960,
+   "fin_ms": 6380,
+   "proba": 0.93
+  },
+  {
+   "mot": " vous",
+   "debut_ms": 38080,
+   "fin_ms": 38440,
+   "proba": 0.12
+  },
+  {
+   "mot": " avez",
+   "debut_ms": 38440,
+   "fin_ms": 38620,
+   "proba": 0.99
+  },
+  {
+   "mot": " dû",
+   "debut_ms": 38620,
+   "fin_ms": 38740,
+   "proba": 0.71
+  },
+  {
+   "mot": " voir",
+   "debut_ms": 38740,
+   "fin_ms": 38900,
+   "proba": 0.97
+  },
+  {
+   "mot": " sur",
+   "debut_ms": 38900,
+   "fin_ms": 39080,
+   "proba": 0.63
+  },
+  {
+   "mot": " vous",
+   "debut_ms": 39080,
+   "fin_ms": 39840,
+   "proba": 0.89
+  },
+  {
+   "mot": " avez",
+   "debut_ms": 39840,
+   "fin_ms": 40020,
+   "proba": 0.97
+  },
+  {
+   "mot": " sûrement",
+   "debut_ms": 40020,
+   "fin_ms": 40320,
+   "proba": 0.99
+  },
+  {
+   "mot": " dû",
+   "debut_ms": 40320,
+   "fin_ms": 40460,
+   "proba": 0.88
+  },
+  {
+   "mot": " voir",
+   "debut_ms": 40460,
+   "fin_ms": 40640,
+   "proba": 0.99
+  },
+  {
+   "mot": " plein",
+   "debut_ms": 40640,
+   "fin_ms": 40820,
+   "proba": 0.98
+  },
+  {
+   "mot": " de",
+   "debut_ms": 40820,
+   "fin_ms": 40940,
+   "proba": 0.99
+  },
+  {
+   "mot": " fois",
+   "debut_ms": 40940,
+   "fin_ms": 41100,
+   "proba": 0.96
+  },
+  {
+   "mot": " le",
+   "debut_ms": 41100,
+   "fin_ms": 41300,
+   "proba": 0.92
+  },
+  {
+   "mot": " vous",
+   "debut_ms": 41300,
+   "fin_ms": 43820,
+   "proba": 0.85
+  },
+  {
+   "mot": " avez",
+   "debut_ms": 43820,
+   "fin_ms": 43960,
+   "proba": 0.98
+  },
+  {
+   "mot": " dû",
+   "debut_ms": 43960,
+   "fin_ms": 44100,
+   "proba": 0.33
+  },
+  {
+   "mot": " vous",
+   "debut_ms": 44100,
+   "fin_ms": 44500,
+   "proba": 0.96
+  },
+  {
+   "mot": " avez",
+   "debut_ms": 44500,
+   "fin_ms": 44640,
+   "proba": 0.97
+  },
+  {
+   "mot": " sûrement",
+   "debut_ms": 44640,
+   "fin_ms": 44940,
+   "proba": 0.98
+  },
+  {
+   "mot": " dû",
+   "debut_ms": 44940,
+   "fin_ms": 45120,
+   "proba": 0.96
+  },
+  {
+   "mot": " voir",
+   "debut_ms": 45120,
+   "fin_ms": 45300,
+   "proba": 0.98
+  },
+  {
+   "mot": " plein",
+   "debut_ms": 45300,
+   "fin_ms": 45460,
+   "proba": 0.83
+  },
+  {
+   "mot": " de",
+   "debut_ms": 45460,
+   "fin_ms": 45560,
+   "proba": 0.9
+  },
+  {
+   "mot": " tiktok",
+   "debut_ms": 45560,
+   "fin_ms": 45860,
+   "proba": 0.65
+  },
+  {
+   "mot": " concernant",
+   "debut_ms": 45860,
+   "fin_ms": 46300,
+   "proba": 0.96
+  },
+  {
+   "mot": " le",
+   "debut_ms": 46300,
+   "fin_ms": 46420,
+   "proba": 0.98
+  },
+  {
+   "mot": " 1er",
+   "debut_ms": 46420,
+   "fin_ms": 46700,
+   "proba": 0.85
+  },
+  {
+   "mot": " novembre",
+   "debut_ms": 46700,
+   "fin_ms": 46920,
+   "proba": 0.99
+  },
+  {
+   "mot": " et",
+   "debut_ms": 46920,
+   "fin_ms": 47080,
+   "proba": 0.57
+  },
+  {
+   "mot": " la",
+   "debut_ms": 47080,
+   "fin_ms": 47120,
+   "proba": 0.92
+  },
+  {
+   "mot": " fin",
+   "debut_ms": 47120,
+   "fin_ms": 47220,
+   "proba": 0.99
+  },
+  {
+   "mot": " de",
+   "debut_ms": 47220,
+   "fin_ms": 47320,
+   "proba": 0.93
+  },
+  {
+   "mot": " la",
+   "debut_ms": 47320,
+   "fin_ms": 47460,
+   "proba": 0.91
+  },
+  {
+   "mot": " rep",
+   "debut_ms": 47460,
+   "fin_ms": 47460,
+   "proba": 0.33
+  },
+  {
+   "mot": " et",
+   "debut_ms": 47460,
+   "fin_ms": 55200,
+   "proba": 0.69
+  },
+  {
+   "mot": " je",
+   "debut_ms": 55200,
+   "fin_ms": 55280,
+   "proba": 0.98
+  },
+  {
+   "mot": " vous",
+   "debut_ms": 55280,
+   "fin_ms": 55380,
+   "proba": 1.0
+  },
+  {
+   "mot": " explique",
+   "debut_ms": 55380,
+   "fin_ms": 55620,
+   "proba": 0.81
+  },
+  {
+   "mot": " ça",
+   "debut_ms": 55620,
+   "fin_ms": 55740,
+   "proba": 0.93
+  },
+  {
+   "mot": " maintenant",
+   "debut_ms": 55740,
+   "fin_ms": 56060,
+   "proba": 0.98
+  },
+  {
+   "mot": " chaque",
+   "debut_ms": 56060,
+   "fin_ms": 65900,
+   "proba": 0.18
+  },
+  {
+   "mot": " article",
+   "debut_ms": 65900,
+   "fin_ms": 66980,
+   "proba": 0.96
+  },
+  {
+   "mot": " doit",
+   "debut_ms": 66980,
+   "fin_ms": 67240,
+   "proba": 0.83
+  },
+  {
+   "mot": " avoir",
+   "debut_ms": 67240,
+   "fin_ms": 67440,
+   "proba": 0.92
+  },
+  {
+   "mot": " une",
+   "debut_ms": 67440,
+   "fin_ms": 67540,
+   "proba": 0.47
+  },
+  {
+   "mot": " notion",
+   "debut_ms": 67540,
+   "fin_ms": 67780,
+   "proba": 0.35
+  },
+  {
+   "mot": " produit",
+   "debut_ms": 67780,
+   "fin_ms": 68200,
+   "proba": 0.84
+  },
+  {
+   "mot": " sur",
+   "debut_ms": 68200,
+   "fin_ms": 68320,
+   "proba": 0.84
+  },
+  {
+   "mot": " la",
+   "debut_ms": 68320,
+   "fin_ms": 68420,
+   "proba": 0.99
+  },
+  {
+   "mot": " déclaration",
+   "debut_ms": 68420,
+   "fin_ms": 68900,
+   "proba": 1.0
+  },
+  {
+   "mot": " en",
+   "debut_ms": 68900,
+   "fin_ms": 69660,
+   "proba": 0.52
+  },
+  {
+   "mot": " gros",
+   "debut_ms": 69660,
+   "fin_ms": 69880,
+   "proba": 0.95
+  },
+  {
+   "mot": " exactement",
+   "debut_ms": 69880,
+   "fin_ms": 70680,
+   "proba": 0.34
+  },
+  {
+   "mot": " ce",
+   "debut_ms": 70680,
+   "fin_ms": 71220,
+   "proba": 0.98
+  },
+  {
+   "mot": " qu",
+   "debut_ms": 71220,
+   "fin_ms": 71300,
+   "proba": 0.7
+  },
+  {
+   "mot": "'il",
+   "debut_ms": 71300,
+   "fin_ms": 71360,
+   "proba": 0.97
+  },
+  {
+   "mot": " ya",
+   "debut_ms": 71360,
+   "fin_ms": 71480,
+   "proba": 0.48
+  },
+  {
+   "mot": " dans",
+   "debut_ms": 71480,
+   "fin_ms": 71600,
+   "proba": 0.75
+  },
+  {
+   "mot": " le",
+   "debut_ms": 71600,
+   "fin_ms": 71680,
+   "proba": 0.9
+  },
+  {
+   "mot": " colis",
+   "debut_ms": 71680,
+   "fin_ms": 71920,
+   "proba": 0.76
+  },
+  {
+   "mot": " à",
+   "debut_ms": 71920,
+   "fin_ms": 78140,
+   "proba": 0.88
+  },
+  {
+   "mot": " partir",
+   "debut_ms": 78140,
+   "fin_ms": 78380,
+   "proba": 1.0
+  },
+  {
+   "mot": " du",
+   "debut_ms": 78380,
+   "fin_ms": 78600,
+   "proba": 0.99
+  },
+  {
+   "mot": " pro",
+   "debut_ms": 78600,
+   "fin_ms": 78840,
+   "proba": 0.17
+  },
+  {
+   "mot": " à",
+   "debut_ms": 78840,
+   "fin_ms": 81380,
+   "proba": 0.85
+  },
+  {
+   "mot": " A",
+   "debut_ms": 81380,
+   "fin_ms": 81480,
+   "proba": 0.71
+  },
+  {
+   "mot": " partir",
+   "debut_ms": 81480,
+   "fin_ms": 81720,
+   "proba": 1.0
+  },
+  {
+   "mot": " du",
+   "debut_ms": 81720,
+   "fin_ms": 81920,
+   "proba": 1.0
+  },
+  {
+   "mot": " 1er",
+   "debut_ms": 81920,
+   "fin_ms": 82240,
+   "proba": 1.0
+  },
+  {
+   "mot": " novembre,",
+   "debut_ms": 82240,
+   "fin_ms": 82580,
+   "proba": 1.0
+  },
+  {
+   "mot": " chaque",
+   "debut_ms": 82700,
+   "fin_ms": 82840,
+   "proba": 1.0
+  },
+  {
+   "mot": " article",
+   "debut_ms": 82840,
+   "fin_ms": 83160,
+   "proba": 1.0
+  },
+  {
+   "mot": " doit",
+   "debut_ms": 83160,
+   "fin_ms": 83480,
+   "proba": 0.99
+  },
+  {
+   "mot": " avoir",
+   "debut_ms": 83480,
+   "fin_ms": 83840,
+   "proba": 1.0
+  },
+  {
+   "mot": " un",
+   "debut_ms": 83840,
+   "fin_ms": 88660,
+   "proba": 0.33
+  },
+  {
+   "mot": " identifiant",
+   "debut_ms": 88660,
+   "fin_ms": 89760,
+   "proba": 0.93
+  },
+  {
+   "mot": " produit",
+   "debut_ms": 89760,
+   "fin_ms": 90040,
+   "proba": 0.98
+  },
+  {
+   "mot": " sur",
+   "debut_ms": 90040,
+   "fin_ms": 90180,
+   "proba": 0.99
+  },
+  {
+   "mot": " la",
+   "debut_ms": 90180,
+   "fin_ms": 90280,
+   "proba": 1.0
+  },
+  {
+   "mot": " déclaration.",
+   "debut_ms": 90280,
+   "fin_ms": 90700,
+   "proba": 1.0
+  },
+  {
+   "mot": " A",
+   "debut_ms": 102160,
+   "fin_ms": 102760,
+   "proba": 0.54
+  },
+  {
+   "mot": " partir",
+   "debut_ms": 102760,
+   "fin_ms": 103040,
+   "proba": 1.0
+  },
+  {
+   "mot": " du",
+   "debut_ms": 103040,
+   "fin_ms": 107940,
+   "proba": 0.97
+  },
+  {
+   "mot": " 1er",
+   "debut_ms": 107940,
+   "fin_ms": 108240,
+   "proba": 0.99
+  },
+  {
+   "mot": " novembre,",
+   "debut_ms": 108240,
+   "fin_ms": 108640,
+   "proba": 1.0
+  },
+  {
+   "mot": " chaque",
+   "debut_ms": 108780,
+   "fin_ms": 108960,
+   "proba": 1.0
+  },
+  {
+   "mot": " article",
+   "debut_ms": 108960,
+   "fin_ms": 109400,
+   "proba": 1.0
+  },
+  {
+   "mot": " doit",
+   "debut_ms": 109400,
+   "fin_ms": 115160,
+   "proba": 0.97
+  },
+  {
+   "mot": " avoir",
+   "debut_ms": 115160,
+   "fin_ms": 115400,
+   "proba": 0.99
+  },
+  {
+   "mot": " un",
+   "debut_ms": 115400,
+   "fin_ms": 115520,
+   "proba": 0.95
+  },
+  {
+   "mot": " identifiant",
+   "debut_ms": 115520,
+   "fin_ms": 115900,
+   "proba": 0.9
+  },
+  {
+   "mot": " produit",
+   "debut_ms": 115900,
+   "fin_ms": 116200,
+   "proba": 0.98
+  },
+  {
+   "mot": " sur",
+   "debut_ms": 116200,
+   "fin_ms": 116420,
+   "proba": 1.0
+  },
+  {
+   "mot": " chaque",
+   "debut_ms": 116420,
+   "fin_ms": 116660,
+   "proba": 1.0
+  },
+  {
+   "mot": " déclaration.",
+   "debut_ms": 116660,
+   "fin_ms": 117080,
+   "proba": 1.0
+  },
+  {
+   "mot": " A",
+   "debut_ms": 119680,
+   "fin_ms": 120060,
+   "proba": 0.58
+  },
+  {
+   "mot": " partir",
+   "debut_ms": 120060,
+   "fin_ms": 120360,
+   "proba": 1.0
+  },
+  {
+   "mot": " du",
+   "debut_ms": 120360,
+   "fin_ms": 121500,
+   "proba": 1.0
+  },
+  {
+   "mot": " 1er",
+   "debut_ms": 121500,
+   "fin_ms": 121800,
+   "proba": 0.99
+  },
+  {
+   "mot": " novembre,",
+   "debut_ms": 121800,
+   "fin_ms": 122200,
+   "proba": 1.0
+  },
+  {
+   "mot": " chaque",
+   "debut_ms": 122340,
+   "fin_ms": 122460,
+   "proba": 1.0
+  },
+  {
+   "mot": " article",
+   "debut_ms": 122460,
+   "fin_ms": 128120,
+   "proba": 1.0
+  },
+  {
+   "mot": " doit",
+   "debut_ms": 128120,
+   "fin_ms": 128320,
+   "proba": 1.0
+  },
+  {
+   "mot": " avoir",
+   "debut_ms": 128320,
+   "fin_ms": 128580,
+   "proba": 1.0
+  },
+  {
+   "mot": " un",
+   "debut_ms": 128580,
+   "fin_ms": 128759,
+   "proba": 0.91
+  },
+  {
+   "mot": " identifiant",
+   "debut_ms": 128759,
+   "fin_ms": 129160,
+   "proba": 0.88
+  },
+  {
+   "mot": " produit",
+   "debut_ms": 129160,
+   "fin_ms": 129460,
+   "proba": 0.98
+  },
+  {
+   "mot": " sur",
+   "debut_ms": 129460,
+   "fin_ms": 129680,
+   "proba": 1.0
+  },
+  {
+   "mot": " la",
+   "debut_ms": 129680,
+   "fin_ms": 129780,
+   "proba": 1.0
+  },
+  {
+   "mot": " déclaration.",
+   "debut_ms": 129780,
+   "fin_ms": 130180,
+   "proba": 1.0
+  },
+  {
+   "mot": " En",
+   "debut_ms": 133140,
+   "fin_ms": 133520,
+   "proba": 0.86
+  },
+  {
+   "mot": " gros,",
+   "debut_ms": 133520,
+   "fin_ms": 133680,
+   "proba": 1.0
+  },
+  {
+   "mot": " c",
+   "debut_ms": 133780,
+   "fin_ms": 133780,
+   "proba": 1.0
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 133780,
+   "fin_ms": 133820,
+   "proba": 1.0
+  },
+  {
+   "mot": " un",
+   "debut_ms": 133820,
+   "fin_ms": 133900,
+   "proba": 1.0
+  },
+  {
+   "mot": " code",
+   "debut_ms": 133900,
+   "fin_ms": 134000,
+   "proba": 0.99
+  },
+  {
+   "mot": " qui",
+   "debut_ms": 134000,
+   "fin_ms": 134120,
+   "proba": 1.0
+  },
+  {
+   "mot": " dit",
+   "debut_ms": 134120,
+   "fin_ms": 134260,
+   "proba": 1.0
+  },
+  {
+   "mot": " exactement",
+   "debut_ms": 134260,
+   "fin_ms": 134700,
+   "proba": 1.0
+  },
+  {
+   "mot": " ce",
+   "debut_ms": 134700,
+   "fin_ms": 134840,
+   "proba": 1.0
+  },
+  {
+   "mot": " qu",
+   "debut_ms": 134840,
+   "fin_ms": 134940,
+   "proba": 0.56
+  },
+  {
+   "mot": "'il",
+   "debut_ms": 134940,
+   "fin_ms": 134940,
+   "proba": 0.98
+  },
+  {
+   "mot": " y",
+   "debut_ms": 134940,
+   "fin_ms": 134940,
+   "proba": 0.82
+  },
+  {
+   "mot": " a",
+   "debut_ms": 134940,
+   "fin_ms": 134940,
+   "proba": 0.99
+  },
+  {
+   "mot": " dans",
+   "debut_ms": 134940,
+   "fin_ms": 135060,
+   "proba": 0.98
+  },
+  {
+   "mot": " le",
+   "debut_ms": 135060,
+   "fin_ms": 135080,
+   "proba": 0.96
+  },
+  {
+   "mot": " code.",
+   "debut_ms": 135080,
+   "fin_ms": 135220,
+   "proba": 0.86
+  },
+  {
+   "mot": " A",
+   "debut_ms": 143299,
+   "fin_ms": 143820,
+   "proba": 0.42
+  },
+  {
+   "mot": " partir",
+   "debut_ms": 143820,
+   "fin_ms": 144080,
+   "proba": 1.0
+  },
+  {
+   "mot": " du",
+   "debut_ms": 144080,
+   "fin_ms": 144280,
+   "proba": 1.0
+  },
+  {
+   "mot": " 1er",
+   "debut_ms": 144280,
+   "fin_ms": 144560,
+   "proba": 1.0
+  },
+  {
+   "mot": " novembre,",
+   "debut_ms": 144560,
+   "fin_ms": 144980,
+   "proba": 1.0
+  },
+  {
+   "mot": " chaque",
+   "debut_ms": 145180,
+   "fin_ms": 147280,
+   "proba": 1.0
+  },
+  {
+   "mot": " article",
+   "debut_ms": 147280,
+   "fin_ms": 147620,
+   "proba": 1.0
+  },
+  {
+   "mot": " doit",
+   "debut_ms": 147620,
+   "fin_ms": 147800,
+   "proba": 1.0
+  },
+  {
+   "mot": " avoir",
+   "debut_ms": 147800,
+   "fin_ms": 148000,
+   "proba": 1.0
+  },
+  {
+   "mot": " un",
+   "debut_ms": 148000,
+   "fin_ms": 148140,
+   "proba": 0.99
+  },
+  {
+   "mot": " identifiant",
+   "debut_ms": 148140,
+   "fin_ms": 148620,
+   "proba": 0.98
+  },
+  {
+   "mot": " produit",
+   "debut_ms": 148620,
+   "fin_ms": 148860,
+   "proba": 1.0
+  },
+  {
+   "mot": " sur",
+   "debut_ms": 148860,
+   "fin_ms": 149020,
+   "proba": 1.0
+  },
+  {
+   "mot": " la",
+   "debut_ms": 149020,
+   "fin_ms": 149100,
+   "proba": 1.0
+  },
+  {
+   "mot": " déclaration.",
+   "debut_ms": 149100,
+   "fin_ms": 149540,
+   "proba": 1.0
+  },
+  {
+   "mot": " doit",
+   "debut_ms": 165220,
+   "fin_ms": 165520,
+   "proba": 0.37
+  },
+  {
+   "mot": " avoir",
+   "debut_ms": 165520,
+   "fin_ms": 165760,
+   "proba": 0.98
+  },
+  {
+   "mot": " un",
+   "debut_ms": 165760,
+   "fin_ms": 165920,
+   "proba": 0.98
+  },
+  {
+   "mot": " identifiant",
+   "debut_ms": 165920,
+   "fin_ms": 166420,
+   "proba": 0.97
+  },
+  {
+   "mot": " produit",
+   "debut_ms": 166420,
+   "fin_ms": 166700,
+   "proba": 0.94
+  },
+  {
+   "mot": " sur",
+   "debut_ms": 166700,
+   "fin_ms": 166860,
+   "proba": 0.99
+  },
+  {
+   "mot": " la",
+   "debut_ms": 166860,
+   "fin_ms": 166940,
+   "proba": 1.0
+  },
+  {
+   "mot": " déclaration",
+   "debut_ms": 166940,
+   "fin_ms": 167360,
+   "proba": 1.0
+  },
+  {
+   "mot": " en",
+   "debut_ms": 167360,
+   "fin_ms": 170080,
+   "proba": 0.12
+  },
+  {
+   "mot": " gros",
+   "debut_ms": 170080,
+   "fin_ms": 170300,
+   "proba": 0.93
+  },
+  {
+   "mot": " c",
+   "debut_ms": 170300,
+   "fin_ms": 170460,
+   "proba": 0.77
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 170460,
+   "fin_ms": 170920,
+   "proba": 1.0
+  },
+  {
+   "mot": " en",
+   "debut_ms": 170920,
+   "fin_ms": 171080,
+   "proba": 0.71
+  },
+  {
+   "mot": " gros",
+   "debut_ms": 171080,
+   "fin_ms": 171300,
+   "proba": 0.96
+  },
+  {
+   "mot": " ça",
+   "debut_ms": 171300,
+   "fin_ms": 171480,
+   "proba": 0.28
+  },
+  {
+   "mot": " à",
+   "debut_ms": 171480,
+   "fin_ms": 173240,
+   "proba": 0.9
+  },
+  {
+   "mot": " partir",
+   "debut_ms": 173240,
+   "fin_ms": 173580,
+   "proba": 1.0
+  },
+  {
+   "mot": " à",
+   "debut_ms": 173580,
+   "fin_ms": 174000,
+   "proba": 0.89
+  },
+  {
+   "mot": " partir",
+   "debut_ms": 174000,
+   "fin_ms": 174260,
+   "proba": 1.0
+  },
+  {
+   "mot": " du",
+   "debut_ms": 174260,
+   "fin_ms": 174420,
+   "proba": 1.0
+  },
+  {
+   "mot": " 1er",
+   "debut_ms": 174420,
+   "fin_ms": 174680,
+   "proba": 0.86
+  },
+  {
+   "mot": " novembre",
+   "debut_ms": 174680,
+   "fin_ms": 175100,
+   "proba": 1.0
+  },
+  {
+   "mot": " chaque",
+   "debut_ms": 175100,
+   "fin_ms": 175400,
+   "proba": 1.0
+  },
+  {
+   "mot": " article",
+   "debut_ms": 175400,
+   "fin_ms": 175740,
+   "proba": 1.0
+  },
+  {
+   "mot": " doit",
+   "debut_ms": 175740,
+   "fin_ms": 175960,
+   "proba": 0.78
+  },
+  {
+   "mot": " avoir",
+   "debut_ms": 175960,
+   "fin_ms": 176120,
+   "proba": 0.9
+  },
+  {
+   "mot": " un",
+   "debut_ms": 176120,
+   "fin_ms": 176280,
+   "proba": 0.99
+  },
+  {
+   "mot": " identifiant",
+   "debut_ms": 176280,
+   "fin_ms": 176780,
+   "proba": 0.99
+  },
+  {
+   "mot": " produit",
+   "debut_ms": 176780,
+   "fin_ms": 177080,
+   "proba": 0.97
+  },
+  {
+   "mot": " sur",
+   "debut_ms": 177080,
+   "fin_ms": 177220,
+   "proba": 0.99
+  },
+  {
+   "mot": " la",
+   "debut_ms": 177220,
+   "fin_ms": 177320,
+   "proba": 1.0
+  },
+  {
+   "mot": " déclaration",
+   "debut_ms": 177320,
+   "fin_ms": 177740,
+   "proba": 1.0
+  },
+  {
+   "mot": " en",
+   "debut_ms": 177740,
+   "fin_ms": 182320,
+   "proba": 0.98
+  },
+  {
+   "mot": " gros",
+   "debut_ms": 182320,
+   "fin_ms": 182500,
+   "proba": 1.0
+  },
+  {
+   "mot": " c",
+   "debut_ms": 182500,
+   "fin_ms": 182700,
+   "proba": 0.99
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 182700,
+   "fin_ms": 182720,
+   "proba": 1.0
+  },
+  {
+   "mot": " un",
+   "debut_ms": 182720,
+   "fin_ms": 182840,
+   "proba": 0.99
+  },
+  {
+   "mot": " code",
+   "debut_ms": 182840,
+   "fin_ms": 183140,
+   "proba": 0.99
+  },
+  {
+   "mot": " en",
+   "debut_ms": 183140,
+   "fin_ms": 186960,
+   "proba": 0.99
+  },
+  {
+   "mot": " gros",
+   "debut_ms": 186960,
+   "fin_ms": 187160,
+   "proba": 0.98
+  },
+  {
+   "mot": " c",
+   "debut_ms": 187160,
+   "fin_ms": 187300,
+   "proba": 0.99
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 187300,
+   "fin_ms": 187340,
+   "proba": 1.0
+  },
+  {
+   "mot": " une",
+   "debut_ms": 187340,
+   "fin_ms": 187460,
+   "proba": 0.99
+  },
+  {
+   "mot": " étiquette",
+   "debut_ms": 187460,
+   "fin_ms": 187960,
+   "proba": 0.99
+  },
+  {
+   "mot": " en",
+   "debut_ms": 187960,
+   "fin_ms": 188480,
+   "proba": 0.93
+  },
+  {
+   "mot": " gros",
+   "debut_ms": 188480,
+   "fin_ms": 189160,
+   "proba": 0.67
+  },
+  {
+   "mot": " c",
+   "debut_ms": 189160,
+   "fin_ms": 189320,
+   "proba": 0.96
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 189320,
+   "fin_ms": 189360,
+   "proba": 1.0
+  },
+  {
+   "mot": " une",
+   "debut_ms": 189360,
+   "fin_ms": 189440,
+   "proba": 0.99
+  },
+  {
+   "mot": " étiquette",
+   "debut_ms": 189440,
+   "fin_ms": 189800,
+   "proba": 1.0
+  },
+  {
+   "mot": " sans",
+   "debut_ms": 189800,
+   "fin_ms": 189960,
+   "proba": 0.85
+  },
+  {
+   "mot": " colis",
+   "debut_ms": 189960,
+   "fin_ms": 190300,
+   "proba": 0.89
+  },
+  {
+   "mot": " qui",
+   "debut_ms": 190300,
+   "fin_ms": 190480,
+   "proba": 0.99
+  },
+  {
+   "mot": " dit",
+   "debut_ms": 190480,
+   "fin_ms": 190700,
+   "proba": 0.99
+  },
+  {
+   "mot": " exactement",
+   "debut_ms": 190700,
+   "fin_ms": 191200,
+   "proba": 1.0
+  },
+  {
+   "mot": " ce",
+   "debut_ms": 191200,
+   "fin_ms": 191380,
+   "proba": 1.0
+  },
+  {
+   "mot": " qu",
+   "debut_ms": 191380,
+   "fin_ms": 191520,
+   "proba": 0.89
+  },
+  {
+   "mot": "'il",
+   "debut_ms": 191520,
+   "fin_ms": 191600,
+   "proba": 0.99
+  },
+  {
+   "mot": " ya",
+   "debut_ms": 191600,
+   "fin_ms": 191720,
+   "proba": 0.53
+  },
+  {
+   "mot": " dans",
+   "debut_ms": 191720,
+   "fin_ms": 191840,
+   "proba": 0.98
+  },
+  {
+   "mot": " ce",
+   "debut_ms": 191840,
+   "fin_ms": 192000,
+   "proba": 0.99
+  },
+  {
+   "mot": " colis",
+   "debut_ms": 192000,
+   "fin_ms": 192200,
+   "proba": 0.97
+  },
+  {
+   "mot": " En",
+   "debut_ms": 197019,
+   "fin_ms": 197420,
+   "proba": 0.93
+  },
+  {
+   "mot": " gros,",
+   "debut_ms": 197420,
+   "fin_ms": 197620,
+   "proba": 1.0
+  },
+  {
+   "mot": " c",
+   "debut_ms": 197740,
+   "fin_ms": 197740,
+   "proba": 0.68
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 197740,
+   "fin_ms": 197840,
+   "proba": 1.0
+  },
+  {
+   "mot": " une",
+   "debut_ms": 197840,
+   "fin_ms": 198820,
+   "proba": 1.0
+  },
+  {
+   "mot": " étiquette",
+   "debut_ms": 198820,
+   "fin_ms": 199320,
+   "proba": 1.0
+  },
+  {
+   "mot": " qui",
+   "debut_ms": 199320,
+   "fin_ms": 202860,
+   "proba": 0.93
+  },
+  {
+   "mot": " dira",
+   "debut_ms": 202860,
+   "fin_ms": 203080,
+   "proba": 1.0
+  },
+  {
+   "mot": " exactement",
+   "debut_ms": 203080,
+   "fin_ms": 203580,
+   "proba": 1.0
+  },
+  {
+   "mot": " ce",
+   "debut_ms": 203580,
+   "fin_ms": 203780,
+   "proba": 1.0
+  },
+  {
+   "mot": " qu",
+   "debut_ms": 203780,
+   "fin_ms": 203860,
+   "proba": 1.0
+  },
+  {
+   "mot": "'il",
+   "debut_ms": 203860,
+   "fin_ms": 203920,
+   "proba": 1.0
+  },
+  {
+   "mot": " y",
+   "debut_ms": 203920,
+   "fin_ms": 203980,
+   "proba": 1.0
+  },
+  {
+   "mot": " a",
+   "debut_ms": 203980,
+   "fin_ms": 203980,
+   "proba": 1.0
+  },
+  {
+   "mot": " dans",
+   "debut_ms": 203980,
+   "fin_ms": 204080,
+   "proba": 1.0
+  },
+  {
+   "mot": " ce",
+   "debut_ms": 204080,
+   "fin_ms": 204160,
+   "proba": 0.82
+  },
+  {
+   "mot": " colis.",
+   "debut_ms": 204160,
+   "fin_ms": 204400,
+   "proba": 0.99
+  },
+  {
+   "mot": " Et",
+   "debut_ms": 230820,
+   "fin_ms": 231140,
+   "proba": 0.88
+  },
+  {
+   "mot": " si",
+   "debut_ms": 231140,
+   "fin_ms": 231320,
+   "proba": 0.86
+  },
+  {
+   "mot": " cette",
+   "debut_ms": 231320,
+   "fin_ms": 231820,
+   "proba": 0.95
+  },
+  {
+   "mot": " étiquette",
+   "debut_ms": 231820,
+   "fin_ms": 232100,
+   "proba": 1.0
+  },
+  {
+   "mot": " n",
+   "debut_ms": 232100,
+   "fin_ms": 232200,
+   "proba": 1.0
+  },
+  {
+   "mot": "'y",
+   "debut_ms": 232200,
+   "fin_ms": 232240,
+   "proba": 0.99
+  },
+  {
+   "mot": " est",
+   "debut_ms": 232240,
+   "fin_ms": 232300,
+   "proba": 0.99
+  },
+  {
+   "mot": " pas,",
+   "debut_ms": 232300,
+   "fin_ms": 232500,
+   "proba": 1.0
+  },
+  {
+   "mot": " ou",
+   "debut_ms": 232700,
+   "fin_ms": 233080,
+   "proba": 0.99
+  },
+  {
+   "mot": " si",
+   "debut_ms": 233080,
+   "fin_ms": 233160,
+   "proba": 1.0
+  },
+  {
+   "mot": " elle",
+   "debut_ms": 233160,
+   "fin_ms": 233240,
+   "proba": 1.0
+  },
+  {
+   "mot": " est",
+   "debut_ms": 233240,
+   "fin_ms": 233380,
+   "proba": 1.0
+  },
+  {
+   "mot": " fausse,",
+   "debut_ms": 233380,
+   "fin_ms": 233640,
+   "proba": 1.0
+  },
+  {
+   "mot": " la",
+   "debut_ms": 233720,
+   "fin_ms": 233820,
+   "proba": 0.99
+  },
+  {
+   "mot": " déclaration",
+   "debut_ms": 233820,
+   "fin_ms": 234120,
+   "proba": 1.0
+  },
+  {
+   "mot": " est",
+   "debut_ms": 234120,
+   "fin_ms": 234260,
+   "proba": 0.96
+  },
+  {
+   "mot": " rejetée",
+   "debut_ms": 234260,
+   "fin_ms": 234580,
+   "proba": 0.99
+  },
+  {
+   "mot": " et",
+   "debut_ms": 234580,
+   "fin_ms": 234680,
+   "proba": 0.77
+  },
+  {
+   "mot": " que",
+   "debut_ms": 234680,
+   "fin_ms": 234780,
+   "proba": 0.39
+  },
+  {
+   "mot": " le",
+   "debut_ms": 234780,
+   "fin_ms": 234860,
+   "proba": 0.82
+  },
+  {
+   "mot": " dit",
+   "debut_ms": 234860,
+   "fin_ms": 234920,
+   "proba": 0.59
+  },
+  {
+   "mot": " reste",
+   "debut_ms": 234920,
+   "fin_ms": 235080,
+   "proba": 1.0
+  },
+  {
+   "mot": " à",
+   "debut_ms": 235080,
+   "fin_ms": 235200,
+   "proba": 1.0
+  },
+  {
+   "mot": " la",
+   "debut_ms": 235200,
+   "fin_ms": 235260,
+   "proba": 1.0
+  },
+  {
+   "mot": " frontière.",
+   "debut_ms": 235260,
+   "fin_ms": 235580,
+   "proba": 1.0
+  },
+  {
+   "mot": " Et",
+   "debut_ms": 238540,
+   "fin_ms": 238860,
+   "proba": 0.98
+  },
+  {
+   "mot": " s",
+   "debut_ms": 238860,
+   "fin_ms": 239020,
+   "proba": 0.7
+  },
+  {
+   "mot": "'il",
+   "debut_ms": 239020,
+   "fin_ms": 239740,
+   "proba": 1.0
+  },
+  {
+   "mot": " n",
+   "debut_ms": 239740,
+   "fin_ms": 239800,
+   "proba": 1.0
+  },
+  {
+   "mot": "'y",
+   "debut_ms": 239800,
+   "fin_ms": 239800,
+   "proba": 1.0
+  },
+  {
+   "mot": " a",
+   "debut_ms": 239800,
+   "fin_ms": 239840,
+   "proba": 1.0
+  },
+  {
+   "mot": " pas",
+   "debut_ms": 239840,
+   "fin_ms": 239940,
+   "proba": 1.0
+  },
+  {
+   "mot": " cette",
+   "debut_ms": 239940,
+   "fin_ms": 240080,
+   "proba": 1.0
+  },
+  {
+   "mot": " étiquette,",
+   "debut_ms": 240080,
+   "fin_ms": 240500,
+   "proba": 1.0
+  },
+  {
+   "mot": " ou",
+   "debut_ms": 240660,
+   "fin_ms": 247140,
+   "proba": 0.55
+  },
+  {
+   "mot": " que",
+   "debut_ms": 247140,
+   "fin_ms": 250340,
+   "proba": 0.99
+  },
+  {
+   "mot": " la",
+   "debut_ms": 250340,
+   "fin_ms": 250400,
+   "proba": 1.0
+  },
+  {
+   "mot": " déclaration",
+   "debut_ms": 250400,
+   "fin_ms": 250740,
+   "proba": 1.0
+  },
+  {
+   "mot": " est",
+   "debut_ms": 250740,
+   "fin_ms": 250940,
+   "proba": 1.0
+  },
+  {
+   "mot": " fausse,",
+   "debut_ms": 250940,
+   "fin_ms": 251420,
+   "proba": 1.0
+  },
+  {
+   "mot": " Et",
+   "debut_ms": 259040,
+   "fin_ms": 259360,
+   "proba": 0.83
+  },
+  {
+   "mot": " s",
+   "debut_ms": 259360,
+   "fin_ms": 259500,
+   "proba": 0.34
+  },
+  {
+   "mot": "'il",
+   "debut_ms": 259500,
+   "fin_ms": 261320,
+   "proba": 1.0
+  },
+  {
+   "mot": " n",
+   "debut_ms": 261320,
+   "fin_ms": 261480,
+   "proba": 1.0
+  },
+  {
+   "mot": "'y",
+   "debut_ms": 261480,
+   "fin_ms": 261500,
+   "proba": 1.0
+  },
+  {
+   "mot": " a",
+   "debut_ms": 261500,
+   "fin_ms": 261560,
+   "proba": 1.0
+  },
+  {
+   "mot": " pas",
+   "debut_ms": 261560,
+   "fin_ms": 261720,
+   "proba": 1.0
+  },
+  {
+   "mot": " cette",
+   "debut_ms": 261720,
+   "fin_ms": 262620,
+   "proba": 0.96
+  },
+  {
+   "mot": " étiquette",
+   "debut_ms": 262620,
+   "fin_ms": 263040,
+   "proba": 1.0
+  },
+  {
+   "mot": " ou",
+   "debut_ms": 263040,
+   "fin_ms": 263180,
+   "proba": 0.82
+  },
+  {
+   "mot": " que",
+   "debut_ms": 263180,
+   "fin_ms": 263260,
+   "proba": 0.98
+  },
+  {
+   "mot": " la",
+   "debut_ms": 263260,
+   "fin_ms": 263320,
+   "proba": 1.0
+  },
+  {
+   "mot": " déclaration",
+   "debut_ms": 263320,
+   "fin_ms": 263680,
+   "proba": 1.0
+  },
+  {
+   "mot": " est",
+   "debut_ms": 263680,
+   "fin_ms": 263860,
+   "proba": 0.99
+  },
+  {
+   "mot": " fausse,",
+   "debut_ms": 263860,
+   "fin_ms": 264140,
+   "proba": 1.0
+  },
+  {
+   "mot": " le",
+   "debut_ms": 264300,
+   "fin_ms": 264340,
+   "proba": 1.0
+  },
+  {
+   "mot": " colis",
+   "debut_ms": 264340,
+   "fin_ms": 264600,
+   "proba": 0.97
+  },
+  {
+   "mot": " est",
+   "debut_ms": 264600,
+   "fin_ms": 264680,
+   "proba": 0.99
+  },
+  {
+   "mot": " bloqué",
+   "debut_ms": 264680,
+   "fin_ms": 265000,
+   "proba": 1.0
+  },
+  {
+   "mot": " et",
+   "debut_ms": 265000,
+   "fin_ms": 265180,
+   "proba": 1.0
+  },
+  {
+   "mot": " reste",
+   "debut_ms": 265180,
+   "fin_ms": 265380,
+   "proba": 0.94
+  },
+  {
+   "mot": " à",
+   "debut_ms": 265380,
+   "fin_ms": 265480,
+   "proba": 1.0
+  },
+  {
+   "mot": " la",
+   "debut_ms": 265480,
+   "fin_ms": 265520,
+   "proba": 1.0
+  },
+  {
+   "mot": " frontière.",
+   "debut_ms": 265520,
+   "fin_ms": 265900,
+   "proba": 1.0
+  },
+  {
+   "mot": " Mais",
+   "debut_ms": 272960,
+   "fin_ms": 273280,
+   "proba": 0.89
+  },
+  {
+   "mot": " je",
+   "debut_ms": 273280,
+   "fin_ms": 273360,
+   "proba": 0.99
+  },
+  {
+   "mot": " te",
+   "debut_ms": 273360,
+   "fin_ms": 273440,
+   "proba": 1.0
+  },
+  {
+   "mot": " rassure",
+   "debut_ms": 273440,
+   "fin_ms": 273700,
+   "proba": 1.0
+  },
+  {
+   "mot": " tout",
+   "debut_ms": 273700,
+   "fin_ms": 273800,
+   "proba": 1.0
+  },
+  {
+   "mot": " de",
+   "debut_ms": 273800,
+   "fin_ms": 273880,
+   "proba": 1.0
+  },
+  {
+   "mot": " suite,",
+   "debut_ms": 273880,
+   "fin_ms": 274080,
+   "proba": 1.0
+  },
+  {
+   "mot": " c",
+   "debut_ms": 274260,
+   "fin_ms": 275140,
+   "proba": 0.66
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 275140,
+   "fin_ms": 275920,
+   "proba": 1.0
+  },
+  {
+   "mot": " pas",
+   "debut_ms": 275920,
+   "fin_ms": 275980,
+   "proba": 0.82
+  },
+  {
+   "mot": " toi",
+   "debut_ms": 275980,
+   "fin_ms": 276100,
+   "proba": 0.99
+  },
+  {
+   "mot": " qui",
+   "debut_ms": 276100,
+   "fin_ms": 278160,
+   "proba": 1.0
+  },
+  {
+   "mot": " remplis",
+   "debut_ms": 278160,
+   "fin_ms": 278500,
+   "proba": 0.94
+  },
+  {
+   "mot": " ça,",
+   "debut_ms": 278500,
+   "fin_ms": 278580,
+   "proba": 0.99
+  },
+  {
+   "mot": " c",
+   "debut_ms": 278680,
+   "fin_ms": 278680,
+   "proba": 1.0
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 278680,
+   "fin_ms": 278760,
+   "proba": 1.0
+  },
+  {
+   "mot": " ton",
+   "debut_ms": 278760,
+   "fin_ms": 278840,
+   "proba": 1.0
+  },
+  {
+   "mot": " agent",
+   "debut_ms": 278840,
+   "fin_ms": 279060,
+   "proba": 0.97
+  },
+  {
+   "mot": " qui",
+   "debut_ms": 279060,
+   "fin_ms": 279160,
+   "proba": 1.0
+  },
+  {
+   "mot": " s",
+   "debut_ms": 279160,
+   "fin_ms": 279240,
+   "proba": 1.0
+  },
+  {
+   "mot": "'en",
+   "debut_ms": 279240,
+   "fin_ms": 279300,
+   "proba": 1.0
+  },
+  {
+   "mot": " occupe.",
+   "debut_ms": 279300,
+   "fin_ms": 279580,
+   "proba": 1.0
+  },
+  {
+   "mot": " Les",
+   "debut_ms": 291840,
+   "fin_ms": 292300,
+   "proba": 0.74
+  },
+  {
+   "mot": " agents",
+   "debut_ms": 292300,
+   "fin_ms": 292540,
+   "proba": 1.0
+  },
+  {
+   "mot": " comme",
+   "debut_ms": 292540,
+   "fin_ms": 292740,
+   "proba": 0.91
+  },
+  {
+   "mot": " Boonbuy,",
+   "debut_ms": 292740,
+   "fin_ms": 293200,
+   "proba": 0.55
+  },
+  {
+   "mot": " etc.",
+   "debut_ms": 293200,
+   "fin_ms": 294680,
+   "proba": 0.99
+  },
+  {
+   "mot": " ont",
+   "debut_ms": 294980,
+   "fin_ms": 295080,
+   "proba": 0.98
+  },
+  {
+   "mot": " déjà",
+   "debut_ms": 295080,
+   "fin_ms": 295260,
+   "proba": 1.0
+  },
+  {
+   "mot": " trouvé",
+   "debut_ms": 295260,
+   "fin_ms": 295460,
+   "proba": 1.0
+  },
+  {
+   "mot": " des",
+   "debut_ms": 295460,
+   "fin_ms": 295560,
+   "proba": 1.0
+  },
+  {
+   "mot": " solutions",
+   "debut_ms": 295560,
+   "fin_ms": 295780,
+   "proba": 1.0
+  },
+  {
+   "mot": " à",
+   "debut_ms": 295780,
+   "fin_ms": 295960,
+   "proba": 1.0
+  },
+  {
+   "mot": " ce",
+   "debut_ms": 295960,
+   "fin_ms": 296040,
+   "proba": 1.0
+  },
+  {
+   "mot": " problème,",
+   "debut_ms": 296040,
+   "fin_ms": 296300,
+   "proba": 1.0
+  },
+  {
+   "mot": " donc",
+   "debut_ms": 297400,
+   "fin_ms": 307000,
+   "proba": 0.95
+  },
+  {
+   "mot": " ne",
+   "debut_ms": 307000,
+   "fin_ms": 307140,
+   "proba": 0.9
+  },
+  {
+   "mot": " vous",
+   "debut_ms": 307140,
+   "fin_ms": 307140,
+   "proba": 1.0
+  },
+  {
+   "mot": " inquiétez",
+   "debut_ms": 307140,
+   "fin_ms": 307460,
+   "proba": 1.0
+  },
+  {
+   "mot": " pas.",
+   "debut_ms": 307460,
+   "fin_ms": 307620,
+   "proba": 1.0
+  },
+  {
+   "mot": " bref",
+   "debut_ms": 327840,
+   "fin_ms": 328080,
+   "proba": 0.57
+  },
+  {
+   "mot": " bref",
+   "debut_ms": 328080,
+   "fin_ms": 328320,
+   "proba": 0.91
+  },
+  {
+   "mot": " c",
+   "debut_ms": 328320,
+   "fin_ms": 328460,
+   "proba": 0.88
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 328460,
+   "fin_ms": 328500,
+   "proba": 0.99
+  },
+  {
+   "mot": " toujours",
+   "debut_ms": 328500,
+   "fin_ms": 328640,
+   "proba": 0.98
+  },
+  {
+   "mot": " pas",
+   "debut_ms": 328640,
+   "fin_ms": 328740,
+   "proba": 0.98
+  },
+  {
+   "mot": " la",
+   "debut_ms": 328740,
+   "fin_ms": 328840,
+   "proba": 0.94
+  },
+  {
+   "mot": " fin",
+   "debut_ms": 328840,
+   "fin_ms": 328920,
+   "proba": 0.97
+  },
+  {
+   "mot": " de",
+   "debut_ms": 328920,
+   "fin_ms": 329000,
+   "proba": 0.97
+  },
+  {
+   "mot": " la",
+   "debut_ms": 329000,
+   "fin_ms": 329060,
+   "proba": 0.9
+  },
+  {
+   "mot": " rep",
+   "debut_ms": 329060,
+   "fin_ms": 329240,
+   "proba": 0.34
+  },
+  {
+   "mot": " bref",
+   "debut_ms": 329240,
+   "fin_ms": 330320,
+   "proba": 0.98
+  },
+  {
+   "mot": " bref",
+   "debut_ms": 330320,
+   "fin_ms": 331440,
+   "proba": 0.98
+  },
+  {
+   "mot": " c",
+   "debut_ms": 331440,
+   "fin_ms": 331660,
+   "proba": 0.95
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 331660,
+   "fin_ms": 331700,
+   "proba": 1.0
+  },
+  {
+   "mot": " toujours",
+   "debut_ms": 331700,
+   "fin_ms": 331840,
+   "proba": 1.0
+  },
+  {
+   "mot": " pas",
+   "debut_ms": 331840,
+   "fin_ms": 331960,
+   "proba": 0.99
+  },
+  {
+   "mot": " la",
+   "debut_ms": 331960,
+   "fin_ms": 332060,
+   "proba": 0.99
+  },
+  {
+   "mot": " fin",
+   "debut_ms": 332060,
+   "fin_ms": 332160,
+   "proba": 0.99
+  },
+  {
+   "mot": " de",
+   "debut_ms": 332160,
+   "fin_ms": 332240,
+   "proba": 0.99
+  },
+  {
+   "mot": " la",
+   "debut_ms": 332240,
+   "fin_ms": 332300,
+   "proba": 0.96
+  },
+  {
+   "mot": " rep",
+   "debut_ms": 332300,
+   "fin_ms": 332520,
+   "proba": 0.58
+  },
+  {
+   "mot": " bref",
+   "debut_ms": 332520,
+   "fin_ms": 333600,
+   "proba": 0.99
+  },
+  {
+   "mot": " c",
+   "debut_ms": 333600,
+   "fin_ms": 333680,
+   "proba": 0.94
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 333680,
+   "fin_ms": 333760,
+   "proba": 1.0
+  },
+  {
+   "mot": " toujours",
+   "debut_ms": 333760,
+   "fin_ms": 333900,
+   "proba": 1.0
+  },
+  {
+   "mot": " pas",
+   "debut_ms": 333900,
+   "fin_ms": 334020,
+   "proba": 0.99
+  },
+  {
+   "mot": " la",
+   "debut_ms": 334020,
+   "fin_ms": 334140,
+   "proba": 0.98
+  },
+  {
+   "mot": " fin",
+   "debut_ms": 334140,
+   "fin_ms": 334220,
+   "proba": 0.98
+  },
+  {
+   "mot": " de",
+   "debut_ms": 334220,
+   "fin_ms": 334280,
+   "proba": 0.98
+  },
+  {
+   "mot": " la",
+   "debut_ms": 334280,
+   "fin_ms": 334360,
+   "proba": 0.96
+  },
+  {
+   "mot": " rep",
+   "debut_ms": 334360,
+   "fin_ms": 334560,
+   "proba": 0.43
+  },
+  {
+   "mot": " et",
+   "debut_ms": 334560,
+   "fin_ms": 334700,
+   "proba": 0.54
+  },
+  {
+   "mot": " si",
+   "debut_ms": 334700,
+   "fin_ms": 334820,
+   "proba": 0.99
+  },
+  {
+   "mot": " tu",
+   "debut_ms": 334820,
+   "fin_ms": 334920,
+   "proba": 1.0
+  },
+  {
+   "mot": " veux",
+   "debut_ms": 334920,
+   "fin_ms": 335000,
+   "proba": 0.97
+  },
+  {
+   "mot": " t",
+   "debut_ms": 335000,
+   "fin_ms": 335100,
+   "proba": 0.92
+  },
+  {
+   "mot": "'inscrire",
+   "debut_ms": 335100,
+   "fin_ms": 335400,
+   "proba": 1.0
+  },
+  {
+   "mot": " il",
+   "debut_ms": 335400,
+   "fin_ms": 335580,
+   "proba": 0.71
+  },
+  {
+   "mot": " ya",
+   "debut_ms": 335580,
+   "fin_ms": 335660,
+   "proba": 0.91
+  },
+  {
+   "mot": " moins",
+   "debut_ms": 335660,
+   "fin_ms": 335800,
+   "proba": 0.72
+  },
+  {
+   "mot": " 40",
+   "debut_ms": 335800,
+   "fin_ms": 336060,
+   "proba": 0.83
+  },
+  {
+   "mot": " bref",
+   "debut_ms": 336060,
+   "fin_ms": 337700,
+   "proba": 0.96
+  },
+  {
+   "mot": " c",
+   "debut_ms": 337700,
+   "fin_ms": 337800,
+   "proba": 0.99
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 337800,
+   "fin_ms": 337820,
+   "proba": 1.0
+  },
+  {
+   "mot": " toujours",
+   "debut_ms": 337820,
+   "fin_ms": 337980,
+   "proba": 1.0
+  },
+  {
+   "mot": " pas",
+   "debut_ms": 337980,
+   "fin_ms": 338180,
+   "proba": 1.0
+  },
+  {
+   "mot": " bref",
+   "debut_ms": 338560,
+   "fin_ms": 338800,
+   "proba": 0.99
+  },
+  {
+   "mot": " c",
+   "debut_ms": 338800,
+   "fin_ms": 338900,
+   "proba": 0.99
+  },
+  {
+   "mot": "'est",
+   "debut_ms": 338900,
+   "fin_ms": 338920,
+   "proba": 1.0
+  },
+  {
+   "mot": " toujours",
+   "debut_ms": 338920,
+   "fin_ms": 339080,
+   "proba": 1.0
+  },
+  {
+   "mot": " pas",
+   "debut_ms": 339080,
+   "fin_ms": 339200,
+   "proba": 1.0
+  },
+  {
+   "mot": " la",
+   "debut_ms": 339200,
+   "fin_ms": 339300,
+   "proba": 0.98
+  },
+  {
+   "mot": " fin",
+   "debut_ms": 339300,
+   "fin_ms": 339400,
+   "proba": 1.0
+  },
+  {
+   "mot": " de",
+   "debut_ms": 339400,
+   "fin_ms": 339480,
+   "proba": 1.0
+  },
+  {
+   "mot": " la",
+   "debut_ms": 339480,
+   "fin_ms": 339560,
+   "proba": 0.98
+  },
+  {
+   "mot": " rép",
+   "debut_ms": 339560,
+   "fin_ms": 339740,
+   "proba": 0.06
+  },
+  {
+   "mot": " et",
+   "debut_ms": 339740,
+   "fin_ms": 339880,
+   "proba": 0.87
+  },
+  {
+   "mot": " si",
+   "debut_ms": 339880,
+   "fin_ms": 340000,
+   "proba": 1.0
+  },
+  {
+   "mot": " tu",
+   "debut_ms": 340000,
+   "fin_ms": 340120,
+   "proba": 1.0
+  },
+  {
+   "mot": " veux",
+   "debut_ms": 340120,
+   "fin_ms": 340240,
+   "proba": 0.97
+  },
+  {
+   "mot": " commander",
+   "debut_ms": 340240,
+   "fin_ms": 340520,
+   "proba": 0.95
+  },
+  {
+   "mot": " en",
+   "debut_ms": 340520,
+   "fin_ms": 340840,
+   "proba": 0.89
+  },
+  {
+   "mot": " t",
+   "debut_ms": 340840,
+   "fin_ms": 340900,
+   "proba": 0.71
+  },
+  {
+   "mot": "'inscrivant",
+   "debut_ms": 340900,
+   "fin_ms": 341220,
+   "proba": 1.0
+  },
+  {
+   "mot": " avec",
+   "debut_ms": 341220,
+   "fin_ms": 341420,
+   "proba": 0.98
+  },
+  {
+   "mot": " le",
+   "debut_ms": 341420,
+   "fin_ms": 341520,
+   "proba": 0.44
+  },
+  {
+   "mot": " lien",
+   "debut_ms": 341520,
+   "fin_ms": 341620,
+   "proba": 0.86
+  },
+  {
+   "mot": " dans",
+   "debut_ms": 341620,
+   "fin_ms": 341800,
+   "proba": 0.34
+  },
+  {
+   "mot": " ma",
+   "debut_ms": 341800,
+   "fin_ms": 341940,
+   "proba": 0.98
+  },
+  {
+   "mot": " bio",
+   "debut_ms": 341940,
+   "fin_ms": 342040,
+   "proba": 0.69
+  },
+  {
+   "mot": " tu",
+   "debut_ms": 342040,
+   "fin_ms": 342140,
+   "proba": 0.66
+  },
+  {
+   "mot": " as",
+   "debut_ms": 342140,
+   "fin_ms": 342200,
+   "proba": 0.9
+  },
+  {
+   "mot": " moins",
+   "debut_ms": 342200,
+   "fin_ms": 342380,
+   "proba": 0.36
+  },
+  {
+   "mot": " 40",
+   "debut_ms": 342380,
+   "fin_ms": 342680,
+   "proba": 0.87
+  },
+  {
+   "mot": "%",
+   "debut_ms": 342680,
+   "fin_ms": 342980,
+   "proba": 0.66
+  },
+  {
+   "mot": " et",
+   "debut_ms": 342980,
+   "fin_ms": 343160,
+   "proba": 0.98
+  },
+  {
+   "mot": " moins",
+   "debut_ms": 343160,
+   "fin_ms": 343320,
+   "proba": 0.85
+  },
+  {
+   "mot": " 500",
+   "debut_ms": 343320,
+   "fin_ms": 343600,
+   "proba": 0.96
+  },
+  {
+   "mot": " dollars",
+   "debut_ms": 343600,
+   "fin_ms": 343800,
+   "proba": 0.64
+  },
+  {
+   "mot": " en",
+   "debut_ms": 343800,
+   "fin_ms": 343960,
+   "proba": 0.99
+  },
+  {
+   "mot": " coupons",
+   "debut_ms": 343960,
+   "fin_ms": 344260,
+   "proba": 0.85
+  },
+  {
+   "mot": " sur",
+   "debut_ms": 344260,
+   "fin_ms": 344380,
+   "proba": 0.96
+  },
+  {
+   "mot": " ta",
+   "debut_ms": 344380,
+   "fin_ms": 344480,
+   "proba": 0.89
+  },
+  {
+   "mot": " livraison",
+   "debut_ms": 344480,
+   "fin_ms": 344840,
+   "proba": 0.99
+  }
+ ]
+}

@@ -1,0 +1,1336 @@
+{
+  "nom": "img2893",
+  "format": "9:16",
+  "export": {
+    "resolution": "1080p",
+    "fps": 30
+  },
+  "_notes": "Top 3 doudounes de PNJ : plaques PNJ jeu vidéo, médailles, photos produits, tambour, confettis ; Timeless (instrumental).",
+  "voix": {
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/voix-dyn.wav",
+    "volume": 1.0
+  },
+  "lueur_defaut": "ombre",
+  "musique": {
+    "id": "timeless-instrumental",
+    "source_debut_ms": 21680,
+    "volume": 0.08,
+    "volume_sous_voix": 0.05,
+    "fondu_entree_ms": 120,
+    "fondu_sortie_ms": 700,
+    "pourquoi": "Timeless (instrumental) : très trend et SANS chant (aucune concurrence avec la voix) ; drop calé sur le début du classement."
+  },
+  "clips": [
+    {
+      "nom": "Accroche",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+      "debut_ms": 410,
+      "fin_ms": 2543,
+      "volume": 0.0,
+      "source_rush_ms": [
+        30010,
+        32143
+      ]
+    },
+    {
+      "nom": "Top3",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+      "debut_ms": 3376,
+      "fin_ms": 8610,
+      "volume": 0.0,
+      "source_rush_ms": [
+        40443,
+        45677
+      ],
+      "zooms": [
+        {
+          "t_ms": 4437,
+          "zoom": 1.4,
+          "cible": "visage",
+          "duree_ms": 600,
+          "pourquoi": "La chute (« elle est FINITO ») : punch serré.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "Top2",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+      "debut_ms": 9459,
+      "fin_ms": 14092,
+      "volume": 0.0,
+      "source_rush_ms": [
+        110192,
+        114825
+      ],
+      "zoom": 1.15
+    },
+    {
+      "nom": "PNJ2",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+      "debut_ms": 14915,
+      "fin_ms": 16848,
+      "volume": 0.0,
+      "source_rush_ms": [
+        116215,
+        118148
+      ]
+    },
+    {
+      "nom": "Top1",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+      "debut_ms": 17678,
+      "fin_ms": 21345,
+      "volume": 0.0,
+      "source_rush_ms": [
+        177378,
+        181045
+      ],
+      "zooms": [
+        {
+          "t_ms": 122,
+          "zoom": 1.3,
+          "cible": "visage",
+          "duree_ms": 1200,
+          "pourquoi": "Suspense du top 1 : rapprochement lent pendant le roulement de tambour.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "Burberry",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2893/rushes/selects-1440.mp4",
+      "debut_ms": 22173,
+      "fin_ms": 28106,
+      "volume": 0.0,
+      "source_rush_ms": [
+        223240,
+        229173
+      ],
+      "zooms": [
+        {
+          "t_ms": 735,
+          "zoom": 1.35,
+          "cible": "visage",
+          "duree_ms": 600,
+          "pourquoi": "La révélation (BURBERRY).",
+          "ecran_y": 0.36
+        },
+        {
+          "t_ms": 2975,
+          "zoom": 1.0,
+          "cible": "plan",
+          "duree_ms": 900,
+          "pourquoi": "Retour large : la plaque « PNJ niv. MAX » arrive au-dessus de sa tête."
+        }
+      ]
+    }
+  ],
+  "stickers": [
+    {
+      "id": "bandeau-top3-doudounes-pnj",
+      "x": 0.5,
+      "y": 0.64,
+      "largeur": 0.86,
+      "apparait_ms": 60,
+      "disparait_ms": 2073,
+      "pourquoi": "Accroche : bandeau « CLASSEMENT — TOP 3 DOUDOUNES DE PNJ » dès la première image."
+    },
+    {
+      "id": "plaque-pnj-niv1",
+      "x": 0.4,
+      "y": 0.2527,
+      "largeur": 0.46,
+      "apparait_ms": 930,
+      "disparait_ms": 2073,
+      "lueur": "aucune",
+      "suivi_ms": 220,
+      "deplacements": [
+        {
+          "t_ms": 1030,
+          "x": 0.3889,
+          "y": 0.2501
+        },
+        {
+          "t_ms": 1130,
+          "x": 0.3747,
+          "y": 0.2476
+        },
+        {
+          "t_ms": 1230,
+          "x": 0.3591,
+          "y": 0.2453
+        },
+        {
+          "t_ms": 1330,
+          "x": 0.3441,
+          "y": 0.2441
+        },
+        {
+          "t_ms": 1430,
+          "x": 0.3328,
+          "y": 0.2449
+        },
+        {
+          "t_ms": 1530,
+          "x": 0.326,
+          "y": 0.2466
+        },
+        {
+          "t_ms": 1630,
+          "x": 0.3253,
+          "y": 0.2491
+        },
+        {
+          "t_ms": 1730,
+          "x": 0.332,
+          "y": 0.2524
+        },
+        {
+          "t_ms": 1830,
+          "x": 0.3459,
+          "y": 0.2575
+        },
+        {
+          "t_ms": 1930,
+          "x": 0.3642,
+          "y": 0.2622
+        },
+        {
+          "t_ms": 2030,
+          "x": 0.3829,
+          "y": 0.2665
+        },
+        {
+          "t_ms": 2130,
+          "x": 0.397,
+          "y": 0.2692
+        },
+        {
+          "t_ms": 2230,
+          "x": 0.3279,
+          "y": 0.2419
+        }
+      ],
+      "pourquoi": "« de PNJ » : plaque de personnage de jeu vidéo au-dessus de sa tête, niveau 1."
+    },
+    {
+      "id": "produit-moncler-maya-noire",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.44,
+      "pop": 1.3,
+      "apparait_ms": 3420,
+      "disparait_ms": 7307,
+      "pourquoi": "« la MONCLER Maya noire brillante » : la vraie doudoune (photo officielle)."
+    },
+    {
+      "id": "medaille-3",
+      "x": 0.71,
+      "y": 0.46,
+      "largeur": 0.2,
+      "lueur": "#E0995A",
+      "lueur_rayon": 0.6,
+      "lueur_opacite": 95,
+      "lueur_intensite": 1.6,
+      "lueur_anim": true,
+      "reflet": {
+        "t_ms": 3500
+      },
+      "apparait_ms": 2850,
+      "disparait_ms": 7307,
+      "pourquoi": "« top 3 » : médaille de bronze."
+    },
+    {
+      "id": "tampon-finito",
+      "x": 0.5,
+      "y": 0.62,
+      "largeur": 0.56,
+      "apparait_ms": 6470,
+      "disparait_ms": 7307,
+      "lueur": "aucune",
+      "pop": 1.35,
+      "pourquoi": "« elle est FINITO » : tampon rouge sur la Moncler."
+    },
+    {
+      "id": "produit-canada-goose-macmillan-noire",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.44,
+      "pop": 1.3,
+      "apparait_ms": 8535,
+      "disparait_ms": 13873,
+      "pourquoi": "« Canada Goose noire mate » : la vraie doudoune ; elle reste pendant « si t'as ça »."
+    },
+    {
+      "id": "medaille-2",
+      "x": 0.71,
+      "y": 0.46,
+      "largeur": 0.2,
+      "lueur": "#DCE1E8",
+      "lueur_rayon": 0.6,
+      "lueur_opacite": 95,
+      "lueur_intensite": 1.6,
+      "lueur_anim": true,
+      "reflet": {
+        "t_ms": 8145
+      },
+      "apparait_ms": 7495,
+      "disparait_ms": 13873,
+      "pourquoi": "« top 2 » : médaille d'argent."
+    },
+    {
+      "id": "plaque-pnj-niv50",
+      "x": 0.3553,
+      "y": 0.2549,
+      "largeur": 0.46,
+      "apparait_ms": 13280,
+      "disparait_ms": 13873,
+      "lueur": "aucune",
+      "suivi_ms": 220,
+      "deplacements": [
+        {
+          "t_ms": 13380,
+          "x": 0.3719,
+          "y": 0.259
+        },
+        {
+          "t_ms": 13480,
+          "x": 0.387,
+          "y": 0.2627
+        },
+        {
+          "t_ms": 13580,
+          "x": 0.3987,
+          "y": 0.2657
+        },
+        {
+          "t_ms": 13680,
+          "x": 0.4072,
+          "y": 0.2692
+        },
+        {
+          "t_ms": 13780,
+          "x": 0.4114,
+          "y": 0.273
+        },
+        {
+          "t_ms": 13880,
+          "x": 0.4121,
+          "y": 0.2743
+        },
+        {
+          "t_ms": 13980,
+          "x": 0.3695,
+          "y": 0.257
+        },
+        {
+          "t_ms": 14080,
+          "x": 0.3686,
+          "y": 0.258
+        }
+      ],
+      "pourquoi": "« t'es aussi un gros PNJ » : la plaque revient, niveau 50."
+    },
+    {
+      "id": "logo-discord",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.56,
+      "apparait_ms": 14935,
+      "disparait_ms": 16175,
+      "pourquoi": "« la communauté DISCORD »."
+    },
+    {
+      "id": "pastille-100k-membres",
+      "x": 0.5,
+      "y": 0.69,
+      "largeur": 0.62,
+      "apparait_ms": 15495,
+      "disparait_ms": 16175,
+      "pourquoi": "« 100 000 membres »."
+    },
+    {
+      "id": "bouton-lien-en-bio",
+      "x": 0.5,
+      "y": 0.62,
+      "largeur": 0.6,
+      "apparait_ms": 16795,
+      "disparait_ms": 17540,
+      "pourquoi": "« dans ma bio » : le bouton."
+    },
+    {
+      "id": "produit-burberry-doudoune-noire",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.44,
+      "pop": 1.3,
+      "apparait_ms": 18235,
+      "disparait_ms": 19575,
+      "reflet": {
+        "t_ms": 18935
+      },
+      "pourquoi": "La révélation : la doudoune Burberry (photo officielle), sur le flash et l'impact."
+    },
+    {
+      "id": "medaille-1",
+      "x": 0.71,
+      "y": 0.46,
+      "largeur": 0.2,
+      "lueur": "#F5C542",
+      "lueur_rayon": 0.6,
+      "lueur_opacite": 95,
+      "lueur_intensite": 1.6,
+      "lueur_anim": true,
+      "reflet": {
+        "t_ms": 14745
+      },
+      "apparait_ms": 14095,
+      "disparait_ms": 19575,
+      "pourquoi": "« le top 1 » : médaille d'or… seule, sans doudoune : suspense jusqu'à la révélation."
+    },
+    {
+      "id": "commentaire-burberry",
+      "x": 0.5,
+      "y": 0.64,
+      "largeur": 0.72,
+      "apparait_ms": 19825,
+      "disparait_ms": 21115,
+      "pourquoi": "« dis-le-moi en COMMENTAIRE » : un faux commentaire d'abonné."
+    },
+    {
+      "id": "confettis",
+      "x": 0.5,
+      "y": 0.5,
+      "largeur": 1.0,
+      "apparait_ms": 20475,
+      "disparait_ms": 22105,
+      "lueur": "aucune",
+      "pop": 1.15,
+      "pourquoi": "« FÉLICITATIONS » : explosion de confettis autour de lui."
+    },
+    {
+      "id": "plaque-pnj-max",
+      "x": 0.3927,
+      "y": 0.2405,
+      "largeur": 0.46,
+      "apparait_ms": 22155,
+      "disparait_ms": 23283,
+      "lueur": "aucune",
+      "suivi_ms": 220,
+      "deplacements": [
+        {
+          "t_ms": 22255,
+          "x": 0.3907,
+          "y": 0.2405
+        },
+        {
+          "t_ms": 22355,
+          "x": 0.3881,
+          "y": 0.241
+        },
+        {
+          "t_ms": 22455,
+          "x": 0.385,
+          "y": 0.2417
+        },
+        {
+          "t_ms": 22555,
+          "x": 0.3815,
+          "y": 0.2414
+        },
+        {
+          "t_ms": 22655,
+          "x": 0.3776,
+          "y": 0.2413
+        },
+        {
+          "t_ms": 22755,
+          "x": 0.3739,
+          "y": 0.2416
+        },
+        {
+          "t_ms": 22855,
+          "x": 0.3711,
+          "y": 0.2411
+        },
+        {
+          "t_ms": 22955,
+          "x": 0.3693,
+          "y": 0.2399
+        },
+        {
+          "t_ms": 23055,
+          "x": 0.3682,
+          "y": 0.2392
+        },
+        {
+          "t_ms": 23155,
+          "x": 0.3677,
+          "y": 0.2392
+        },
+        {
+          "t_ms": 23255,
+          "x": 0.3682,
+          "y": 0.2382
+        },
+        {
+          "t_ms": 23355,
+          "x": 0.3689,
+          "y": 0.238
+        },
+        {
+          "t_ms": 23455,
+          "x": 0.369,
+          "y": 0.2393
+        }
+      ],
+      "pourquoi": "« le plus gros PNJ que je connaisse » : plaque dorée, niveau MAX (fin du running gag)."
+    }
+  ],
+  "flashs": [
+    {
+      "t_ms": 7367,
+      "couleur": "#FFFFFF",
+      "pic": 45,
+      "montee_ms": 30,
+      "descente_ms": 240,
+      "pourquoi": "Transition flash entre deux rangs."
+    },
+    {
+      "t_ms": 13933,
+      "couleur": "#FFFFFF",
+      "pic": 45,
+      "montee_ms": 30,
+      "descente_ms": 240,
+      "pourquoi": "Transition flash entre deux rangs."
+    },
+    {
+      "t_ms": 17600,
+      "couleur": "#FFFFFF",
+      "pic": 45,
+      "montee_ms": 30,
+      "descente_ms": 240,
+      "pourquoi": "Transition flash entre deux rangs."
+    }
+  ],
+  "sfx": [
+    {
+      "id": "clic-de-photo-09",
+      "t_ms": 7347,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "Transition flash : déclencheur photo."
+    },
+    {
+      "id": "clic-de-photo-09",
+      "t_ms": 13913,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "Transition flash : déclencheur photo."
+    },
+    {
+      "id": "8-bit-bounce",
+      "t_ms": 930,
+      "calage": "debut",
+      "sous_voix_db": 15,
+      "pourquoi": "Plaque PNJ niv. 1 : son de jeu vidéo."
+    },
+    {
+      "id": "short-punchy-sine-wave-ding-4-d-211755",
+      "t_ms": 2850,
+      "calage": "debut",
+      "sous_voix_db": 16,
+      "pourquoi": "Médaille #3."
+    },
+    {
+      "id": "pop-bloup",
+      "t_ms": 3420,
+      "sous_voix_db": 13,
+      "pourquoi": "La Moncler apparaît."
+    },
+    {
+      "id": "punch",
+      "t_ms": 6510,
+      "sous_voix_db": 14,
+      "pourquoi": "Le tampon FINITO s'écrase."
+    },
+    {
+      "id": "comical-disappointment",
+      "t_ms": 6820,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "« finito » : déception comique."
+    },
+    {
+      "id": "short-punchy-sine-wave-ding-4-d-211755",
+      "t_ms": 7495,
+      "calage": "debut",
+      "sous_voix_db": 16,
+      "pourquoi": "Médaille #2."
+    },
+    {
+      "id": "jug-pop-1-186886",
+      "t_ms": 8535,
+      "pourquoi": "La Canada Goose apparaît (pop grave)."
+    },
+    {
+      "id": "8-bit-bounce",
+      "t_ms": 13280,
+      "calage": "debut",
+      "sous_voix_db": 15,
+      "pourquoi": "Plaque PNJ niv. 50 : même son (running gag)."
+    },
+    {
+      "id": "drumroll",
+      "t_ms": 13875,
+      "calage": "debut",
+      "source_debut_ms": 202,
+      "sous_voix_db": 20,
+      "pourquoi": "Roulement de tambour pendant l'annonce du top 1 : il finit pile sur la révélation."
+    },
+    {
+      "id": "short-punchy-sine-wave-ding-4-d-211755",
+      "t_ms": 14095,
+      "calage": "debut",
+      "sous_voix_db": 16,
+      "pourquoi": "Médaille #1."
+    },
+    {
+      "id": "cinemear-graphix-pop-finger-drum-on-a-tiny-vase",
+      "t_ms": 14935,
+      "sous_voix_db": 14,
+      "pourquoi": "Logo Discord."
+    },
+    {
+      "id": "click-02",
+      "t_ms": 16795,
+      "calage": "debut",
+      "sous_voix_db": 14,
+      "pourquoi": "Bouton lien en bio."
+    },
+    {
+      "id": "clic-de-photo-09",
+      "t_ms": 17580,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "Flash de la révélation."
+    },
+    {
+      "id": "impact-doux",
+      "t_ms": 18235,
+      "sous_voix_db": 12,
+      "pourquoi": "Révélation BURBERRY : impact sur la fin du tambour."
+    },
+    {
+      "id": "minimal-pop-click-ui-3-198303",
+      "t_ms": 19825,
+      "sous_voix_db": 15,
+      "pourquoi": "Le commentaire."
+    },
+    {
+      "id": "party-horn",
+      "t_ms": 20475,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "« félicitations » : corne de fête + confettis."
+    },
+    {
+      "id": "am-level-up-02",
+      "t_ms": 22155,
+      "calage": "debut",
+      "sous_voix_db": 14,
+      "pourquoi": "PNJ niveau MAX : level-up."
+    }
+  ],
+  "sous_titres": {
+    "preset": "sover8-pop",
+    "mots": [
+      {
+        "mot": "Top",
+        "debut_ms": 40,
+        "fin_ms": 140,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "3",
+        "debut_ms": 140,
+        "fin_ms": 400,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "des",
+        "debut_ms": 400,
+        "fin_ms": 540,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "doudounes",
+        "debut_ms": 540,
+        "fin_ms": 940,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "de",
+        "debut_ms": 940,
+        "fin_ms": 1000,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "PNJ",
+        "debut_ms": 1030,
+        "fin_ms": 1280,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "pour",
+        "debut_ms": 1280,
+        "fin_ms": 1440,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "cet",
+        "debut_ms": 1440,
+        "fin_ms": 1600,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "hiver.",
+        "debut_ms": 1600,
+        "fin_ms": 1900,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "On",
+        "debut_ms": 2070,
+        "fin_ms": 2310,
+        "prise": "Top3"
+      },
+      {
+        "mot": "commence",
+        "debut_ms": 2310,
+        "fin_ms": 2590,
+        "prise": "Top3"
+      },
+      {
+        "mot": "par",
+        "debut_ms": 2590,
+        "fin_ms": 2730,
+        "prise": "Top3"
+      },
+      {
+        "mot": "le",
+        "debut_ms": 2730,
+        "fin_ms": 2850,
+        "prise": "Top3"
+      },
+      {
+        "mot": "top",
+        "debut_ms": 2850,
+        "fin_ms": 2950,
+        "prise": "Top3"
+      },
+      {
+        "mot": "3,",
+        "debut_ms": 2950,
+        "fin_ms": 3190,
+        "prise": "Top3"
+      },
+      {
+        "mot": "c'est",
+        "debut_ms": 3310,
+        "fin_ms": 3430,
+        "prise": "Top3"
+      },
+      {
+        "mot": "la",
+        "debut_ms": 3430,
+        "fin_ms": 3510,
+        "prise": "Top3"
+      },
+      {
+        "mot": "Moncler",
+        "debut_ms": 3520,
+        "fin_ms": 3930,
+        "prise": "Top3"
+      },
+      {
+        "mot": "Maya",
+        "debut_ms": 3930,
+        "fin_ms": 4250,
+        "prise": "Top3"
+      },
+      {
+        "mot": "noire",
+        "debut_ms": 4250,
+        "fin_ms": 4810,
+        "prise": "Top3"
+      },
+      {
+        "mot": "brillante,",
+        "debut_ms": 4810,
+        "fin_ms": 5430,
+        "prise": "Top3"
+      },
+      {
+        "mot": "celle-là",
+        "debut_ms": 5570,
+        "fin_ms": 5870,
+        "prise": "Top3"
+      },
+      {
+        "mot": "les",
+        "debut_ms": 5870,
+        "fin_ms": 6050,
+        "prise": "Top3"
+      },
+      {
+        "mot": "gars,",
+        "debut_ms": 6050,
+        "fin_ms": 6190,
+        "prise": "Top3"
+      },
+      {
+        "mot": "elle",
+        "debut_ms": 6190,
+        "fin_ms": 6430,
+        "prise": "Top3"
+      },
+      {
+        "mot": "est",
+        "debut_ms": 6430,
+        "fin_ms": 6570,
+        "prise": "Top3"
+      },
+      {
+        "mot": "finito.",
+        "debut_ms": 6570,
+        "fin_ms": 7110,
+        "prise": "Top3"
+      },
+      {
+        "mot": "En",
+        "debut_ms": 7315,
+        "fin_ms": 7455,
+        "prise": "Top2"
+      },
+      {
+        "mot": "top",
+        "debut_ms": 7455,
+        "fin_ms": 7595,
+        "prise": "Top2"
+      },
+      {
+        "mot": "2,",
+        "debut_ms": 7595,
+        "fin_ms": 7835,
+        "prise": "Top2"
+      },
+      {
+        "mot": "on",
+        "debut_ms": 8055,
+        "fin_ms": 8115,
+        "prise": "Top2"
+      },
+      {
+        "mot": "a",
+        "debut_ms": 8145,
+        "fin_ms": 8205,
+        "prise": "Top2"
+      },
+      {
+        "mot": "cette",
+        "debut_ms": 8235,
+        "fin_ms": 8335,
+        "prise": "Top2"
+      },
+      {
+        "mot": "doudoune",
+        "debut_ms": 8335,
+        "fin_ms": 8635,
+        "prise": "Top2"
+      },
+      {
+        "mot": "Canada",
+        "debut_ms": 8635,
+        "fin_ms": 8835,
+        "prise": "Top2"
+      },
+      {
+        "mot": "Goose",
+        "debut_ms": 8835,
+        "fin_ms": 9215,
+        "prise": "Top2"
+      },
+      {
+        "mot": "noire",
+        "debut_ms": 9215,
+        "fin_ms": 9635,
+        "prise": "Top2"
+      },
+      {
+        "mot": "mate,",
+        "debut_ms": 9635,
+        "fin_ms": 9875,
+        "prise": "Top2"
+      },
+      {
+        "mot": "il",
+        "debut_ms": 10155,
+        "fin_ms": 10215,
+        "prise": "Top2"
+      },
+      {
+        "mot": "me",
+        "debut_ms": 10245,
+        "fin_ms": 10305,
+        "prise": "Top2"
+      },
+      {
+        "mot": "semble",
+        "debut_ms": 10335,
+        "fin_ms": 10415,
+        "prise": "Top2"
+      },
+      {
+        "mot": "que",
+        "debut_ms": 10425,
+        "fin_ms": 10515,
+        "prise": "Top2"
+      },
+      {
+        "mot": "c'est",
+        "debut_ms": 10515,
+        "fin_ms": 10635,
+        "prise": "Top2"
+      },
+      {
+        "mot": "la",
+        "debut_ms": 10635,
+        "fin_ms": 10715,
+        "prise": "Top2"
+      },
+      {
+        "mot": "Mac",
+        "debut_ms": 10725,
+        "fin_ms": 10915,
+        "prise": "Top2"
+      },
+      {
+        "mot": "Milan,",
+        "debut_ms": 10915,
+        "fin_ms": 11155,
+        "prise": "Top2"
+      },
+      {
+        "mot": "mais",
+        "debut_ms": 11295,
+        "fin_ms": 11355,
+        "prise": "Top2"
+      },
+      {
+        "mot": "je",
+        "debut_ms": 11385,
+        "fin_ms": 11445,
+        "prise": "Top2"
+      },
+      {
+        "mot": "ne",
+        "debut_ms": 11475,
+        "fin_ms": 11535,
+        "prise": "Top2"
+      },
+      {
+        "mot": "suis",
+        "debut_ms": 11565,
+        "fin_ms": 11625,
+        "prise": "Top2"
+      },
+      {
+        "mot": "pas",
+        "debut_ms": 11655,
+        "fin_ms": 11715,
+        "prise": "Top2"
+      },
+      {
+        "mot": "sûr.",
+        "debut_ms": 11745,
+        "fin_ms": 11805,
+        "prise": "Top2"
+      },
+      {
+        "mot": "Bref,",
+        "debut_ms": 11940,
+        "fin_ms": 12240,
+        "prise": "PNJ2"
+      },
+      {
+        "mot": "si",
+        "debut_ms": 12500,
+        "fin_ms": 12600,
+        "prise": "PNJ2"
+      },
+      {
+        "mot": "t'as",
+        "debut_ms": 12600,
+        "fin_ms": 12660,
+        "prise": "PNJ2"
+      },
+      {
+        "mot": "ça,",
+        "debut_ms": 12690,
+        "fin_ms": 12780,
+        "prise": "PNJ2"
+      },
+      {
+        "mot": "t'es",
+        "debut_ms": 12860,
+        "fin_ms": 12940,
+        "prise": "PNJ2"
+      },
+      {
+        "mot": "aussi",
+        "debut_ms": 12950,
+        "fin_ms": 13100,
+        "prise": "PNJ2"
+      },
+      {
+        "mot": "un",
+        "debut_ms": 13100,
+        "fin_ms": 13200,
+        "prise": "PNJ2"
+      },
+      {
+        "mot": "gros",
+        "debut_ms": 13200,
+        "fin_ms": 13380,
+        "prise": "PNJ2"
+      },
+      {
+        "mot": "PNJ.",
+        "debut_ms": 13380,
+        "fin_ms": 13720,
+        "prise": "PNJ2"
+      },
+      {
+        "mot": "Et",
+        "debut_ms": 13875,
+        "fin_ms": 13935,
+        "prise": "Top1"
+      },
+      {
+        "mot": "le",
+        "debut_ms": 13965,
+        "fin_ms": 14035,
+        "prise": "Top1"
+      },
+      {
+        "mot": "top",
+        "debut_ms": 14055,
+        "fin_ms": 14195,
+        "prise": "Top1"
+      },
+      {
+        "mot": "1",
+        "debut_ms": 14195,
+        "fin_ms": 14415,
+        "prise": "Top1"
+      },
+      {
+        "mot": "selon",
+        "debut_ms": 14415,
+        "fin_ms": 14655,
+        "prise": "Top1"
+      },
+      {
+        "mot": "la",
+        "debut_ms": 14655,
+        "fin_ms": 14775,
+        "prise": "Top1"
+      },
+      {
+        "mot": "communauté",
+        "debut_ms": 14775,
+        "fin_ms": 15035,
+        "prise": "Top1"
+      },
+      {
+        "mot": "Discord",
+        "debut_ms": 15035,
+        "fin_ms": 15455,
+        "prise": "Top1"
+      },
+      {
+        "mot": "de",
+        "debut_ms": 15455,
+        "fin_ms": 15595,
+        "prise": "Top1"
+      },
+      {
+        "mot": "100",
+        "debut_ms": 15595,
+        "fin_ms": 15735,
+        "prise": "Top1"
+      },
+      {
+        "mot": "000",
+        "debut_ms": 15735,
+        "fin_ms": 15855,
+        "prise": "Top1"
+      },
+      {
+        "mot": "membres",
+        "debut_ms": 15855,
+        "fin_ms": 16175,
+        "prise": "Top1"
+      },
+      {
+        "mot": "qui",
+        "debut_ms": 16175,
+        "fin_ms": 16355,
+        "prise": "Top1"
+      },
+      {
+        "mot": "se",
+        "debut_ms": 16355,
+        "fin_ms": 16515,
+        "prise": "Top1"
+      },
+      {
+        "mot": "trouve",
+        "debut_ms": 16515,
+        "fin_ms": 16635,
+        "prise": "Top1"
+      },
+      {
+        "mot": "dans",
+        "debut_ms": 16635,
+        "fin_ms": 16735,
+        "prise": "Top1"
+      },
+      {
+        "mot": "ma",
+        "debut_ms": 16735,
+        "fin_ms": 16895,
+        "prise": "Top1"
+      },
+      {
+        "mot": "bio",
+        "debut_ms": 16895,
+        "fin_ms": 17015,
+        "prise": "Top1"
+      },
+      {
+        "mot": "d'ailleurs.",
+        "debut_ms": 17015,
+        "fin_ms": 17375,
+        "prise": "Top1"
+      },
+      {
+        "mot": "C'est",
+        "debut_ms": 17535,
+        "fin_ms": 17735,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "cette",
+        "debut_ms": 17735,
+        "fin_ms": 17975,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "doudoune",
+        "debut_ms": 17975,
+        "fin_ms": 18335,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "Burberry,",
+        "debut_ms": 18335,
+        "fin_ms": 18835,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "donc",
+        "debut_ms": 18995,
+        "fin_ms": 19075,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "si",
+        "debut_ms": 19085,
+        "fin_ms": 19195,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "tu",
+        "debut_ms": 19195,
+        "fin_ms": 19335,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "l'as,",
+        "debut_ms": 19335,
+        "fin_ms": 19535,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "dis-le-moi",
+        "debut_ms": 19575,
+        "fin_ms": 19835,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "en",
+        "debut_ms": 19835,
+        "fin_ms": 19915,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "commentaire",
+        "debut_ms": 19925,
+        "fin_ms": 20395,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "et",
+        "debut_ms": 20395,
+        "fin_ms": 20575,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "félicitations",
+        "debut_ms": 20575,
+        "fin_ms": 21115,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "mon",
+        "debut_ms": 21115,
+        "fin_ms": 21275,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "frérot,",
+        "debut_ms": 21275,
+        "fin_ms": 21575,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "tu",
+        "debut_ms": 21695,
+        "fin_ms": 21755,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "es",
+        "debut_ms": 21785,
+        "fin_ms": 21845,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "le",
+        "debut_ms": 21875,
+        "fin_ms": 21935,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "plus",
+        "debut_ms": 21965,
+        "fin_ms": 22075,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "gros",
+        "debut_ms": 22075,
+        "fin_ms": 22255,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "PNJ",
+        "debut_ms": 22255,
+        "fin_ms": 22655,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "que",
+        "debut_ms": 22655,
+        "fin_ms": 22775,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "je",
+        "debut_ms": 22775,
+        "fin_ms": 22835,
+        "prise": "Burberry"
+      },
+      {
+        "mot": "connaisse.",
+        "debut_ms": 22865,
+        "fin_ms": 23115,
+        "prise": "Burberry"
+      }
+    ],
+    "cles": [
+      {
+        "mot": "PNJ",
+        "t_ms": 1030
+      },
+      {
+        "mot": "finito.",
+        "t_ms": 6570
+      },
+      {
+        "mot": "PNJ.",
+        "t_ms": 13380
+      },
+      {
+        "mot": "Discord",
+        "t_ms": 15035
+      },
+      {
+        "mot": "Burberry,",
+        "t_ms": 18335
+      },
+      {
+        "mot": "PNJ",
+        "t_ms": 22255
+      }
+    ],
+    "lignes": [
+      "Top 3 des doudounes",
+      "de PNJ",
+      "pour cet hiver.",
+      "On commence",
+      "par le top 3,",
+      "c'est la Moncler",
+      "Maya noire brillante,",
+      "celle-là les gars,",
+      "elle est finito.",
+      "En top 2,",
+      "on a cette doudoune",
+      "Canada Goose",
+      "noire mate,",
+      "il me semble",
+      "que c'est la Mac Milan,",
+      "mais je ne suis pas sûr.",
+      "Bref, si t'as ça,",
+      "t'es aussi",
+      "un gros PNJ.",
+      "Et le top 1",
+      "selon la communauté",
+      "Discord",
+      "de 100 000 membres",
+      "qui se trouve",
+      "dans ma bio d'ailleurs.",
+      "C'est cette doudoune",
+      "Burberry,",
+      "donc si tu l'as,",
+      "dis-le-moi en commentaire",
+      "et félicitations",
+      "mon frérot,",
+      "tu es le plus gros PNJ",
+      "que je connaisse."
+    ]
+  }
+}

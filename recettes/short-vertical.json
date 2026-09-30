@@ -1,0 +1,44 @@
+{
+  "id": "short-vertical",
+  "nom": "Short vertical dynamique",
+  "description": "TikTok, Reels, Shorts face caméra : silences coupés, jump cuts zoomés, sous-titres karaoké, musique sous la voix, whoosh sur les vraies coupes.",
+  "format": "9:16",
+  "duree_max_s": 90,
+  "langue": "fr",
+  "coupe_silences": {
+    "actif": true,
+    "pause_min_ms": 350,
+    "marge_avant_ms": 70,
+    "marge_apres_ms": 120
+  },
+  "plan_max_s": 3.5,
+  "zoom_alterne": [
+    1.0,
+    1.1
+  ],
+  "entree_premier_plan": "punch",
+  "musique": {
+    "tags": [
+      "rapide",
+      "tempo-moyen",
+      "dynamique"
+    ],
+    "volume": 0.22,
+    "volume_sous_voix": 0.06
+  },
+  "sfx_coupes": {
+    "role": "whoosh",
+    "toutes_les": 2
+  },
+  "sous_titres": {
+    "preset": "karaoke-jaune"
+  },
+  "accroche": {
+    "preset": "titre-pop",
+    "duree_ms": 2200
+  },
+  "export": {
+    "resolution": "1080p",
+    "fps": 30
+  }
+}

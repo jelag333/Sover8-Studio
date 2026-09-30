@@ -1,0 +1,19 @@
+# vidéos et médias lourds
+rendus/
+*.mp4
+*.mov
+*.MOV
+*.wav
+*.mp3
+*.tsrct
+
+# environnements et caches
+.venv/
+__pycache__/
+.studio-work/
+.tesseract-work/
+
+# banque SFX / musiques (droits, 1,2 Go) : réimporter avec `studio banque`
+bibliotheque/sfx/
+bibliotheque/musiques/
+bibliotheque/apercus/

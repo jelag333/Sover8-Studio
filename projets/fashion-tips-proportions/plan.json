@@ -1,0 +1,995 @@
+{
+  "nom": "fashion-tips-proportions",
+  "format": "9:16",
+  "export": {
+    "resolution": "1080p",
+    "fps": 24
+  },
+  "_notes": "Passe 12 : sous-titres découpés à la main, ligne fixe, couleur sur 7 mots ; objets au-dessus de la ligne ; SFX allégés et baissés.",
+  "clips": [
+    {
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/fashion-tips-proportions/rushes/fashion-tips.mp4",
+      "debut_ms": 0,
+      "fin_ms": 30041,
+      "volume": 1.0,
+      "zooms": [
+        {
+          "t_ms": 2760,
+          "zoom": 1.2,
+          "cible": "visage",
+          "duree_ms": 800,
+          "pourquoi": "Accroche. « You're not ugly in photos » pose le problème, « badly proportioned » est le retournement et la promesse de la vidéo : on zoome sur le retournement, pas avant. Elle est immobile (18-45 px/s) et déjà proche (25 % de la hauteur) : 1.20 suffit."
+        },
+        {
+          "t_ms": 4220,
+          "zoom": 1.0,
+          "cible": "plan",
+          "duree_ms": 1000,
+          "pourquoi": "Changement de partie (présentation). Elle recule de 22 % à 10 % : le dézoom accompagne son mouvement et révèle la tenue, qui est le sujet d'une vidéo mode."
+        },
+        {
+          "t_ms": 8020,
+          "zoom": 1.45,
+          "cible": "top",
+          "duree_ms": 700,
+          "pourquoi": "Démonstration. Elle dit « top » en posant les mains dessus. Elle est loin (10 %) et immobile (26 px/s) : c'est le seul passage où recadrer sur un vêtement est net et sans risque."
+        },
+        {
+          "t_ms": 8900,
+          "zoom": 1.6,
+          "cible": "jean",
+          "duree_ms": 700,
+          "pourquoi": "Suite de la démonstration : « pants stay straight » → on descend sur le jean, dans la même phrase. Le trajet top → jean illustre littéralement la règle."
+        },
+        {
+          "t_ms": 9860,
+          "zoom": 1.0,
+          "cible": "plan",
+          "duree_ms": 900,
+          "pourquoi": "La deuxième moitié de la règle (« pants huge / top tiny ») parle de l'équilibre de toute la silhouette : il faut la voir en entier. Refaire top → jean serait de la répétition ; ses gestes suffisent."
+        },
+        {
+          "t_ms": 15100,
+          "zoom": 1.25,
+          "cible": "visage",
+          "duree_ms": 700,
+          "pourquoi": "Chute de la blague (« you're furniture »). Elle vient de s'approcher (10 % → 15 %) puis s'arrête (14-15 s stable) : on zoome à l'arrêt, sur le mot drôle."
+        },
+        {
+          "t_ms": 15940,
+          "zoom": 1.0,
+          "cible": "plan",
+          "duree_ms": 900,
+          "pourquoi": "Relâchement. De 16 à 18 s elle s'avance encore jusqu'au gros plan (22 %) : son approche fait déjà le zoom. Rien sur « sofa » : elle est déjà en gros plan, un zoom de plus doublerait le mouvement."
+        },
+        {
+          "t_ms": 20360,
+          "zoom": 1.3,
+          "cible": "top",
+          "duree_ms": 700,
+          "decalage_h": 1.1,
+          "ecran_y": 0.5,
+          "pourquoi": "Deuxième règle (couleur) : « one colour from my top ». On montre la couleur dont elle parle. Plan taille stable (20-22 s). Réglage manuel du décalage : en plan taille, filmée en plongée, le top est plus haut qu'en plan pied."
+        },
+        {
+          "t_ms": 21400,
+          "zoom": 1.0,
+          "cible": "plan",
+          "duree_ms": 900,
+          "pourquoi": "« Put it back on my shoes or my bag » : on ne peut pas zoomer sur des chaussures hors champ, on rend donc l'image la plus large possible."
+        },
+        {
+          "t_ms": 25140,
+          "zoom": 1.2,
+          "cible": "visage",
+          "duree_ms": 700,
+          "pourquoi": "Chute de la deuxième règle (« twice looks like you meant it »), la phrase la plus citable. Aucun zoom pendant « once is an accident » : elle s'avance vers la caméra à ce moment-là (23 s, 90 px/s). On attend qu'elle soit stable (24-25 s)."
+        },
+        {
+          "t_ms": 26260,
+          "zoom": 1.0,
+          "cible": "plan",
+          "duree_ms": 900,
+          "pourquoi": "« That's it » : fin du contenu, on respire avant l'appel à l'action."
+        },
+        {
+          "t_ms": 28620,
+          "zoom": 1.18,
+          "cible": "visage",
+          "duree_ms": 800,
+          "pourquoi": "Appel à l'action (« so come steal ») et clin d'œil final : le zoom se termine sur le clin d'œil (≈ 29,4 s) pour finir sur son regard."
+        }
+      ]
+    }
+  ],
+  "stickers": [
+    {
+      "id": "sweat-bape-jaune",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.34,
+      "apparait_ms": 8020,
+      "disparait_ms": 8900,
+      "effets": [
+        {
+          "t_ms": 8360,
+          "type": "grossit",
+          "valeur": 1.18
+        }
+      ],
+      "pourquoi": "« my TOP is HUGE » : le sweat oversize apparaît au centre sur « top » et grossit (proportionnellement) sur « huge ». Placé bas (sur la ceinture) car le zoom montre le vrai top au milieu. Il laisse la place au jean sur « pants »."
+    },
+    {
+      "id": "jean-baggy-brode",
+      "x": 0.5,
+      "y": 0.3,
+      "largeur": 0.3,
+      "apparait_ms": 8900,
+      "disparait_ms": 9860,
+      "pourquoi": "« my PANTS stay straight » : le jean prend le relais au centre sur « pants ». Placé haut car le zoom montre maintenant le vrai jean en bas. Pas de déformation."
+    },
+    {
+      "id": "jean-baggy-brode",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.3,
+      "apparait_ms": 10400,
+      "disparait_ms": 12300,
+      "effets": [
+        {
+          "t_ms": 10800,
+          "type": "grossit",
+          "valeur": 1.18
+        }
+      ],
+      "deplacements": [
+        {
+          "t_ms": 11280,
+          "x": 0.33,
+          "y": 0.6
+        }
+      ],
+      "pourquoi": "« my PANTS are HUGE » : le jean apparaît au centre et grossit sur « huge », puis glisse à gauche sur « top » pour laisser la place au caraco : comparaison gros / petit centrée."
+    },
+    {
+      "id": "caraco-gris-collier",
+      "x": 0.68,
+      "y": 0.6,
+      "largeur": 0.26,
+      "apparait_ms": 11280,
+      "disparait_ms": 12300,
+      "effets": [
+        {
+          "t_ms": 11780,
+          "type": "grossit",
+          "valeur": 0.72
+        }
+      ],
+      "pourquoi": "« my TOP stays TINY » : le caraco (celui qu'elle porte) apparaît à côté du jean et rapetisse sur « tiny »."
+    },
+    {
+      "id": "sweat-bape-jaune",
+      "x": 0.5,
+      "y": 0.58,
+      "largeur": 0.34,
+      "apparait_ms": 13000,
+      "disparait_ms": 14080,
+      "deplacements": [
+        {
+          "t_ms": 13320,
+          "x": 0.32,
+          "y": 0.58
+        }
+      ],
+      "pourquoi": "« go BIG on both » : le haut énorme apparaît au centre sur « big »…"
+    },
+    {
+      "id": "jean-baggy-brode",
+      "x": 0.68,
+      "y": 0.58,
+      "largeur": 0.28,
+      "apparait_ms": 13320,
+      "disparait_ms": 14080,
+      "pourquoi": "…et le bas énorme le rejoint sur « both » : les deux gros ensemble = l'erreur. Ils partent sur « you're not mysterious »."
+    },
+    {
+      "id": "canape-jaune",
+      "x": 0.5,
+      "y": 0.64,
+      "largeur": 0.56,
+      "apparait_ms": 15100,
+      "disparait_ms": 16300,
+      "pourquoi": "« you're FURNITURE » : le canapé apparaît au centre, bas de l'image (le visage reste libre pendant le zoom punchline)."
+    },
+    {
+      "id": "canape-jaune",
+      "x": 0.5,
+      "y": 0.64,
+      "largeur": 0.56,
+      "apparait_ms": 17660,
+      "disparait_ms": 18650,
+      "pourquoi": "« I dressed like a SOFA » : rappel du canapé au même endroit, sur « sofa »."
+    },
+    {
+      "id": "sweat-bape-jaune",
+      "x": 0.5,
+      "y": 0.62,
+      "largeur": 0.34,
+      "apparait_ms": 19760,
+      "disparait_ms": 22180,
+      "deplacements": [
+        {
+          "t_ms": 20880,
+          "x": 0.3,
+          "y": 0.62
+        }
+      ],
+      "pourquoi": "« take one COLOUR from my top » : le sweat jaune apparaît au centre sur « colour », puis glisse à gauche pendant « put it back » pour faire de la place aux chaussures."
+    },
+    {
+      "id": "goutte-couleur-jaune",
+      "x": 0.3,
+      "y": 0.62,
+      "largeur": 0.07,
+      "apparait_ms": 21000,
+      "disparait_ms": 21640,
+      "lueur_taille": 28,
+      "trajet": {
+        "a": [
+          0.7,
+          0.62
+        ],
+        "debut_ms": 21060,
+        "fin_ms": 21540,
+        "arc": -0.08
+      },
+      "pourquoi": "La couleur quitte le sweat pendant « put it back », vole en arc et atterrit sur « shoes »."
+    },
+    {
+      "id": "jordan-4-lightning",
+      "x": 0.7,
+      "y": 0.62,
+      "largeur": 0.34,
+      "apparait_ms": 21540,
+      "disparait_ms": 22680,
+      "deplacements": [
+        {
+          "t_ms": 22180,
+          "x": 0.68,
+          "y": 0.62
+        }
+      ],
+      "pourquoi": "« back on my SHOES » : les Jordan jaunes apparaissent à l'arrivée de la goutte et pulsent (la couleur s'est posée)."
+    },
+    {
+      "id": "sac-diesel-denim",
+      "x": 0.32,
+      "y": 0.62,
+      "largeur": 0.28,
+      "apparait_ms": 22180,
+      "disparait_ms": 22760,
+      "pourquoi": "« or my BAG » : le sac prend la place du sweat sur « bag », en face des chaussures."
+    },
+    {
+      "id": "sweat-bape-jaune",
+      "x": 0.5,
+      "y": 0.62,
+      "largeur": 0.32,
+      "apparait_ms": 23020,
+      "disparait_ms": 25600,
+      "deplacements": [
+        {
+          "t_ms": 24180,
+          "x": 0.32,
+          "y": 0.62
+        }
+      ],
+      "pourquoi": "« ONCE is an accident » : une seule pièce jaune, au centre, sur « once ». Elle glisse à gauche sur « twice »."
+    },
+    {
+      "id": "jordan-4-lightning",
+      "x": 0.68,
+      "y": 0.62,
+      "largeur": 0.32,
+      "apparait_ms": 24180,
+      "disparait_ms": 25650,
+      "pourquoi": "« but TWICE » : la deuxième pièce jaune la rejoint ; les deux pulsent ensemble sur « meant it »."
+    }
+  ],
+  "sfx": [
+    {
+      "id": "impact-doux",
+      "t_ms": 2760,
+      "sous_voix_db": 14,
+      "pourquoi": "Retournement de l'accroche « badly proportioned » : impact grave et doux, synchronisé avec le zoom punch."
+    },
+    {
+      "id": "cinematic-ease-out-1",
+      "t_ms": 4220,
+      "calage": "debut",
+      "sous_voix_db": 16,
+      "pourquoi": "Dézoom de « favourite baddie » (courbe ease-out) : Motion SFX de la même courbe, le son épouse le mouvement de caméra."
+    },
+    {
+      "id": "pop-bloup",
+      "t_ms": 8060,
+      "pourquoi": "Apparition du sweat sur « top » : pop rond et net, le premier objet de la vidéo."
+    },
+    {
+      "id": "jug-pop-1-186886",
+      "t_ms": 10440,
+      "pourquoi": "« my pants are HUGE » : pop grave, le son est « gros » comme le jean."
+    },
+    {
+      "id": "apparition",
+      "t_ms": 11320,
+      "pourquoi": "« my top stays TINY » : pop aigu et léger, le son est « petit » comme le caraco."
+    },
+    {
+      "id": "cinemear-graphix-pop-finger-drum-on-a-tiny-vase",
+      "t_ms": 13040,
+      "pourquoi": "« go big on both » : un seul pop pour les deux objets (le second arrive 0,3 s après, un deuxième son ferait trop). (remonté : il était 21 dB sous la voix, trop discret)",
+      "sous_voix_db": 11
+    },
+    {
+      "id": "funny-bonk",
+      "t_ms": 15140,
+      "pourquoi": "Blague « you're furniture » + le canapé qui tombe : son cartoon, c'est le moment le plus drôle.",
+      "sous_voix_db": 12
+    },
+    {
+      "id": "comical-disappointment",
+      "t_ms": 17950,
+      "pourquoi": "« I dressed like a sofa for two years » : déception comique juste après « sofa », elle se moque d'elle-même.",
+      "calage": "debut"
+    },
+    {
+      "id": "whoosh-air-court",
+      "t_ms": 21300,
+      "pourquoi": "La goutte de couleur vole du sweat aux chaussures : souffle d'air léger, centré sur le milieu du vol."
+    },
+    {
+      "id": "epic-twinkle",
+      "t_ms": 21560,
+      "pourquoi": "La couleur se pose sur les Jordan : scintillement, c'est le « match » de couleur.",
+      "calage": "debut"
+    },
+    {
+      "id": "pop-bloup",
+      "t_ms": 23060,
+      "pourquoi": "« ONCE is an accident » : un pop pour la première pièce jaune."
+    },
+    {
+      "id": "pop-bloup",
+      "t_ms": 24220,
+      "pourquoi": "« but TWICE » : exactement le même pop qu'à « once » : la répétition du son souligne l'idée de répétition."
+    },
+    {
+      "id": "anime-shine",
+      "t_ms": 29050,
+      "calage": "debut",
+      "sous_voix_db": 15,
+      "pourquoi": "Clin d'œil final : petit scintillement, touche charmante sur la dernière image."
+    }
+  ],
+  "sous_titres": {
+    "preset": "sover8-pop",
+    "mots": [
+      {
+        "mot": "You're",
+        "debut_ms": 660,
+        "fin_ms": 1160
+      },
+      {
+        "mot": "not",
+        "debut_ms": 1160,
+        "fin_ms": 1260
+      },
+      {
+        "mot": "ugly",
+        "debut_ms": 1260,
+        "fin_ms": 1560
+      },
+      {
+        "mot": "in",
+        "debut_ms": 1560,
+        "fin_ms": 1700
+      },
+      {
+        "mot": "photos,",
+        "debut_ms": 1700,
+        "fin_ms": 2120
+      },
+      {
+        "mot": "you're",
+        "debut_ms": 2500,
+        "fin_ms": 2640
+      },
+      {
+        "mot": "just",
+        "debut_ms": 2640,
+        "fin_ms": 2760
+      },
+      {
+        "mot": "badly",
+        "debut_ms": 2760,
+        "fin_ms": 3080
+      },
+      {
+        "mot": "proportioned.",
+        "debut_ms": 3080,
+        "fin_ms": 3880
+      },
+      {
+        "mot": "It's",
+        "debut_ms": 4220,
+        "fin_ms": 4620
+      },
+      {
+        "mot": "your",
+        "debut_ms": 4620,
+        "fin_ms": 4700
+      },
+      {
+        "mot": "favourite",
+        "debut_ms": 4700,
+        "fin_ms": 4980
+      },
+      {
+        "mot": "baddie,",
+        "debut_ms": 4980,
+        "fin_ms": 5380
+      },
+      {
+        "mot": "and",
+        "debut_ms": 5520,
+        "fin_ms": 5580
+      },
+      {
+        "mot": "welcome",
+        "debut_ms": 5580,
+        "fin_ms": 5880
+      },
+      {
+        "mot": "to",
+        "debut_ms": 5880,
+        "fin_ms": 6080
+      },
+      {
+        "mot": "a",
+        "debut_ms": 6080,
+        "fin_ms": 6180
+      },
+      {
+        "mot": "new",
+        "debut_ms": 6180,
+        "fin_ms": 6300
+      },
+      {
+        "mot": "Fashion",
+        "debut_ms": 6300,
+        "fin_ms": 6600
+      },
+      {
+        "mot": "Tips",
+        "debut_ms": 6600,
+        "fin_ms": 6860
+      },
+      {
+        "mot": "episode.",
+        "debut_ms": 6860,
+        "fin_ms": 7340
+      },
+      {
+        "mot": "So",
+        "debut_ms": 7340,
+        "fin_ms": 7740
+      },
+      {
+        "mot": "if",
+        "debut_ms": 7740,
+        "fin_ms": 7880
+      },
+      {
+        "mot": "my",
+        "debut_ms": 7880,
+        "fin_ms": 8020
+      },
+      {
+        "mot": "top",
+        "debut_ms": 8020,
+        "fin_ms": 8200
+      },
+      {
+        "mot": "is",
+        "debut_ms": 8200,
+        "fin_ms": 8360
+      },
+      {
+        "mot": "huge,",
+        "debut_ms": 8360,
+        "fin_ms": 8640
+      },
+      {
+        "mot": "my",
+        "debut_ms": 8800,
+        "fin_ms": 8900
+      },
+      {
+        "mot": "pants",
+        "debut_ms": 8900,
+        "fin_ms": 9200
+      },
+      {
+        "mot": "stay",
+        "debut_ms": 9200,
+        "fin_ms": 9400
+      },
+      {
+        "mot": "straight,",
+        "debut_ms": 9400,
+        "fin_ms": 9700
+      },
+      {
+        "mot": "and",
+        "debut_ms": 9860,
+        "fin_ms": 10160
+      },
+      {
+        "mot": "if",
+        "debut_ms": 10160,
+        "fin_ms": 10280
+      },
+      {
+        "mot": "my",
+        "debut_ms": 10280,
+        "fin_ms": 10400
+      },
+      {
+        "mot": "pants",
+        "debut_ms": 10400,
+        "fin_ms": 10680
+      },
+      {
+        "mot": "are",
+        "debut_ms": 10680,
+        "fin_ms": 10800
+      },
+      {
+        "mot": "huge,",
+        "debut_ms": 10800,
+        "fin_ms": 11040
+      },
+      {
+        "mot": "my",
+        "debut_ms": 11180,
+        "fin_ms": 11280
+      },
+      {
+        "mot": "top",
+        "debut_ms": 11280,
+        "fin_ms": 11500
+      },
+      {
+        "mot": "stays",
+        "debut_ms": 11500,
+        "fin_ms": 11780
+      },
+      {
+        "mot": "tiny,",
+        "debut_ms": 11780,
+        "fin_ms": 12120
+      },
+      {
+        "mot": "because",
+        "debut_ms": 12300,
+        "fin_ms": 12600
+      },
+      {
+        "mot": "when",
+        "debut_ms": 12600,
+        "fin_ms": 12780
+      },
+      {
+        "mot": "you",
+        "debut_ms": 12780,
+        "fin_ms": 12880
+      },
+      {
+        "mot": "go",
+        "debut_ms": 12880,
+        "fin_ms": 13000
+      },
+      {
+        "mot": "big",
+        "debut_ms": 13000,
+        "fin_ms": 13160
+      },
+      {
+        "mot": "on",
+        "debut_ms": 13160,
+        "fin_ms": 13320
+      },
+      {
+        "mot": "both,",
+        "debut_ms": 13320,
+        "fin_ms": 13600
+      },
+      {
+        "mot": "you're",
+        "debut_ms": 13760,
+        "fin_ms": 13980
+      },
+      {
+        "mot": "not",
+        "debut_ms": 13980,
+        "fin_ms": 14080
+      },
+      {
+        "mot": "mysterious,",
+        "debut_ms": 14080,
+        "fin_ms": 14540
+      },
+      {
+        "mot": "you're",
+        "debut_ms": 14880,
+        "fin_ms": 15100
+      },
+      {
+        "mot": "furniture.",
+        "debut_ms": 15100,
+        "fin_ms": 15460
+      },
+      {
+        "mot": "And",
+        "debut_ms": 15940,
+        "fin_ms": 16300
+      },
+      {
+        "mot": "I",
+        "debut_ms": 16300,
+        "fin_ms": 16460
+      },
+      {
+        "mot": "would",
+        "debut_ms": 16460,
+        "fin_ms": 16620
+      },
+      {
+        "mot": "know,",
+        "debut_ms": 16620,
+        "fin_ms": 16860
+      },
+      {
+        "mot": "I",
+        "debut_ms": 17000,
+        "fin_ms": 17160
+      },
+      {
+        "mot": "dress",
+        "debut_ms": 17160,
+        "fin_ms": 17380
+      },
+      {
+        "mot": "like",
+        "debut_ms": 17380,
+        "fin_ms": 17560
+      },
+      {
+        "mot": "a",
+        "debut_ms": 17560,
+        "fin_ms": 17660
+      },
+      {
+        "mot": "sofa",
+        "debut_ms": 17660,
+        "fin_ms": 17920
+      },
+      {
+        "mot": "for",
+        "debut_ms": 17920,
+        "fin_ms": 18100
+      },
+      {
+        "mot": "two",
+        "debut_ms": 18100,
+        "fin_ms": 18260
+      },
+      {
+        "mot": "years.",
+        "debut_ms": 18260,
+        "fin_ms": 18640
+      },
+      {
+        "mot": "And",
+        "debut_ms": 18820,
+        "fin_ms": 19120
+      },
+      {
+        "mot": "then",
+        "debut_ms": 19120,
+        "fin_ms": 19220
+      },
+      {
+        "mot": "I",
+        "debut_ms": 19220,
+        "fin_ms": 19320
+      },
+      {
+        "mot": "take",
+        "debut_ms": 19320,
+        "fin_ms": 19520
+      },
+      {
+        "mot": "one",
+        "debut_ms": 19520,
+        "fin_ms": 19760
+      },
+      {
+        "mot": "colour",
+        "debut_ms": 19760,
+        "fin_ms": 20020
+      },
+      {
+        "mot": "from",
+        "debut_ms": 20020,
+        "fin_ms": 20220
+      },
+      {
+        "mot": "my",
+        "debut_ms": 20220,
+        "fin_ms": 20360
+      },
+      {
+        "mot": "top",
+        "debut_ms": 20360,
+        "fin_ms": 20600
+      },
+      {
+        "mot": "and",
+        "debut_ms": 20600,
+        "fin_ms": 20880
+      },
+      {
+        "mot": "put",
+        "debut_ms": 20880,
+        "fin_ms": 21020
+      },
+      {
+        "mot": "it",
+        "debut_ms": 21020,
+        "fin_ms": 21100
+      },
+      {
+        "mot": "back",
+        "debut_ms": 21100,
+        "fin_ms": 21240
+      },
+      {
+        "mot": "on",
+        "debut_ms": 21240,
+        "fin_ms": 21400
+      },
+      {
+        "mot": "my",
+        "debut_ms": 21400,
+        "fin_ms": 21540
+      },
+      {
+        "mot": "shoes",
+        "debut_ms": 21540,
+        "fin_ms": 21820
+      },
+      {
+        "mot": "or",
+        "debut_ms": 21820,
+        "fin_ms": 22040
+      },
+      {
+        "mot": "my",
+        "debut_ms": 22040,
+        "fin_ms": 22180
+      },
+      {
+        "mot": "bag,",
+        "debut_ms": 22180,
+        "fin_ms": 22520
+      },
+      {
+        "mot": "because",
+        "debut_ms": 22680,
+        "fin_ms": 23020
+      },
+      {
+        "mot": "once",
+        "debut_ms": 23020,
+        "fin_ms": 23320
+      },
+      {
+        "mot": "is",
+        "debut_ms": 23320,
+        "fin_ms": 23480
+      },
+      {
+        "mot": "an",
+        "debut_ms": 23480,
+        "fin_ms": 23580
+      },
+      {
+        "mot": "accident,",
+        "debut_ms": 23580,
+        "fin_ms": 23940
+      },
+      {
+        "mot": "but",
+        "debut_ms": 24120,
+        "fin_ms": 24180
+      },
+      {
+        "mot": "twice",
+        "debut_ms": 24180,
+        "fin_ms": 24500
+      },
+      {
+        "mot": "looks",
+        "debut_ms": 24500,
+        "fin_ms": 24860
+      },
+      {
+        "mot": "like",
+        "debut_ms": 24860,
+        "fin_ms": 25020
+      },
+      {
+        "mot": "you",
+        "debut_ms": 25020,
+        "fin_ms": 25140
+      },
+      {
+        "mot": "meant",
+        "debut_ms": 25140,
+        "fin_ms": 25340
+      },
+      {
+        "mot": "it.",
+        "debut_ms": 25340,
+        "fin_ms": 25560
+      },
+      {
+        "mot": "That's",
+        "debut_ms": 26260,
+        "fin_ms": 26660
+      },
+      {
+        "mot": "it.",
+        "debut_ms": 26660,
+        "fin_ms": 26840
+      },
+      {
+        "mot": "I",
+        "debut_ms": 27040,
+        "fin_ms": 27400
+      },
+      {
+        "mot": "get",
+        "debut_ms": 27400,
+        "fin_ms": 27560
+      },
+      {
+        "mot": "dressed",
+        "debut_ms": 27560,
+        "fin_ms": 27760
+      },
+      {
+        "mot": "on",
+        "debut_ms": 27760,
+        "fin_ms": 27920
+      },
+      {
+        "mot": "here",
+        "debut_ms": 27920,
+        "fin_ms": 28060
+      },
+      {
+        "mot": "every",
+        "debut_ms": 28060,
+        "fin_ms": 28300
+      },
+      {
+        "mot": "morning,",
+        "debut_ms": 28300,
+        "fin_ms": 28600
+      },
+      {
+        "mot": "so",
+        "debut_ms": 28620,
+        "fin_ms": 29020
+      },
+      {
+        "mot": "come",
+        "debut_ms": 29020,
+        "fin_ms": 29520
+      },
+      {
+        "mot": "steal.",
+        "debut_ms": 29520,
+        "fin_ms": 29800
+      }
+    ],
+    "cles": [
+      {
+        "mot": "proportioned",
+        "t_ms": 3080
+      },
+      {
+        "mot": "huge",
+        "t_ms": 8360
+      },
+      {
+        "mot": "tiny",
+        "t_ms": 11780
+      },
+      {
+        "mot": "furniture",
+        "t_ms": 15100
+      },
+      {
+        "mot": "meant",
+        "t_ms": 25140
+      },
+      {
+        "mot": "it",
+        "t_ms": 25340
+      },
+      {
+        "mot": "steal",
+        "t_ms": 29520
+      }
+    ],
+    "pourquoi": "Découpe écrite à la main au sens et au rythme de sa voix (jamais de mot orphelin ni de nom coupé). Couleur seulement sur 7 mots : la promesse (proportioned), le contraste de la règle (huge / tiny), la chute (furniture), la morale (meant it), l'appel à l'action (steal).",
+    "lignes": [
+      "You're not ugly",
+      "in photos,",
+      "you're just",
+      "badly proportioned.",
+      "It's your",
+      "favourite baddie,",
+      "and welcome",
+      "to a new",
+      "Fashion Tips episode.",
+      "So if my top",
+      "is huge,",
+      "my pants",
+      "stay straight,",
+      "and if my pants",
+      "are huge,",
+      "my top",
+      "stays tiny,",
+      "because when you",
+      "go big on both,",
+      "you're not",
+      "mysterious,",
+      "you're furniture.",
+      "And I would know,",
+      "I dress",
+      "like a sofa",
+      "for two years.",
+      "And then I take",
+      "one colour",
+      "from my top",
+      "and put it back",
+      "on my shoes",
+      "or my bag,",
+      "because once",
+      "is an accident,",
+      "but twice",
+      "looks like",
+      "you meant it.",
+      "That's it.",
+      "I get dressed",
+      "on here",
+      "every morning,",
+      "so come steal."
+    ]
+  }
+}

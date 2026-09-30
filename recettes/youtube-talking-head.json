@@ -1,0 +1,39 @@
+{
+  "id": "youtube-talking-head",
+  "nom": "YouTube face caméra",
+  "description": "Vidéo 16:9 posée : longues pauses retirées, léger zoom alterné, musique discrète, sous-titres sobres.",
+  "format": "16:9",
+  "duree_max_s": 1800,
+  "langue": "fr",
+  "coupe_silences": {
+    "actif": true,
+    "pause_min_ms": 700,
+    "marge_avant_ms": 120,
+    "marge_apres_ms": 200
+  },
+  "plan_max_s": 12,
+  "zoom_alterne": [
+    1.0,
+    1.06
+  ],
+  "musique": {
+    "tags": [
+      "lent",
+      "calme",
+      "tempo-moyen"
+    ],
+    "volume": 0.12,
+    "volume_sous_voix": 0.035
+  },
+  "sous_titres": {
+    "preset": "phrase-sobre"
+  },
+  "accroche": {
+    "preset": "titre-glisse",
+    "duree_ms": 2600
+  },
+  "export": {
+    "resolution": "1080p",
+    "fps": 30
+  }
+}

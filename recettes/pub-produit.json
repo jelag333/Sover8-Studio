@@ -1,0 +1,43 @@
+{
+  "id": "pub-produit",
+  "nom": "Pub produit 30 s",
+  "description": "Pub verticale nerveuse : plans de 2,5 s max, mot par mot au centre, gros titre d'impact, SFX sur chaque vraie coupe.",
+  "format": "9:16",
+  "duree_max_s": 30,
+  "langue": "fr",
+  "coupe_silences": {
+    "actif": true,
+    "pause_min_ms": 250,
+    "marge_avant_ms": 50,
+    "marge_apres_ms": 90
+  },
+  "plan_max_s": 2.5,
+  "zoom_alterne": [
+    1.0,
+    1.12
+  ],
+  "entree_premier_plan": "punch",
+  "musique": {
+    "tags": [
+      "rapide",
+      "dynamique"
+    ],
+    "volume": 0.25,
+    "volume_sous_voix": 0.08
+  },
+  "sfx_coupes": {
+    "role": "whoosh",
+    "toutes_les": 1
+  },
+  "sous_titres": {
+    "preset": "mot-par-mot"
+  },
+  "accroche": {
+    "preset": "titre-impact",
+    "duree_ms": 1800
+  },
+  "export": {
+    "resolution": "1080p",
+    "fps": 30
+  }
+}

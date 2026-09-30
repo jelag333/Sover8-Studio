@@ -1,0 +1,1829 @@
+{
+  "nom": "img2859",
+  "format": "9:16",
+  "export": {
+    "resolution": "1080p",
+    "fps": 30
+  },
+  "_notes": "Vacances en Chine / retard des hauls : dérush serré, étalonnage, zooms qui cadrent, motion design sans emoji, flashs, SFX.",
+  "voix": {
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/voix-dyn.wav",
+    "volume": 1.0
+  },
+  "lueur_defaut": "ombre",
+  "musique": {
+    "id": "gravitational-forces-by-blaumodus-muffled-tiktok-extended-version",
+    "source_debut_ms": 525,
+    "volume": 0.12,
+    "volume_sous_voix": 0.08,
+    "fondu_entree_ms": 120,
+    "fondu_sortie_ms": 700,
+    "pourquoi": "Son doux et étouffé, que l'utilisateur a adoré ; drop calé sur les dates."
+  },
+  "clips": [
+    {
+      "nom": "Accroche",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 430,
+      "fin_ms": 1963,
+      "volume": 0.0,
+      "source_rush_ms": [
+        35430,
+        36963
+      ],
+      "zooms": [
+        {
+          "t_ms": 1100,
+          "zoom": 1.45,
+          "cible": "visage",
+          "duree_ms": 600,
+          "pourquoi": "« va prendre du RETARD » : le choc de l'accroche.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "Dates",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 2798,
+      "fin_ms": 7198,
+      "volume": 0.0,
+      "source_rush_ms": [
+        57298,
+        61698
+      ]
+    },
+    {
+      "nom": "Positif",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 8031,
+      "fin_ms": 16798,
+      "volume": 0.0,
+      "source_rush_ms": [
+        85898,
+        94665
+      ],
+      "zooms": [
+        {
+          "t_ms": 167,
+          "zoom": 1.3,
+          "cible": "visage",
+          "duree_ms": 800,
+          "pourquoi": "« le point POSITIF » : bonne nouvelle, on se rapproche.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "Vendeurs",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 17613,
+      "fin_ms": 22313,
+      "volume": 0.0,
+      "source_rush_ms": [
+        172580,
+        177280
+      ],
+      "zooms": [
+        {
+          "t_ms": 325,
+          "zoom": 1.35,
+          "cible": "visage",
+          "duree_ms": 700,
+          "pourquoi": "« le point PAS OUF » : changement de ton.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "Certains",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 23152,
+      "fin_ms": 26219,
+      "volume": 0.0,
+      "source_rush_ms": [
+        177585,
+        180652
+      ],
+      "zoom": 1.15
+    },
+    {
+      "nom": "Delais",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 27037,
+      "fin_ms": 30837,
+      "volume": 0.0,
+      "source_rush_ms": [
+        193937,
+        197737
+      ]
+    },
+    {
+      "nom": "Hiver",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 31689,
+      "fin_ms": 34555,
+      "volume": 0.0,
+      "source_rush_ms": [
+        214322,
+        217188
+      ],
+      "zooms": [
+        {
+          "t_ms": 508,
+          "zoom": 1.45,
+          "cible": "visage",
+          "duree_ms": 700,
+          "pourquoi": "« VRAIMENT COMPLIQUÉ » : le point le plus grave.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "Vols",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 35395,
+      "fin_ms": 38862,
+      "volume": 0.0,
+      "source_rush_ms": [
+        249028,
+        252495
+      ]
+    },
+    {
+      "nom": "Cher",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 39685,
+      "fin_ms": 42785,
+      "volume": 0.0,
+      "source_rush_ms": [
+        252785,
+        255885
+      ],
+      "zoom": 1.15
+    },
+    {
+      "nom": "Maintenant",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 43620,
+      "fin_ms": 47353,
+      "volume": 0.0,
+      "source_rush_ms": [
+        279820,
+        283553
+      ],
+      "zooms": [
+        {
+          "t_ms": 1390,
+          "zoom": 1.4,
+          "cible": "visage",
+          "duree_ms": 600,
+          "pourquoi": "« fais-le MAINTENANT » : l'appel à agir.",
+          "ecran_y": 0.36
+        }
+      ]
+    },
+    {
+      "nom": "CTA",
+      "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2859/rushes/selects-1440.mp4",
+      "debut_ms": 48170,
+      "fin_ms": 52404,
+      "volume": 0.0,
+      "source_rush_ms": [
+        287503,
+        291737
+      ]
+    }
+  ],
+  "stickers": [
+    {
+      "id": "bandeau-haul-retard",
+      "x": 0.5,
+      "y": 0.64,
+      "largeur": 0.9,
+      "apparait_ms": 60,
+      "disparait_ms": 1473,
+      "pourquoi": "Accroche : bandeau « ALERTE — TON HAUL VA PRENDRE DU RETARD » dès la première image."
+    },
+    {
+      "id": "calendrier-25-27-septembre",
+      "x": 0.3,
+      "y": 0.58,
+      "largeur": 0.33,
+      "apparait_ms": 1785,
+      "disparait_ms": 4915,
+      "pourquoi": "« du 25 au 27 septembre »."
+    },
+    {
+      "id": "calendrier-1-7-octobre",
+      "x": 0.7,
+      "y": 0.58,
+      "largeur": 0.33,
+      "apparait_ms": 3655,
+      "disparait_ms": 4915,
+      "pourquoi": "« et du 1er au 7 octobre » : les deux périodes côte à côte."
+    },
+    {
+      "id": "drapeau-chine",
+      "x": 0.5,
+      "y": 0.57,
+      "largeur": 0.42,
+      "apparait_ms": 5175,
+      "disparait_ms": 5873,
+      "pourquoi": "« des vacances en CHINE » : le drapeau…"
+    },
+    {
+      "id": "pastille-vacances-en-chine",
+      "x": 0.5,
+      "y": 0.7,
+      "largeur": 0.62,
+      "apparait_ms": 5495,
+      "disparait_ms": 5873,
+      "pourquoi": "…et le titre."
+    },
+    {
+      "id": "logo-boonbuy",
+      "x": 0.5,
+      "y": 0.58,
+      "largeur": 0.3,
+      "apparait_ms": 6720,
+      "disparait_ms": 10390,
+      "pourquoi": "« Boonbuy ne part pas en vacances »."
+    },
+    {
+      "id": "tampon-ouvert",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.62,
+      "apparait_ms": 8620,
+      "disparait_ms": 10390,
+      "lueur": "aucune",
+      "pop": 1.35,
+      "pourquoi": "« il reste OUVERT » : tampon vert sur le logo."
+    },
+    {
+      "id": "pastille-ok-achats",
+      "x": 0.5,
+      "y": 0.55,
+      "largeur": 0.46,
+      "apparait_ms": 10440,
+      "disparait_ms": 14640,
+      "pourquoi": "La liste de ce qui continue, cochée une ligne par mot : achats…"
+    },
+    {
+      "id": "pastille-ok-photos-qc",
+      "x": 0.5,
+      "y": 0.63,
+      "largeur": 0.54,
+      "apparait_ms": 11110,
+      "disparait_ms": 14640,
+      "pourquoi": "…photos QC…"
+    },
+    {
+      "id": "pastille-ok-expedition",
+      "x": 0.5,
+      "y": 0.71,
+      "largeur": 0.58,
+      "apparait_ms": 12180,
+      "disparait_ms": 14640,
+      "pourquoi": "…expédition."
+    },
+    {
+      "id": "pastille-les-vendeurs",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.58,
+      "apparait_ms": 15805,
+      "disparait_ms": 17255,
+      "pourquoi": "« les VENDEURS » : le sujet du point pas ouf."
+    },
+    {
+      "id": "carte-aucune-info",
+      "x": 0.5,
+      "y": 0.63,
+      "largeur": 0.34,
+      "apparait_ms": 17305,
+      "disparait_ms": 19340,
+      "pourquoi": "« AUCUNE information » : carte mystère."
+    },
+    {
+      "id": "pastille-ils-restent",
+      "x": 0.5,
+      "y": 0.57,
+      "largeur": 0.5,
+      "apparait_ms": 19770,
+      "disparait_ms": 22407,
+      "pourquoi": "« certains vont RESTER »…"
+    },
+    {
+      "id": "pastille-en-vacances",
+      "x": 0.5,
+      "y": 0.67,
+      "largeur": 0.52,
+      "apparait_ms": 21830,
+      "disparait_ms": 22407,
+      "pourquoi": "…« d'autres vont partir EN VACANCES »."
+    },
+    {
+      "id": "trajet-vendeur-entrepot",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.86,
+      "apparait_ms": 23135,
+      "disparait_ms": 26207,
+      "pourquoi": "« des délais de ton VENDEUR jusqu'à l'ENTREPÔT » : le trajet, avec l'alerte « + DÉLAI »."
+    },
+    {
+      "id": "pastille-hiver-arrive",
+      "x": 0.5,
+      "y": 0.63,
+      "largeur": 0.62,
+      "apparait_ms": 28215,
+      "disparait_ms": 29073,
+      "pourquoi": "« l'HIVER ARRIVE » : pastille bleu glacé."
+    },
+    {
+      "id": "photo-avion-cargo",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.82,
+      "pop": 1.2,
+      "apparait_ms": 29060,
+      "disparait_ms": 32540,
+      "pourquoi": "« les compagnies aériennes » : un vrai avion cargo (Wikimedia, domaine public)."
+    },
+    {
+      "id": "tampon-annule",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.62,
+      "apparait_ms": 29850,
+      "disparait_ms": 32540,
+      "lueur": "aucune",
+      "pop": 1.35,
+      "pourquoi": "« vont COUPER les vols » : tampon ANNULÉ sur l'avion."
+    },
+    {
+      "id": "graphique-prix",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.56,
+      "apparait_ms": 33320,
+      "disparait_ms": 34950,
+      "pourquoi": "« plus CHER » : la courbe du prix qui monte."
+    },
+    {
+      "id": "pastille-plus-de-delai",
+      "x": 0.5,
+      "y": 0.62,
+      "largeur": 0.56,
+      "apparait_ms": 35000,
+      "disparait_ms": 35640,
+      "pourquoi": "« plus de DÉLAI »."
+    },
+    {
+      "id": "calendrier-avant-le-25",
+      "x": 0.5,
+      "y": 0.6,
+      "largeur": 0.3,
+      "apparait_ms": 37250,
+      "disparait_ms": 39373,
+      "pourquoi": "« avant le 25 » : la date limite."
+    },
+    {
+      "id": "icone-coupon-moins-40",
+      "x": 0.5,
+      "y": 0.62,
+      "largeur": 0.4,
+      "apparait_ms": 39980,
+      "disparait_ms": 42410,
+      "deplacements": [
+        {
+          "t_ms": 40700,
+          "x": 0.28,
+          "y": 0.62
+        }
+      ],
+      "pourquoi": "« -40 % »…"
+    },
+    {
+      "id": "icone-coupon-moins-500",
+      "x": 0.72,
+      "y": 0.62,
+      "largeur": 0.4,
+      "apparait_ms": 40750,
+      "disparait_ms": 42410,
+      "pourquoi": "…et « -500 $ »."
+    },
+    {
+      "id": "bouton-lien-en-bio",
+      "x": 0.5,
+      "y": 0.62,
+      "largeur": 0.6,
+      "apparait_ms": 42630,
+      "disparait_ms": 43417,
+      "pourquoi": "« le lien dans ma bio »."
+    }
+  ],
+  "flashs": [
+    {
+      "t_ms": 5933,
+      "couleur": "#FFFFFF",
+      "pic": 45,
+      "montee_ms": 30,
+      "descente_ms": 240,
+      "pourquoi": "Transition flash entre deux idées."
+    },
+    {
+      "t_ms": 14700,
+      "couleur": "#FFFFFF",
+      "pic": 45,
+      "montee_ms": 30,
+      "descente_ms": 240,
+      "pourquoi": "Transition flash entre deux idées."
+    },
+    {
+      "t_ms": 26267,
+      "couleur": "#FFFFFF",
+      "pic": 45,
+      "montee_ms": 30,
+      "descente_ms": 240,
+      "pourquoi": "Transition flash entre deux idées."
+    },
+    {
+      "t_ms": 35700,
+      "couleur": "#FFFFFF",
+      "pic": 45,
+      "montee_ms": 30,
+      "descente_ms": 240,
+      "pourquoi": "Transition flash entre deux idées."
+    }
+  ],
+  "sfx": [
+    {
+      "id": "clic-de-photo-09",
+      "t_ms": 5913,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "Transition flash : déclencheur photo."
+    },
+    {
+      "id": "clic-de-photo-09",
+      "t_ms": 14680,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "Transition flash : déclencheur photo."
+    },
+    {
+      "id": "clic-de-photo-09",
+      "t_ms": 26247,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "Transition flash : déclencheur photo."
+    },
+    {
+      "id": "clic-de-photo-09",
+      "t_ms": 35680,
+      "calage": "debut",
+      "sous_voix_db": 13,
+      "pourquoi": "Transition flash : déclencheur photo."
+    },
+    {
+      "id": "clock-tension-7",
+      "t_ms": 0,
+      "calage": "debut",
+      "duree_ms": 1533,
+      "sous_voix_db": 19,
+      "pourquoi": "Accroche : tic-tac de l'horloge, le retard."
+    },
+    {
+      "id": "impact-doux",
+      "t_ms": 1100,
+      "sous_voix_db": 14,
+      "pourquoi": "« RETARD » : impact avec le zoom."
+    },
+    {
+      "id": "paper-ease-out-1",
+      "t_ms": 1785,
+      "calage": "debut",
+      "sous_voix_db": 15,
+      "pourquoi": "Les pages de calendrier."
+    },
+    {
+      "id": "pop-bloup",
+      "t_ms": 5175,
+      "sous_voix_db": 14,
+      "pourquoi": "Le drapeau chinois."
+    },
+    {
+      "id": "cinemear-graphix-pop-finger-drum-on-a-tiny-vase",
+      "t_ms": 6720,
+      "sous_voix_db": 13,
+      "pourquoi": "Logo Boonbuy."
+    },
+    {
+      "id": "punch",
+      "t_ms": 8660,
+      "sous_voix_db": 14,
+      "pourquoi": "Tampon OUVERT."
+    },
+    {
+      "id": "short-punchy-sine-wave-ding-4-d-211755",
+      "t_ms": 10440,
+      "calage": "debut",
+      "sous_voix_db": 16,
+      "pourquoi": "Coche « achats » : ding de validation."
+    },
+    {
+      "id": "short-punchy-sine-wave-ding-4-d-211755",
+      "t_ms": 11110,
+      "calage": "debut",
+      "sous_voix_db": 16,
+      "pourquoi": "Coche « photos » : ding de validation."
+    },
+    {
+      "id": "short-punchy-sine-wave-ding-4-d-211755",
+      "t_ms": 12180,
+      "calage": "debut",
+      "sous_voix_db": 16,
+      "pourquoi": "Coche « l'expédition » : ding de validation."
+    },
+    {
+      "id": "pop-bloup",
+      "t_ms": 15805,
+      "sous_voix_db": 13,
+      "pourquoi": "« les vendeurs »."
+    },
+    {
+      "id": "jug-pop-3-186888",
+      "t_ms": 17305,
+      "sous_voix_db": 13,
+      "pourquoi": "Carte « aucune info »."
+    },
+    {
+      "id": "minimal-pop-click-ui-3-198303",
+      "t_ms": 21830,
+      "sous_voix_db": 15,
+      "pourquoi": "« en vacances »."
+    },
+    {
+      "id": "whoosh-air-court",
+      "t_ms": 23135,
+      "sous_voix_db": 15,
+      "pourquoi": "Le trajet vendeur -> entrepôt."
+    },
+    {
+      "id": "cinematic-ease-out-1",
+      "t_ms": 26775,
+      "calage": "debut",
+      "sous_voix_db": 14,
+      "pourquoi": "Zoom « vraiment compliqué »."
+    },
+    {
+      "id": "whoosh-air-court",
+      "t_ms": 29060,
+      "sous_voix_db": 13,
+      "pourquoi": "L'avion passe : souffle."
+    },
+    {
+      "id": "punch",
+      "t_ms": 29890,
+      "sous_voix_db": 14,
+      "pourquoi": "Tampon ANNULÉ (même coup que OUVERT : écho)."
+    },
+    {
+      "id": "cinematic-ease-out-2",
+      "t_ms": 33320,
+      "calage": "debut",
+      "sous_voix_db": 15,
+      "pourquoi": "La courbe du prix qui monte."
+    },
+    {
+      "id": "paper-ease-out-1",
+      "t_ms": 37250,
+      "calage": "debut",
+      "sous_voix_db": 15,
+      "pourquoi": "Calendrier « avant le 25 »."
+    },
+    {
+      "id": "cash-register-3",
+      "t_ms": 39980,
+      "sous_voix_db": 13,
+      "pourquoi": "« -40 % »."
+    },
+    {
+      "id": "coins",
+      "t_ms": 40750,
+      "calage": "debut",
+      "pourquoi": "« -500 $ »."
+    },
+    {
+      "id": "click-02",
+      "t_ms": 42630,
+      "calage": "debut",
+      "sous_voix_db": 14,
+      "pourquoi": "Le bouton lien en bio."
+    }
+  ],
+  "sous_titres": {
+    "preset": "sover8-pop",
+    "mots": [
+      {
+        "mot": "Ton",
+        "debut_ms": 40,
+        "fin_ms": 100,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "prochain",
+        "debut_ms": 130,
+        "fin_ms": 460,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "haul",
+        "debut_ms": 460,
+        "fin_ms": 660,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "va",
+        "debut_ms": 660,
+        "fin_ms": 820,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "prendre",
+        "debut_ms": 820,
+        "fin_ms": 1000,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "du",
+        "debut_ms": 1000,
+        "fin_ms": 1100,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "retard.",
+        "debut_ms": 1100,
+        "fin_ms": 1340,
+        "prise": "Accroche"
+      },
+      {
+        "mot": "Eh",
+        "debut_ms": 1475,
+        "fin_ms": 1555,
+        "prise": "Dates"
+      },
+      {
+        "mot": "oui,",
+        "debut_ms": 1565,
+        "fin_ms": 1695,
+        "prise": "Dates"
+      },
+      {
+        "mot": "du",
+        "debut_ms": 1795,
+        "fin_ms": 1855,
+        "prise": "Dates"
+      },
+      {
+        "mot": "25",
+        "debut_ms": 1885,
+        "fin_ms": 2235,
+        "prise": "Dates"
+      },
+      {
+        "mot": "au",
+        "debut_ms": 2235,
+        "fin_ms": 2475,
+        "prise": "Dates"
+      },
+      {
+        "mot": "27",
+        "debut_ms": 2475,
+        "fin_ms": 2795,
+        "prise": "Dates"
+      },
+      {
+        "mot": "septembre",
+        "debut_ms": 2795,
+        "fin_ms": 3435,
+        "prise": "Dates"
+      },
+      {
+        "mot": "et",
+        "debut_ms": 3435,
+        "fin_ms": 3595,
+        "prise": "Dates"
+      },
+      {
+        "mot": "du",
+        "debut_ms": 3595,
+        "fin_ms": 3755,
+        "prise": "Dates"
+      },
+      {
+        "mot": "1er",
+        "debut_ms": 3755,
+        "fin_ms": 3995,
+        "prise": "Dates"
+      },
+      {
+        "mot": "au",
+        "debut_ms": 3995,
+        "fin_ms": 4195,
+        "prise": "Dates"
+      },
+      {
+        "mot": "7",
+        "debut_ms": 4195,
+        "fin_ms": 4395,
+        "prise": "Dates"
+      },
+      {
+        "mot": "octobre,",
+        "debut_ms": 4395,
+        "fin_ms": 4875,
+        "prise": "Dates"
+      },
+      {
+        "mot": "il",
+        "debut_ms": 4915,
+        "fin_ms": 4995,
+        "prise": "Dates"
+      },
+      {
+        "mot": "y",
+        "debut_ms": 5005,
+        "fin_ms": 5065,
+        "prise": "Dates"
+      },
+      {
+        "mot": "aura",
+        "debut_ms": 5095,
+        "fin_ms": 5155,
+        "prise": "Dates"
+      },
+      {
+        "mot": "des",
+        "debut_ms": 5185,
+        "fin_ms": 5245,
+        "prise": "Dates"
+      },
+      {
+        "mot": "vacances",
+        "debut_ms": 5275,
+        "fin_ms": 5475,
+        "prise": "Dates"
+      },
+      {
+        "mot": "en",
+        "debut_ms": 5475,
+        "fin_ms": 5595,
+        "prise": "Dates"
+      },
+      {
+        "mot": "Chine.",
+        "debut_ms": 5595,
+        "fin_ms": 5795,
+        "prise": "Dates"
+      },
+      {
+        "mot": "Le",
+        "debut_ms": 5880,
+        "fin_ms": 5960,
+        "prise": "Positif"
+      },
+      {
+        "mot": "point",
+        "debut_ms": 5970,
+        "fin_ms": 6100,
+        "prise": "Positif"
+      },
+      {
+        "mot": "positif,",
+        "debut_ms": 6100,
+        "fin_ms": 6560,
+        "prise": "Positif"
+      },
+      {
+        "mot": "c'est",
+        "debut_ms": 6640,
+        "fin_ms": 6700,
+        "prise": "Positif"
+      },
+      {
+        "mot": "que",
+        "debut_ms": 6730,
+        "fin_ms": 6790,
+        "prise": "Positif"
+      },
+      {
+        "mot": "Boonbuy",
+        "debut_ms": 6820,
+        "fin_ms": 7020,
+        "prise": "Positif"
+      },
+      {
+        "mot": "ne",
+        "debut_ms": 7020,
+        "fin_ms": 7440,
+        "prise": "Positif"
+      },
+      {
+        "mot": "part",
+        "debut_ms": 7440,
+        "fin_ms": 7580,
+        "prise": "Positif"
+      },
+      {
+        "mot": "pas",
+        "debut_ms": 7580,
+        "fin_ms": 7680,
+        "prise": "Positif"
+      },
+      {
+        "mot": "en",
+        "debut_ms": 7680,
+        "fin_ms": 7760,
+        "prise": "Positif"
+      },
+      {
+        "mot": "vacances,",
+        "debut_ms": 7770,
+        "fin_ms": 8140,
+        "prise": "Positif"
+      },
+      {
+        "mot": "donc",
+        "debut_ms": 8340,
+        "fin_ms": 8420,
+        "prise": "Positif"
+      },
+      {
+        "mot": "il",
+        "debut_ms": 8430,
+        "fin_ms": 8560,
+        "prise": "Positif"
+      },
+      {
+        "mot": "reste",
+        "debut_ms": 8560,
+        "fin_ms": 8720,
+        "prise": "Positif"
+      },
+      {
+        "mot": "ouvert,",
+        "debut_ms": 8720,
+        "fin_ms": 9040,
+        "prise": "Positif"
+      },
+      {
+        "mot": "ça",
+        "debut_ms": 9160,
+        "fin_ms": 9220,
+        "prise": "Positif"
+      },
+      {
+        "mot": "tourne",
+        "debut_ms": 9250,
+        "fin_ms": 9440,
+        "prise": "Positif"
+      },
+      {
+        "mot": "comme",
+        "debut_ms": 9440,
+        "fin_ms": 9600,
+        "prise": "Positif"
+      },
+      {
+        "mot": "d'habitude,",
+        "debut_ms": 9600,
+        "fin_ms": 9920,
+        "prise": "Positif"
+      },
+      {
+        "mot": "que",
+        "debut_ms": 9960,
+        "fin_ms": 10160,
+        "prise": "Positif"
+      },
+      {
+        "mot": "ce",
+        "debut_ms": 10160,
+        "fin_ms": 10300,
+        "prise": "Positif"
+      },
+      {
+        "mot": "soit",
+        "debut_ms": 10300,
+        "fin_ms": 10400,
+        "prise": "Positif"
+      },
+      {
+        "mot": "les",
+        "debut_ms": 10400,
+        "fin_ms": 10540,
+        "prise": "Positif"
+      },
+      {
+        "mot": "achats,",
+        "debut_ms": 10540,
+        "fin_ms": 10940,
+        "prise": "Positif"
+      },
+      {
+        "mot": "les",
+        "debut_ms": 11120,
+        "fin_ms": 11200,
+        "prise": "Positif"
+      },
+      {
+        "mot": "photos",
+        "debut_ms": 11210,
+        "fin_ms": 11400,
+        "prise": "Positif"
+      },
+      {
+        "mot": "QC,",
+        "debut_ms": 11400,
+        "fin_ms": 11780,
+        "prise": "Positif"
+      },
+      {
+        "mot": "l'expédition,",
+        "debut_ms": 12280,
+        "fin_ms": 13020,
+        "prise": "Positif"
+      },
+      {
+        "mot": "etc.",
+        "debut_ms": 13120,
+        "fin_ms": 13300,
+        "prise": "Positif"
+      },
+      {
+        "mot": "Tout",
+        "debut_ms": 13600,
+        "fin_ms": 13760,
+        "prise": "Positif"
+      },
+      {
+        "mot": "reste",
+        "debut_ms": 13760,
+        "fin_ms": 14040,
+        "prise": "Positif"
+      },
+      {
+        "mot": "comme",
+        "debut_ms": 14040,
+        "fin_ms": 14180,
+        "prise": "Positif"
+      },
+      {
+        "mot": "d'habitude.",
+        "debut_ms": 14180,
+        "fin_ms": 14480,
+        "prise": "Positif"
+      },
+      {
+        "mot": "Le",
+        "debut_ms": 14625,
+        "fin_ms": 14725,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "point",
+        "debut_ms": 14725,
+        "fin_ms": 14885,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "pas",
+        "debut_ms": 14885,
+        "fin_ms": 15025,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "ouf,",
+        "debut_ms": 15025,
+        "fin_ms": 15305,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "c'est",
+        "debut_ms": 15385,
+        "fin_ms": 15545,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "concernant",
+        "debut_ms": 15545,
+        "fin_ms": 15805,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "les",
+        "debut_ms": 15805,
+        "fin_ms": 15905,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "vendeurs,",
+        "debut_ms": 15905,
+        "fin_ms": 16305,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "parce",
+        "debut_ms": 16445,
+        "fin_ms": 16605,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "que",
+        "debut_ms": 16605,
+        "fin_ms": 16705,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "chez",
+        "debut_ms": 16705,
+        "fin_ms": 16825,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "eux,",
+        "debut_ms": 16825,
+        "fin_ms": 17085,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "on",
+        "debut_ms": 17225,
+        "fin_ms": 17285,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "n'a",
+        "debut_ms": 17315,
+        "fin_ms": 17375,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "aucune",
+        "debut_ms": 17405,
+        "fin_ms": 17625,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "information,",
+        "debut_ms": 17625,
+        "fin_ms": 18085,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "ça",
+        "debut_ms": 18285,
+        "fin_ms": 18345,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "va",
+        "debut_ms": 18375,
+        "fin_ms": 18445,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "dépendre",
+        "debut_ms": 18465,
+        "fin_ms": 18705,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "de",
+        "debut_ms": 18705,
+        "fin_ms": 18765,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "chaque",
+        "debut_ms": 18795,
+        "fin_ms": 18905,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "vendeur.",
+        "debut_ms": 18905,
+        "fin_ms": 19245,
+        "prise": "Vendeurs"
+      },
+      {
+        "mot": "Certains",
+        "debut_ms": 19330,
+        "fin_ms": 19750,
+        "prise": "Certains"
+      },
+      {
+        "mot": "vont",
+        "debut_ms": 19750,
+        "fin_ms": 19870,
+        "prise": "Certains"
+      },
+      {
+        "mot": "rester",
+        "debut_ms": 19870,
+        "fin_ms": 20130,
+        "prise": "Certains"
+      },
+      {
+        "mot": "comme",
+        "debut_ms": 20130,
+        "fin_ms": 20310,
+        "prise": "Certains"
+      },
+      {
+        "mot": "d'habitude",
+        "debut_ms": 20310,
+        "fin_ms": 20650,
+        "prise": "Certains"
+      },
+      {
+        "mot": "et",
+        "debut_ms": 20650,
+        "fin_ms": 21030,
+        "prise": "Certains"
+      },
+      {
+        "mot": "d'autres",
+        "debut_ms": 21030,
+        "fin_ms": 21310,
+        "prise": "Certains"
+      },
+      {
+        "mot": "vont",
+        "debut_ms": 21310,
+        "fin_ms": 21490,
+        "prise": "Certains"
+      },
+      {
+        "mot": "partir",
+        "debut_ms": 21490,
+        "fin_ms": 21790,
+        "prise": "Certains"
+      },
+      {
+        "mot": "en",
+        "debut_ms": 21790,
+        "fin_ms": 21930,
+        "prise": "Certains"
+      },
+      {
+        "mot": "vacances.",
+        "debut_ms": 21930,
+        "fin_ms": 22270,
+        "prise": "Certains"
+      },
+      {
+        "mot": "Donc",
+        "debut_ms": 22395,
+        "fin_ms": 22535,
+        "prise": "Delais"
+      },
+      {
+        "mot": "tu",
+        "debut_ms": 22535,
+        "fin_ms": 22655,
+        "prise": "Delais"
+      },
+      {
+        "mot": "risques",
+        "debut_ms": 22655,
+        "fin_ms": 22895,
+        "prise": "Delais"
+      },
+      {
+        "mot": "d'avoir",
+        "debut_ms": 22895,
+        "fin_ms": 23115,
+        "prise": "Delais"
+      },
+      {
+        "mot": "des",
+        "debut_ms": 23115,
+        "fin_ms": 23235,
+        "prise": "Delais"
+      },
+      {
+        "mot": "délais",
+        "debut_ms": 23235,
+        "fin_ms": 23415,
+        "prise": "Delais"
+      },
+      {
+        "mot": "supplémentaires",
+        "debut_ms": 23415,
+        "fin_ms": 24215,
+        "prise": "Delais"
+      },
+      {
+        "mot": "de",
+        "debut_ms": 24215,
+        "fin_ms": 24515,
+        "prise": "Delais"
+      },
+      {
+        "mot": "ton",
+        "debut_ms": 24515,
+        "fin_ms": 24655,
+        "prise": "Delais"
+      },
+      {
+        "mot": "vendeur",
+        "debut_ms": 24655,
+        "fin_ms": 25035,
+        "prise": "Delais"
+      },
+      {
+        "mot": "jusqu'à",
+        "debut_ms": 25035,
+        "fin_ms": 25395,
+        "prise": "Delais"
+      },
+      {
+        "mot": "l'entrepôt",
+        "debut_ms": 25395,
+        "fin_ms": 25735,
+        "prise": "Delais"
+      },
+      {
+        "mot": "Boonbuy.",
+        "debut_ms": 25735,
+        "fin_ms": 25935,
+        "prise": "Delais"
+      },
+      {
+        "mot": "Et",
+        "debut_ms": 26215,
+        "fin_ms": 26275,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "le",
+        "debut_ms": 26305,
+        "fin_ms": 26365,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "point",
+        "debut_ms": 26395,
+        "fin_ms": 26515,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "vraiment",
+        "debut_ms": 26515,
+        "fin_ms": 26775,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "compliqué,",
+        "debut_ms": 26775,
+        "fin_ms": 27235,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "c'est",
+        "debut_ms": 27435,
+        "fin_ms": 27515,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "qu'après",
+        "debut_ms": 27525,
+        "fin_ms": 27755,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "les",
+        "debut_ms": 27755,
+        "fin_ms": 27895,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "fêtes,",
+        "debut_ms": 27895,
+        "fin_ms": 28155,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "l'hiver",
+        "debut_ms": 28315,
+        "fin_ms": 28595,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "arrive.",
+        "debut_ms": 28595,
+        "fin_ms": 28895,
+        "prise": "Hiver"
+      },
+      {
+        "mot": "Les",
+        "debut_ms": 29070,
+        "fin_ms": 29150,
+        "prise": "Vols"
+      },
+      {
+        "mot": "compagnies",
+        "debut_ms": 29160,
+        "fin_ms": 29550,
+        "prise": "Vols"
+      },
+      {
+        "mot": "aériennes",
+        "debut_ms": 29550,
+        "fin_ms": 29830,
+        "prise": "Vols"
+      },
+      {
+        "mot": "vont",
+        "debut_ms": 29830,
+        "fin_ms": 29950,
+        "prise": "Vols"
+      },
+      {
+        "mot": "couper",
+        "debut_ms": 29950,
+        "fin_ms": 30230,
+        "prise": "Vols"
+      },
+      {
+        "mot": "les",
+        "debut_ms": 30230,
+        "fin_ms": 30330,
+        "prise": "Vols"
+      },
+      {
+        "mot": "vols,",
+        "debut_ms": 30330,
+        "fin_ms": 30630,
+        "prise": "Vols"
+      },
+      {
+        "mot": "c'est-à-dire",
+        "debut_ms": 30670,
+        "fin_ms": 30870,
+        "prise": "Vols"
+      },
+      {
+        "mot": "moins",
+        "debut_ms": 30870,
+        "fin_ms": 31050,
+        "prise": "Vols"
+      },
+      {
+        "mot": "de",
+        "debut_ms": 31050,
+        "fin_ms": 31170,
+        "prise": "Vols"
+      },
+      {
+        "mot": "vols,",
+        "debut_ms": 31170,
+        "fin_ms": 31510,
+        "prise": "Vols"
+      },
+      {
+        "mot": "moins",
+        "debut_ms": 31570,
+        "fin_ms": 31690,
+        "prise": "Vols"
+      },
+      {
+        "mot": "de",
+        "debut_ms": 31690,
+        "fin_ms": 31770,
+        "prise": "Vols"
+      },
+      {
+        "mot": "place",
+        "debut_ms": 31780,
+        "fin_ms": 31930,
+        "prise": "Vols"
+      },
+      {
+        "mot": "dans",
+        "debut_ms": 31930,
+        "fin_ms": 32030,
+        "prise": "Vols"
+      },
+      {
+        "mot": "les",
+        "debut_ms": 32030,
+        "fin_ms": 32130,
+        "prise": "Vols"
+      },
+      {
+        "mot": "soutes.",
+        "debut_ms": 32130,
+        "fin_ms": 32490,
+        "prise": "Vols"
+      },
+      {
+        "mot": "Donc",
+        "debut_ms": 32520,
+        "fin_ms": 32580,
+        "prise": "Cher"
+      },
+      {
+        "mot": "forcément",
+        "debut_ms": 32610,
+        "fin_ms": 32900,
+        "prise": "Cher"
+      },
+      {
+        "mot": "plus",
+        "debut_ms": 32900,
+        "fin_ms": 33420,
+        "prise": "Cher"
+      },
+      {
+        "mot": "cher",
+        "debut_ms": 33420,
+        "fin_ms": 33780,
+        "prise": "Cher"
+      },
+      {
+        "mot": "et",
+        "debut_ms": 33780,
+        "fin_ms": 34160,
+        "prise": "Cher"
+      },
+      {
+        "mot": "potentiellement",
+        "debut_ms": 34160,
+        "fin_ms": 34800,
+        "prise": "Cher"
+      },
+      {
+        "mot": "plus",
+        "debut_ms": 34800,
+        "fin_ms": 34960,
+        "prise": "Cher"
+      },
+      {
+        "mot": "de",
+        "debut_ms": 34960,
+        "fin_ms": 35100,
+        "prise": "Cher"
+      },
+      {
+        "mot": "délai",
+        "debut_ms": 35100,
+        "fin_ms": 35300,
+        "prise": "Cher"
+      },
+      {
+        "mot": "aussi.",
+        "debut_ms": 35300,
+        "fin_ms": 35480,
+        "prise": "Cher"
+      },
+      {
+        "mot": "Donc",
+        "debut_ms": 35630,
+        "fin_ms": 35770,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "si",
+        "debut_ms": 35770,
+        "fin_ms": 35910,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "tu",
+        "debut_ms": 35910,
+        "fin_ms": 35990,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "avais",
+        "debut_ms": 36000,
+        "fin_ms": 36170,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "un",
+        "debut_ms": 36170,
+        "fin_ms": 36290,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "haul",
+        "debut_ms": 36290,
+        "fin_ms": 36470,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "en",
+        "debut_ms": 36470,
+        "fin_ms": 36610,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "tête,",
+        "debut_ms": 36610,
+        "fin_ms": 36770,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "fais-le",
+        "debut_ms": 36910,
+        "fin_ms": 37090,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "maintenant",
+        "debut_ms": 37090,
+        "fin_ms": 37350,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "avant",
+        "debut_ms": 37350,
+        "fin_ms": 37630,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "le",
+        "debut_ms": 37630,
+        "fin_ms": 37730,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "25,",
+        "debut_ms": 37730,
+        "fin_ms": 38010,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "comme",
+        "debut_ms": 38270,
+        "fin_ms": 38350,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "ça",
+        "debut_ms": 38360,
+        "fin_ms": 38450,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "tu",
+        "debut_ms": 38450,
+        "fin_ms": 38570,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "n'auras",
+        "debut_ms": 38570,
+        "fin_ms": 38730,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "pas",
+        "debut_ms": 38730,
+        "fin_ms": 38830,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "de",
+        "debut_ms": 38830,
+        "fin_ms": 38910,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "problème.",
+        "debut_ms": 38920,
+        "fin_ms": 39170,
+        "prise": "Maintenant"
+      },
+      {
+        "mot": "Et",
+        "debut_ms": 39350,
+        "fin_ms": 39410,
+        "prise": "CTA"
+      },
+      {
+        "mot": "comme",
+        "debut_ms": 39440,
+        "fin_ms": 39550,
+        "prise": "CTA"
+      },
+      {
+        "mot": "d'habitude,",
+        "debut_ms": 39550,
+        "fin_ms": 39850,
+        "prise": "CTA"
+      },
+      {
+        "mot": "t'as",
+        "debut_ms": 39990,
+        "fin_ms": 40070,
+        "prise": "CTA"
+      },
+      {
+        "mot": "-40%",
+        "debut_ms": 40080,
+        "fin_ms": 40710,
+        "prise": "CTA"
+      },
+      {
+        "mot": "et",
+        "debut_ms": 40710,
+        "fin_ms": 40850,
+        "prise": "CTA"
+      },
+      {
+        "mot": "-500$",
+        "debut_ms": 40850,
+        "fin_ms": 41350,
+        "prise": "CTA"
+      },
+      {
+        "mot": "en",
+        "debut_ms": 41350,
+        "fin_ms": 41490,
+        "prise": "CTA"
+      },
+      {
+        "mot": "coupon",
+        "debut_ms": 41490,
+        "fin_ms": 41790,
+        "prise": "CTA"
+      },
+      {
+        "mot": "en",
+        "debut_ms": 41790,
+        "fin_ms": 42010,
+        "prise": "CTA"
+      },
+      {
+        "mot": "t'inscrivant",
+        "debut_ms": 42010,
+        "fin_ms": 42410,
+        "prise": "CTA"
+      },
+      {
+        "mot": "avec",
+        "debut_ms": 42410,
+        "fin_ms": 42610,
+        "prise": "CTA"
+      },
+      {
+        "mot": "le",
+        "debut_ms": 42610,
+        "fin_ms": 42730,
+        "prise": "CTA"
+      },
+      {
+        "mot": "lien",
+        "debut_ms": 42730,
+        "fin_ms": 42850,
+        "prise": "CTA"
+      },
+      {
+        "mot": "qui",
+        "debut_ms": 42850,
+        "fin_ms": 42970,
+        "prise": "CTA"
+      },
+      {
+        "mot": "est",
+        "debut_ms": 42970,
+        "fin_ms": 43030,
+        "prise": "CTA"
+      },
+      {
+        "mot": "dans",
+        "debut_ms": 43060,
+        "fin_ms": 43120,
+        "prise": "CTA"
+      },
+      {
+        "mot": "ma",
+        "debut_ms": 43150,
+        "fin_ms": 43210,
+        "prise": "CTA"
+      },
+      {
+        "mot": "bio.",
+        "debut_ms": 43240,
+        "fin_ms": 43270,
+        "prise": "CTA"
+      }
+    ],
+    "cles": [
+      {
+        "mot": "retard.",
+        "t_ms": 1100
+      },
+      {
+        "mot": "Chine.",
+        "t_ms": 5595
+      },
+      {
+        "mot": "ouvert,",
+        "t_ms": 8720
+      },
+      {
+        "mot": "vendeurs,",
+        "t_ms": 15905
+      },
+      {
+        "mot": "compliqué,",
+        "t_ms": 26775
+      },
+      {
+        "mot": "maintenant",
+        "t_ms": 37090
+      },
+      {
+        "mot": "-40%",
+        "t_ms": 40080
+      },
+      {
+        "mot": "-500$",
+        "t_ms": 40850
+      }
+    ],
+    "lignes": [
+      "Ton prochain haul",
+      "va prendre du retard.",
+      "Eh oui,",
+      "du 25 au 27 septembre",
+      "et du 1er au 7 octobre,",
+      "il y aura",
+      "des vacances en Chine.",
+      "Le point positif,",
+      "c'est que Boonbuy",
+      "ne part pas en vacances,",
+      "donc il reste ouvert,",
+      "ça tourne",
+      "comme d'habitude,",
+      "que ce soit",
+      "les achats,",
+      "les photos QC,",
+      "l'expédition, etc.",
+      "Tout reste",
+      "comme d'habitude.",
+      "Le point pas ouf,",
+      "c'est concernant",
+      "les vendeurs,",
+      "parce que chez eux,",
+      "on n'a aucune information,",
+      "ça va dépendre",
+      "de chaque vendeur.",
+      "Certains vont rester",
+      "comme d'habitude",
+      "et d'autres vont partir",
+      "en vacances.",
+      "Donc tu risques",
+      "d'avoir des délais",
+      "supplémentaires",
+      "de ton vendeur",
+      "jusqu'à l'entrepôt",
+      "Boonbuy.",
+      "Et le point",
+      "vraiment compliqué,",
+      "c'est qu'après les fêtes,",
+      "l'hiver arrive.",
+      "Les compagnies aériennes",
+      "vont couper les vols,",
+      "c'est-à-dire",
+      "moins de vols,",
+      "moins de place",
+      "dans les soutes.",
+      "Donc forcément",
+      "plus cher",
+      "et potentiellement",
+      "plus de délai aussi.",
+      "Donc si tu avais",
+      "un haul en tête,",
+      "fais-le maintenant",
+      "avant le 25,",
+      "comme ça tu n'auras",
+      "pas de problème.",
+      "Et comme d'habitude,",
+      "t'as -40%",
+      "et -500$ en coupon",
+      "en t'inscrivant",
+      "avec le lien",
+      "qui est dans ma bio."
+    ]
+  }
+}

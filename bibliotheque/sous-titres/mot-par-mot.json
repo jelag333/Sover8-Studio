@@ -1,0 +1,40 @@
+{
+  "id": "mot-par-mot",
+  "nom": "Mot par mot",
+  "police": "anton-regular",
+  "taille": 130,
+  "couleur": "#FFFFFF",
+  "contour": {
+    "couleur": "#000000",
+    "epaisseur": 8
+  },
+  "ombre": {
+    "couleur": "#000000A0",
+    "flou": 14,
+    "decalage": [
+      0,
+      6
+    ]
+  },
+  "majuscules": true,
+  "mode": "mot",
+  "mots_max": 1,
+  "zone": "centre",
+  "largeur": 0.9,
+  "lignes": 1,
+  "entree": {
+    "anim": "pop",
+    "duree_ms": 110
+  },
+  "description": "Un seul mot géant à la fois, au centre : très rythmé.",
+  "usage": {
+    "role": "sous-titres",
+    "quand": "Pubs, hooks, montages très rapides, voix off énergique.",
+    "eviter": "Face caméra (cache le visage) ; débit lent.",
+    "placement": "Centre de l'écran, ou 'tiers-haut' si un visage est au centre.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "type": "sous-titres",
+  "chasse": 0.47
+}

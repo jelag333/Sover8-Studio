@@ -1,0 +1,90 @@
+[
+  {
+    "nom": "Accroche",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2856/rushes/selects-1440.mp4",
+    "debut_ms": 423,
+    "fin_ms": 2656,
+    "volume": 0.0,
+    "source_rush_ms": [
+      18590,
+      20823
+    ]
+  },
+  {
+    "nom": "Cause",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2856/rushes/selects-1440.mp4",
+    "debut_ms": 3496,
+    "fin_ms": 7296,
+    "volume": 0.0,
+    "source_rush_ms": [
+      47363,
+      51163
+    ]
+  },
+  {
+    "nom": "Sugargoo",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2856/rushes/selects-1440.mp4",
+    "debut_ms": 8101,
+    "fin_ms": 10768,
+    "volume": 0.0,
+    "source_rush_ms": [
+      95868,
+      98535
+    ]
+  },
+  {
+    "nom": "Marques",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2856/rushes/selects-1440.mp4",
+    "debut_ms": 11628,
+    "fin_ms": 16995,
+    "volume": 0.0,
+    "source_rush_ms": [
+      98895,
+      104262
+    ]
+  },
+  {
+    "nom": "Personne",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2856/rushes/selects-1440.mp4",
+    "debut_ms": 17830,
+    "fin_ms": 20730,
+    "volume": 0.0,
+    "source_rush_ms": [
+      115997,
+      118897
+    ]
+  },
+  {
+    "nom": "Fin",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2856/rushes/selects-1440.mp4",
+    "debut_ms": 21537,
+    "fin_ms": 25703,
+    "volume": 0.0,
+    "source_rush_ms": [
+      181437,
+      185603
+    ]
+  },
+  {
+    "nom": "Compliqué",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2856/rushes/selects-1440.mp4",
+    "debut_ms": 26560,
+    "fin_ms": 28594,
+    "volume": 0.0,
+    "source_rush_ms": [
+      185893,
+      187927
+    ]
+  },
+  {
+    "nom": "CTA",
+    "fichier": "C:/Users/mtzti/Documents/Studio Tesseract/Projets/img2856/rushes/selects-1440.mp4",
+    "debut_ms": 29405,
+    "fin_ms": 37838,
+    "volume": 0.0,
+    "source_rush_ms": [
+      220972,
+      229405
+    ]
+  }
+]

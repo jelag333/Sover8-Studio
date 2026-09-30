@@ -1,0 +1,42 @@
+{
+  "id": "karaoke-jaune",
+  "nom": "Karaoké jaune",
+  "police": "poppins-black",
+  "taille": 76,
+  "couleur": "#FFFFFF",
+  "couleur_active": "#FFD400",
+  "contour": {
+    "couleur": "#000000",
+    "epaisseur": 7
+  },
+  "ombre": {
+    "couleur": "#000000A0",
+    "flou": 14,
+    "decalage": [
+      0,
+      6
+    ]
+  },
+  "majuscules": true,
+  "mode": "karaoke",
+  "mots_max": 3,
+  "caracteres_max": 20,
+  "zone": "bas",
+  "largeur": 0.88,
+  "lignes": 2,
+  "entree": {
+    "anim": "pop",
+    "duree_ms": 140
+  },
+  "description": "Style shorts : 2 à 3 mots, le mot prononcé passe en jaune.",
+  "usage": {
+    "role": "sous-titres",
+    "quand": "Shorts, Reels, TikTok avec voix face caméra.",
+    "eviter": "Vidéos longues posées (fatigue).",
+    "placement": "Zone basse (70 % de la hauteur), au-dessus des boutons des applis.",
+    "calage": "debut",
+    "volume": 0
+  },
+  "type": "sous-titres",
+  "chasse": 0.72
+}
