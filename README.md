@@ -1,6 +1,6 @@
 # Sover8 Studio
 
-Le studio de montage automatique construit avec **Sover8** (Claude) sur la CLI **Tesseract**, et **tout ce qui a été
+Le studio de montage automatique construit avec **Sover8** sur la CLI **Tesseract**, et **tout ce qui a été
 appris** depuis le premier jour : dérushage, zooms, motion design, sound design, sous-titres, musique, colorimétrie,
 transitions et edits.
 
